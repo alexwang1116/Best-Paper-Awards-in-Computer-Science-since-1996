@@ -15,10 +15,11 @@
 #### Best Long Papers
 
 
-- ***[Finding syntax in human encephalography with beam search](http://aclweb.org/anthology/P18-1254)***. John Hale, Chris Dyer, Adhiguna Kuncoro and Jonathan Brennan.
+- ***[Finding syntax in human encephalography with beam search](http://aclweb.org/anthology/P18-1254).*** John Hale, Chris Dyer, Adhiguna Kuncoro and Jonathan Brennan.
 - ***[Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.](http://aclweb.org/anthology/P18-1255)*** Sudha Rao and Hal Daumé III.
 - ***[Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers.](http://aclweb.org/anthology/P18-1256)*** Andre Cianflone,* Yulan Feng,* Jad Kabbara* and Jackie Chi Kit Cheung. (* equal contribution)
-####Best Short Papers
+
+#### Best Short Papers
 
 
 - ***[Know What You Don’t Know: Unanswerable Questions for SQuAD.](http://aclweb.org/anthology/P18-2124)*** Pranav Rajpurkar, Robin Jia and Percy Liang
