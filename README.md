@@ -127,11 +127,13 @@ Tam Vu (Rutgers University, USA), Akash Baid (Rutgers University, USA), Simon Ga
 
 #### Best Paper Award
 
-***E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks***
-Xinyu Zhang (University of Michigan-Ann Arbor, USA) and Kang G. Shin (University of Michigan-Ann Arbor, USA) 
 
 
-***Detecting Driver Phone Use Leveraging Car Speakers***
+- ***E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks***
+Xinyu Zhang (University of Michigan-Ann Arbor, USA) and Kang G. Shin (University of Michigan-Ann Arbor, USA)
+
+
+- ***Detecting Driver Phone Use Leveraging Car Speakers***
 Jie Yang (Stevens Institute of Technology, USA), Simon Sdhom (Stevens Institute of Technology, USA), Gayathri Chandrasekaran (Rutgers University, USA), Tam Vu (Stevens Institute of Technology, USA), Hongbo Liu (Stevens Institute of Technology, USA), Nicolae Cecan (Rutgers University, USA), Yingying Chen (Stevens Institute of Technology, USA), Marco Gruteser (Rutgers University, USA), and Richard P. Martin (Rutgers University, USA)
 
 
@@ -175,6 +177,8 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 #### Best Student Paper Award
 
 
+***Crossing Over the Bounded Domain: From Exponential to Power-law Inter-meeting Time in MANET***
+Han Cai and Do Young Eun (North Carolina State University)
 
 
 
@@ -183,6 +187,8 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 #### Best Student Paper Award
 
 
+***A Measurement Study of Vehicular Internet Access Using In Situ Wi-Fi Networks***
+Vladimir Bychkovsky, Bret Hull, Allen K. Miu, Hari Balakrishnan, Samuel Madden (Massachusetts Institute of Technology, USA)
 
 
 ### Mobicom 2005 (the 11th Annual International Conference on Mobile Computing and Networking) ()
@@ -190,11 +196,20 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 #### Best Student Paper Award
 
 
+***Architecture and Evaluation of an Unplanned 802.11b Mesh Network***
+John Bicket, Daniel Aguayo, Sanjit Biswas, and Robert Morris (Massachusetts Institute of Technology, USA)
+
+
 
 
 ### Mobicom 2004 (the 10th Annual International Conference on Mobile Computing and Networking) ()
 
 #### Best Student Paper Award
+
+
+***MobiDesk: Mobile Virtual Desktop Computing***
+Ricardo A. Baratto, Shaya Potter, Gong Su, Jason Nieh (Columbia University, USA)
+
 
 
 
@@ -205,6 +220,10 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 
 
 
+***A Receiver-Centric Transport Protocol for Mobile Hosts with Heterogeneous Wireless Interfaces***
+Hung-Yun Hsieh, Kyu-Han Kim, Yujie Zhu, and Raghupathy Sivakumar (Georgia Tech, USA)
+
+
 
 ### Mobicom 2002 (the 8th Annual International Conference on Mobile Computing and Networking) ()
 
@@ -212,11 +231,19 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 
 
 
+**Zero-Interaction Authentication**
+Mark Corner and Brian Noble (University of Michigan, USA)
+
+
 
 
 ### Mobicom 2001 (the 7th Annual International Conference on Mobile Computing and Networking) ()
 
 #### Best Student Paper Award
+
+
+***Exposure In Wireless Ad Hoc Sensor Networks***
+Seapahn Meguerdichian (University of California, Los Angeles), Farinaz Koushanfar (University of California, Berkeley), Gang Qu (University of Maryland), Miodrag Potkonjak (University of California, Los Angeles)
 
 
 
@@ -227,6 +254,9 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 
 
 
+***A Unified Header Compression Framework for Low-Bandwidth Links***
+Jeremy Lilley, Jason Yang, Hari Balakrishnan (MIT, USA) and Srinivasan Seshan (IBM T.J. Watson Research Center, USA)
+
 
 
 
@@ -234,6 +264,9 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 
 #### Best Student Paper Award
 
+
+***LeZi-Update: An Information-Theoretic Approach to Track Mobile Users in PCS Networks***
+Amiya Bhattacharya and Sajal K. Das (University of North Texas, USA)
 
 
 
@@ -245,6 +278,9 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 
 
 
+***Location-Aided Routing (LAR) in Mobile Ad-Hoc Networks***
+Young-Bae Ko and Nitin H. Vaidya (Texas A&M University, USA)
+
 
 
 ### Mobicom 1997 (the 3rd Annual International Conference on Mobile Computing and Networking) ()
@@ -252,6 +288,8 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 #### Best Student Paper Award
 
 
+***Composable Ad-Hoc Mobile Services for Universal Interaction***
+Todd D. Hodes, Randy H. Katz, Edouard Servan-Scheriber and Lawrence Rowe (University of California, Berkeley, USA)
 
 
 
@@ -262,6 +300,11 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 
 
 
+***Low-loss TCP/IP Header Compression for Wireless Networks***
+Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea University and the Swedish Insitute of Computer Science, Sweden
+
+
+
 
 
 ### Mobicom 1995 (the 1st Annual International Conference on Mobile Computing and Networking) ()
@@ -269,6 +312,12 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 #### Best Student Paper Award
 
 
+***Improving TCP/IP Performance over Wireless Networks***
+Hari Balakrishnan, Srinivasan Seshan, Elan Amir and Randy H. Katz (University of California, Berkeley, USA)
+
+
+
+----------
 
 
 
