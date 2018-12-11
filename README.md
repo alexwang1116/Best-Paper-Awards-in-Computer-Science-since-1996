@@ -10,24 +10,6 @@
 
 
 ----------
-## ACL (Annual Meeting of the Association for Computational Linguistics)
-
-### ACL 2018 (56th Annual Meeting of the Association for Computational Linguistics) Best Papers
-
-#### Best Long Papers
-
-
-- ***[Finding syntax in human encephalography with beam search](http://aclweb.org/anthology/P18-1254).*** John Hale, Chris Dyer, Adhiguna Kuncoro and Jonathan Brennan.
-- ***[Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.](http://aclweb.org/anthology/P18-1255)*** Sudha Rao and Hal Daumé III.
-- ***[Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers.](http://aclweb.org/anthology/P18-1256)*** Andre Cianflone,* Yulan Feng,* Jad Kabbara* and Jackie Chi Kit Cheung. (* equal contribution)
-#### Best Short Papers
-
-
-- ***[Know What You Don’t Know: Unanswerable Questions for SQuAD.](http://aclweb.org/anthology/P18-2124)*** Pranav Rajpurkar, Robin Jia and Percy Liang
-- ***[‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions.](https://aclweb.org/anthology/P18-2125)*** Olivia Winn and Smaranda Muresan
-
-
-----------
 
 ## [ACM Mobicom](https://www.sigmobile.org/mobicom/) (the Annual International Conference on Mobile Computing and Networking)
 
@@ -319,5 +301,32 @@ Hari Balakrishnan, Srinivasan Seshan, Elan Amir and Randy H. Katz (University of
 
 ----------
 
+## Infocom 
 
 
+
+
+
+
+
+
+----------
+
+## ACL (Annual Meeting of the Association for Computational Linguistics)
+
+### ACL 2018 (56th Annual Meeting of the Association for Computational Linguistics) Best Papers
+
+#### Best Long Papers
+
+
+- ***[Finding syntax in human encephalography with beam search](http://aclweb.org/anthology/P18-1254).*** John Hale, Chris Dyer, Adhiguna Kuncoro and Jonathan Brennan.
+- ***[Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.](http://aclweb.org/anthology/P18-1255)*** Sudha Rao and Hal Daumé III.
+- ***[Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers.](http://aclweb.org/anthology/P18-1256)*** Andre Cianflone,* Yulan Feng,* Jad Kabbara* and Jackie Chi Kit Cheung. (* equal contribution)
+#### Best Short Papers
+
+
+- ***[Know What You Don’t Know: Unanswerable Questions for SQuAD.](http://aclweb.org/anthology/P18-2124)*** Pranav Rajpurkar, Robin Jia and Percy Liang
+- ***[‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions.](https://aclweb.org/anthology/P18-2125)*** Olivia Winn and Smaranda Muresan
+
+
+----------
