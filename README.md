@@ -58,7 +58,7 @@ MobiCom conferences have been held in locations around the world:
 - 4. MobiCom 1998, Dallas, Texas, USA, 25-30 October 1998
 - 3. MobiCom 1997, Budapest, Hungary, 26-30 September 1997
 - 2. MobiCom 1996, Rye, New York, USA, 10-12 November 1996
-- 1. MobiCom 1995, Berkeley, California, USA, 13-15 November 1995
+-  1. MobiCom 1995, Berkeley, California, USA, 13-15 November 1995
 
 
 ### [Mobicom 2018](https://www.sigmobile.org/mobicom/2018/) (the 24th Annual International Conference on Mobile Computing and Networking)
