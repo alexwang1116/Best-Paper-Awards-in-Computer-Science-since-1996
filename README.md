@@ -41,7 +41,7 @@ MobiCom conferences have been held in locations around the world:
 - 21. MobiCom 2015, Paris, France, 7-11 September 2015
 - 20. MobiCom 2014, Maui, Hawaii, USA, 7-11 September 2014
 - 19. MobiCom 2013, Miami, Florida, USA, 30 September-4 October 2013
-- 18. MobiCom 2012, Istanbul, Turkey, 22-26 August 2012
+- 18. [MobiCom 2012](https://www.sigmobile.org/mobicom/2012/), Istanbul, Turkey, 22-26 August 2012
 - 17. MobiCom 2011, Las Vegas, NV, USA, 19-23 September 2011
 - 16. MobiCom 2010, Chicago, Illinois, USA, 20-24 September 2010
 - 15. MobiCom 2009, Beijing, China, 20-25 September 2009
@@ -58,7 +58,7 @@ MobiCom conferences have been held in locations around the world:
 - 4. MobiCom 1998, Dallas, Texas, USA, 25-30 October 1998
 - 3. MobiCom 1997, Budapest, Hungary, 26-30 September 1997
 - 2. MobiCom 1996, Rye, New York, USA, 10-12 November 1996
--  1. MobiCom 1995, Berkeley, California, USA, 13-15 November 1995
+- 1. MobiCom 1995, Berkeley, California, USA, 13-15 November 1995
 
 
 ### [Mobicom 2018](https://www.sigmobile.org/mobicom/2018/) (the 24th Annual International Conference on Mobile Computing and Networking)
@@ -112,6 +112,163 @@ Zengwen Yuan (University of California, Los Angeles)
 Jiayao Li (University of California, Los Angeles)
 Haotian Deng (The Ohio State University)
 Tao Wang (Peking University)
+
+
+
+### [Mobicom 2012](https://www.sigmobile.org/mobicom/2012/) (the 18th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Paper Award
+
+***Distinguishing Users with Capacitative Touch Communication*** [Slides] [Video]
+Tam Vu (Rutgers University, USA), Akash Baid (Rutgers University, USA), Simon Gao (Rutgers University, USA), Marco Gruteser (Rutgers University, USA), Richard Howard (Rutgers University, USA), Janne Lindqvist (Rutgers University, USA), Predag Spasojevic (Rutgers University, USA) and Jeffrey Walling (Rutgers University, USA) 
+
+
+### Mobicom 2011 (the 17th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Paper Award
+
+***E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks***
+Xinyu Zhang (University of Michigan-Ann Arbor, USA) and Kang G. Shin (University of Michigan-Ann Arbor, USA) 
+
+
+***Detecting Driver Phone Use Leveraging Car Speakers***
+Jie Yang (Stevens Institute of Technology, USA), Simon Sdhom (Stevens Institute of Technology, USA), Gayathri Chandrasekaran (Rutgers University, USA), Tam Vu (Stevens Institute of Technology, USA), Hongbo Liu (Stevens Institute of Technology, USA), Nicolae Cecan (Rutgers University, USA), Yingying Chen (Stevens Institute of Technology, USA), Marco Gruteser (Rutgers University, USA), and Richard P. Martin (Rutgers University, USA)
+
+
+### Mobicom 2010 (the 16th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Paper Award
+
+***The κ factor: inferring protocol performance using inter-link reception correlation*** 
+Kannan Srinivasan (Stanford University), Mayank Jain (Stanford University), Jung Il Choi (Stanford University), Tahir Azim (Stanford University), Edward S. Kim (University of Southern California), Philip Levis (Stanford University), and Bhaskar Krishnamachari (University of Southern California)
+
+
+
+
+
+
+### Mobicom 2009 (the 15th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Paper Award
+
+
+***CENTAUR: Realizing the Full Potential of Centralized WLANs through a Hybrid Data Path***
+Vivek Shrivastava(University of Wisconsin), Nabeel Ahmed (University of Waterloo), Shravan Rayanchu (University of Wisconsin), Suman Banerjee (University of Wisconsin), Srinivasan Keshav (University of Waterloo), Konstantina Papagiannaki (Intel Labs), and Arunesh Mishra (Google Inc.)
+
+
+
+
+
+### Mobicom 2008 (the 14th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Paper Award
+
+
+***Assessment of Urban-Scale Wireless Networks with a Small Number of Measurements***
+Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knightly (Rice University)
+
+
+
+
+### Mobicom 2007 (the 13th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+
+### Mobicom 2006 (the 12th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+### Mobicom 2005 (the 11th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+### Mobicom 2004 (the 10th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+### Mobicom 2003 (the 9th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+### Mobicom 2002 (the 8th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+
+### Mobicom 2001 (the 7th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+### Mobicom 2000 (the 6th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+
+
+### Mobicom 1999 (the 5th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+
+
+### Mobicom 1998 (the 4th Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+
+### Mobicom 1997 (the 3rd Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+
+
+### Mobicom 1996 (the 2nd Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
+
+
+
+### Mobicom 1995 (the 1st Annual International Conference on Mobile Computing and Networking) ()
+
+#### Best Student Paper Award
+
+
 
 
 
