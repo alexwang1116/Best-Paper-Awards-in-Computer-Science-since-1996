@@ -20,27 +20,27 @@ MobiCom conferences have been held in locations around the world:
 - 24. [MobiCom 2018](https://www.sigmobile.org/mobicom/2018/), New Delhi, India, October 29 - November 2, 2018
 - 23. [MobiCom 2017](https://www.sigmobile.org/mobicom/2017/), Snowbird, Utah, USA, 16-20 October 2017
 - 22. [MobiCom 2016](https://www.sigmobile.org/mobicom/2016/), New York, USA, 3-7 October 2016
-- 21. MobiCom 2015, Paris, France, 7-11 September 2015
-- 20. MobiCom 2014, Maui, Hawaii, USA, 7-11 September 2014
-- 19. MobiCom 2013, Miami, Florida, USA, 30 September-4 October 2013
+- 21. [MobiCom 2015](https://www.sigmobile.org/mobicom/2015/), Paris, France, 7-11 September 2015
+- 20. [MobiCom 2014](https://www.sigmobile.org/mobicom/2014/), Maui, Hawaii, USA, 7-11 September 2014
+- 19. [MobiCom 2013](https://www.sigmobile.org/mobicom/2013/), Miami, Florida, USA, 30 September-4 October 2013
 - 18. [MobiCom 2012](https://www.sigmobile.org/mobicom/2012/), Istanbul, Turkey, 22-26 August 2012
-- 17. MobiCom 2011, Las Vegas, NV, USA, 19-23 September 2011
-- 16. MobiCom 2010, Chicago, Illinois, USA, 20-24 September 2010
-- 15. MobiCom 2009, Beijing, China, 20-25 September 2009
-- 14. MobiCom 2008, San Francisco, California, USA, 13-19 September 2008
-- 13. MobiCom 2007, Montreal, Quebec, Canada, 9-14 September 2007
-- 12. MobiCom 2006, Los Angeles, California, USA, 23-29 September 2006
-- 11. MobiCom 2005, Cologne, Germany, 28 August-2 September 2005
-- 10. MobiCom 2004, Philadelphia, Pennsylvania, USA, 26 September-1 October 2004
-- 9. MobiCom 2003, San Diego, California, USA, 14-19 September 2003
-- 8. MobiCom 2002, Atlanta, Georgia, USA, 23-26 September 2002
-- 7. MobiCom 2001, Rome, Italy, 16-21 July 2001
-- 6. MobiCom 2000, Boston, Massachusetts, USA, 6-11 August 2000
-- 5. MobiCom 1999, Seattle, Washington, USA, 15-20 August 1999
-- 4. MobiCom 1998, Dallas, Texas, USA, 25-30 October 1998
-- 3. MobiCom 1997, Budapest, Hungary, 26-30 September 1997
-- 2. MobiCom 1996, Rye, New York, USA, 10-12 November 1996
-- 1. MobiCom 1995, Berkeley, California, USA, 13-15 November 1995
+- 17. [https://www.sigmobile.org/mobicom/2011/](https://www.sigmobile.org/mobicom/2011/)MobiCom 2011, Las Vegas, NV, USA, 19-23 September 2011
+- 16. [MobiCom 2010](https://www.sigmobile.org/mobicom/2010/), Chicago, Illinois, USA, 20-24 September 2010
+- 15. [MobiCom 2009](https://www.sigmobile.org/mobicom/2009/), Beijing, China, 20-25 September 2009
+- 14. [MobiCom 2008](https://www.sigmobile.org/mobicom/2008/), San Francisco, California, USA, 13-19 September 2008
+- 13. [MobiCom 2007](https://www.sigmobile.org/mobicom/2007/), Montreal, Quebec, Canada, 9-14 September 2007
+- 12. [MobiCom 2006](https://www.sigmobile.org/mobicom/2006/), Los Angeles, California, USA, 23-29 September 2006
+- 11. [MobiCom 2005](https://www.sigmobile.org/mobicom/2005/), Cologne, Germany, 28 August-2 September 2005
+- 10. [MobiCom 2004](https://www.sigmobile.org/mobicom/2004/), Philadelphia, Pennsylvania, USA, 26 September-1 October 2004
+- 9. [MobiCom 2003](https://www.sigmobile.org/mobicom/2003/), San Diego, California, USA, 14-19 September 2003
+- 8. [MobiCom 2002](https://www.sigmobile.org/mobicom/2002/), Atlanta, Georgia, USA, 23-26 September 2002
+- 7. [MobiCom 2001](https://www.sigmobile.org/mobicom/2001/), Rome, Italy, 16-21 July 2001
+- 6. [MobiCom 2000](https://www.sigmobile.org/mobicom/2000/), Boston, Massachusetts, USA, 6-11 August 2000
+- 5. [MobiCom 1999](https://www.sigmobile.org/mobicom/1999/), Seattle, Washington, USA, 15-20 August 1999
+- 4. [MobiCom 1998](https://www.sigmobile.org/mobicom/1998/), Dallas, Texas, USA, 25-30 October 1998
+- 3. [MobiCom 1997](https://www.sigmobile.org/mobicom/1997/), Budapest, Hungary, 26-30 September 1997
+- 2. [MobiCom 1996](https://www.sigmobile.org/mobicom/1996/), Rye, New York, USA, 10-12 November 1996
+- 1. [MobiCom 1995](https://www.sigmobile.org/mobicom/1995/), Berkeley, California, USA, 13-15 November 1995
 
 
 ### [Mobicom 2018](https://www.sigmobile.org/mobicom/2018/) (the 24th Annual International Conference on Mobile Computing and Networking) (42/187(22.2%))
@@ -266,83 +266,83 @@ Mark Corner and Brian Noble (University of Michigan, USA)
 
 
 
-### Mobicom 2001 (the 7th Annual International Conference on Mobile Computing and Networking) (30/281(11%))
+### [Mobicom 2001](https://www.sigmobile.org/mobicom/2001/) (the 7th Annual International Conference on Mobile Computing and Networking) (30/281(11%))
 
 #### Best Student Paper Award
 
 
-***Exposure In Wireless Ad Hoc Sensor Networks***
-Seapahn Meguerdichian (University of California, Los Angeles), Farinaz Koushanfar (University of California, Berkeley), Gang Qu (University of Maryland), Miodrag Potkonjak (University of California, Los Angeles)
+***[Exposure In Wireless Ad Hoc Sensor Networks](http://delivery.acm.org/10.1145/390000/381691/p139-meguerdichian.pdf?ip=138.51.113.76&id=381691&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544636782_0f2312e1849903d5461f9fccda9870c3)*** [[Slides](https://slideplayer.com/slide/6950490/)]
+Seapahn Meguerdichian (University of California, Los Angeles), [Farinaz Koushanfar](http://eceweb.ucsd.edu/~fkoushanfar/) (University of California, Berkeley), [Gang Qu](https://ece.umd.edu/~gangqu/) (University of Maryland), [Miodrag Potkonjak](http://web.cs.ucla.edu/~miodrag/index.html) (University of California, Los Angeles)
 
 
 
 
-### Mobicom 2000 (the 6th Annual International Conference on Mobile Computing and Networking) (28/226(12%))
-
-#### Best Student Paper Award
-
-
-
-***A Unified Header Compression Framework for Low-Bandwidth Links***
-Jeremy Lilley, Jason Yang, Hari Balakrishnan (MIT, USA) and Srinivasan Seshan (IBM T.J. Watson Research Center, USA)
-
-
-
-
-### Mobicom 1999 (the 5th Annual International Conference on Mobile Computing and Networking) (28/170(16%))
-
-#### Best Student Paper Award
-
-
-***LeZi-Update: An Information-Theoretic Approach to Track Mobile Users in PCS Networks***
-Amiya Bhattacharya and Sajal K. Das (University of North Texas, USA)
-
-
-
-
-
-### Mobicom 1998 (the 4th Annual International Conference on Mobile Computing and Networking) (27/147(18%))
+### [Mobicom 2000](https://www.sigmobile.org/mobicom/2000/) (the 6th Annual International Conference on Mobile Computing and Networking) (28/226(12%))
 
 #### Best Student Paper Award
 
 
 
-***Location-Aided Routing (LAR) in Mobile Ad-Hoc Networks***
-Young-Bae Ko and Nitin H. Vaidya (Texas A&M University, USA)
-
-
-
-### Mobicom 1997 (the 3rd Annual International Conference on Mobile Computing and Networking) (26/101(26%))
-
-#### Best Student Paper Award
-
-
-***Composable Ad-Hoc Mobile Services for Universal Interaction***
-Todd D. Hodes, Randy H. Katz, Edouard Servan-Scheriber and Lawrence Rowe (University of California, Berkeley, USA)
+***[A Unified Header Compression Framework for Low-Bandwidth Links](http://delivery.acm.org/10.1145/350000/345933/p131-lilley.pdf?ip=138.51.113.76&id=345933&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544636075_27093d327443111acb0ae46ddad2ffed)***
+Jeremy Lilley, Jason Yang, [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/) (MIT, USA) and [Srinivasan Seshan](http://www.cs.cmu.edu/~srini/) (IBM T.J. Watson Research Center, USA)
 
 
 
 
-### Mobicom 1996 (the 2nd Annual International Conference on Mobile Computing and Networking) (18/90(20%))
+### [Mobicom 1999](https://www.sigmobile.org/mobicom/1999/) (the 5th Annual International Conference on Mobile Computing and Networking) (28/170(16%))
 
 #### Best Student Paper Award
 
 
+***[LeZi-Update: An Information-Theoretic Approach to Track Mobile Users in PCS Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.5064&rep=rep1&type=pdf)***
+Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) (University of North Texas, USA)
 
-***Low-loss TCP/IP Header Compression for Wireless Networks***
+
+
+
+
+### [Mobicom 1998](https://www.sigmobile.org/mobicom/1998/) (the 4th Annual International Conference on Mobile Computing and Networking) (27/147(18%))
+
+#### Best Student Paper Award
+
+
+
+***[Location-Aided Routing (LAR) in Mobile Ad-Hoc Networks](http://www.cs.jhu.edu/~cs647/class-papers/Routing%20algorithms/p66-ko.pdf)***
+[Young-Bae Ko](http://uns.ajou.ac.kr/aboutus/professor.php) and [Nitin H. Vaidya](http://disc.ece.illinois.edu/) (Texas A&M University, USA)
+
+
+
+### [Mobicom 1997](https://www.sigmobile.org/mobicom/1997/) (the 3rd Annual International Conference on Mobile Computing and Networking) (26/101(26%))
+
+#### Best Student Paper Award
+
+
+***[Composable Ad-Hoc Mobile Services for Universal Interaction](http://delivery.acm.org/10.1145/270000/262121/p1-hodes.pdf?ip=138.51.113.76&id=262121&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544634848_5e80a60b676078b23224872a532f4977)***
+[Todd D. Hodes](http://www.toddhodes.com/), [Randy H. Katz](http://bnrg.eecs.berkeley.edu/~randy/), Edouard Servan-Scheriber and [Lawrence Rowe](http://people.eecs.berkeley.edu/~larry/) (University of California, Berkeley, USA)
+
+
+
+
+### [Mobicom 1996](https://www.sigmobile.org/mobicom/1996/) (the 2nd Annual International Conference on Mobile Computing and Networking) (18/90(20%))
+
+#### Best Student Paper Award
+
+
+
+***[Low-loss TCP/IP Header Compression for Wireless Networks](http://delivery.acm.org/10.1145/280000/272194/p375-degermark.pdf?ip=138.51.113.76&id=272194&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544634574_6ec2cc64108af3e27acace76ae14352c)***
 Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea University and the Swedish Insitute of Computer Science, Sweden
 
 
 
 
 
-### Mobicom 1995 (the 1st Annual International Conference on Mobile Computing and Networking) (20/79(25%))
+### [Mobicom 1995](https://www.sigmobile.org/mobicom/1995/) (the 1st Annual International Conference on Mobile Computing and Networking) (20/79(25%))
 
 #### Best Student Paper Award
 
 
-***Improving TCP/IP Performance over Wireless Networks***
-Hari Balakrishnan, Srinivasan Seshan, Elan Amir and Randy H. Katz (University of California, Berkeley, USA)
+***[Improving TCP/IP Performance over Wireless Networks](http://delivery.acm.org/10.1145/220000/215544/p2-balakrishnan.pdf?ip=138.51.113.76&id=215544&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544633638_65792bac9ddfa28131f05c3a89b6e4c1)*** [[Slides](http://www2.ensc.sfu.ca/people/faculty/ljilja/cnl/presentations/wan/wan_thesis/wan_presentation.pdf)] [Video]
+[Hari Balakrishnan](http://nms.csail.mit.edu/~hari/), Srinivasan Seshan, Elan Amir and [Randy H. Katz](http://bnrg.eecs.berkeley.edu/~randy/) (University of California, Berkeley, USA)
 
 
 
