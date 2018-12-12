@@ -347,13 +347,57 @@ Hari Balakrishnan, Srinivasan Seshan, Elan Amir and Randy H. Katz (University of
 
 
 ----------
-## SIGCOMM 
+## [ACM SIGCOMM](http://sigcomm.org/events/sigcomm-conference) (the Annual Conference of the Special Interest Group on Data Communication) 
+
+
+SIGCOMM is the flagship annual conference of the Special Interest Group on Data Communication (SIGCOMM), a vital special interest group of the Association for Computing Machinery (ACM).
+
+
+### Previous SIGCOMM Conferences
+
+
+- [SIGCOMM 2019](http://conferences.sigcomm.org/sigcomm/2019/) in Beijing, China on August 19-24, 2019.
+- [SIGCOMM 2018](http://conferences.sigcomm.org/sigcomm/2018/) in Budapest, Hungary. August 20-25, 2018. 
+- [SIGCOMM 2017](http://conferences.sigcomm.org/sigcomm/2017/) in Los Angeles, CA. August 21-25, 2017.
+- [SIGCOMM 2016](http://conferences.sigcomm.org/sigcomm/2016/) in Florianópolis, Brazil. August 22-26, 2016.
+SIGCOMM 2015 in London, UK.
+SIGCOMM 2014 in Chicago, Illinois.
+SIGCOMM 2013 in Hong Kong.
+SIGCOMM 2012 in Helsinki, Finland.
+SIGCOMM 2011 in Toronto, Canada.
+SIGCOMM 2010 in New Delhi, India.
+SIGCOMM 2009 in Barcelona, Spain.
+SIGCOMM 2008 in Seattle, WA, USA.
+SIGCOMM 2007 in Kyoto.
+SIGCOMM 2006 in Pisa.
+SIGCOMM 2005 in Philadelphia.
+SIGCOMM 2004 in Portland.
+SIGCOMM 2003 in Karlsruhe.
+SIGCOMM 2002 in Pittsburgh.
+SIGCOMM 2001 in San Diego.
+SIGCOMM 2000 in Stockholm.
+SIGCOMM 1999 in Cambridge, Massachusetts.
+SIGCOMM 1998 in Vancouver.
+SIGCOMM 1997 in Cannes.
+SIGCOMM 1996 in Palo Alto.
+SIGCOMM 1995 in Cambridge, Massachusetts.
+SIGCOMM 1994 in London, UK.
+SIGCOMM 1993 in San Francisco, CA, USA.
+SIGCOMM 1992 in Baltimore, Maryland, USA.
+SIGCOMM 1991 in Zürich, Switzerland.
+SIGCOMM 1990 in Philadelpia, PA, USA.
+SIGCOMM 1989 in  Austin, Texas, USA.
+SIGCOMM 1988 in Stanford, CA, USA.
+SIGCOMM '87 Workshop
+
+
+
 
 
 
 ### SIGCOMM 2016
 
-#### Best Paper Award
+#### Best Paper Award,
 
 
 ***[Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://homes.cs.washington.edu/~gshyam/Papers/interscatter.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=MoeFYCGbthk)] Vikram Iyer, Vamsi Talla, Bryce Kellogg, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and Josh Smith.
