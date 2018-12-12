@@ -52,7 +52,7 @@ MobiCom conferences have been held in locations around the world:
 
 #### Best Community Paper Award
  
-***[One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol](https://arxiv.org/pdf/1808.03156.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=bKG8ZZq4oTo)] 
+***[One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol](https://arxiv.org/pdf/1808.03156.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=bKG8ZZq4oTo)]  
  Milan Stute (Technische Universität Darmstadt); David Kreitschmann (Technische Universität Darmstadt); Matthias Hollick (Technische Universität Darmstadt) 
 
 
@@ -60,7 +60,7 @@ MobiCom conferences have been held in locations around the world:
 
 #### Best Paper Award
 
-***[WEBee: Physical-Layer Cross-Technology Communication via Emulation](delivery.acm.org/10.1145/3120000/3117816/p2-li.pdf?ip=138.51.122.216&id=3117816&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544547747_2ef7cfe9f5391aaba8bd8900df5be091)*** [[Slides](https://www-users.cs.umn.edu/~tianhe/Papers/WEBeeTalk.pdf)] [[Video](https://www.youtube.com/watch?v=gQieKBoFQd0&feature=youtu.be)]
+***[WEBee: Physical-Layer Cross-Technology Communication via Emulation](delivery.acm.org/10.1145/3120000/3117816/p2-li.pdf?ip=138.51.122.216&id=3117816&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544547747_2ef7cfe9f5391aaba8bd8900df5be091)*** [[Slides](https://www-users.cs.umn.edu/~tianhe/Papers/WEBeeTalk.pdf)] [[Video](https://www.youtube.com/watch?v=gQieKBoFQd0&feature=youtu.be)]    
 Zhijun Li (University of Minnesota & Harbin Institute of Technology),
 [Tian He](https://www-users.cs.umn.edu/~tianhe/) (University of Minnesota)
 
