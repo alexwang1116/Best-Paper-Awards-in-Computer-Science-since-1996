@@ -190,7 +190,7 @@ Vivek Shrivastava(University of Wisconsin), Nabeel Ahmed (University of Waterloo
 
 
 
-### Mobicom 2008 (the 14th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2008 (the 14th Annual International Conference on Mobile Computing and Networking) (31/264(12%))
 
 #### Best Paper Award
 
@@ -201,7 +201,7 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knig
 
 
 
-### Mobicom 2007 (the 13th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2007 (the 13th Annual International Conference on Mobile Computing and Networking) (26/233(11%))
 
 #### Best Student Paper Award
 
@@ -211,7 +211,7 @@ Han Cai and Do Young Eun (North Carolina State University)
 
 
 
-### Mobicom 2006 (the 12th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2006 (the 12th Annual International Conference on Mobile Computing and Networking) (35/298(12%))
 
 #### Best Student Paper Award
 
@@ -220,7 +220,7 @@ Han Cai and Do Young Eun (North Carolina State University)
 Vladimir Bychkovsky, Bret Hull, Allen K. Miu, Hari Balakrishnan, Samuel Madden (Massachusetts Institute of Technology, USA)
 
 
-### Mobicom 2005 (the 11th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2005 (the 11th Annual International Conference on Mobile Computing and Networking) (23/224(10%))
 
 #### Best Student Paper Award
 
@@ -231,7 +231,7 @@ John Bicket, Daniel Aguayo, Sanjit Biswas, and Robert Morris (Massachusetts Inst
 
 
 
-### Mobicom 2004 (the 10th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2004 (the 10th Annual International Conference on Mobile Computing and Networking) (26/326(8%))
 
 #### Best Student Paper Award
 
@@ -243,7 +243,7 @@ Ricardo A. Baratto, Shaya Potter, Gong Su, Jason Nieh (Columbia University, USA)
 
 
 
-### Mobicom 2003 (the 9th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2003 (the 9th Annual International Conference on Mobile Computing and Networking) (27/281(10%))
 
 #### Best Student Paper Award
 
@@ -254,7 +254,7 @@ Hung-Yun Hsieh, Kyu-Han Kim, Yujie Zhu, and Raghupathy Sivakumar (Georgia Tech, 
 
 
 
-### Mobicom 2002 (the 8th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2002 (the 8th Annual International Conference on Mobile Computing and Networking) (26/364(7%))
 
 #### Best Student Paper Award
 
@@ -266,7 +266,7 @@ Mark Corner and Brian Noble (University of Michigan, USA)
 
 
 
-### Mobicom 2001 (the 7th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2001 (the 7th Annual International Conference on Mobile Computing and Networking) (30/281(11%))
 
 #### Best Student Paper Award
 
@@ -277,7 +277,7 @@ Seapahn Meguerdichian (University of California, Los Angeles), Farinaz Koushanfa
 
 
 
-### Mobicom 2000 (the 6th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 2000 (the 6th Annual International Conference on Mobile Computing and Networking) (28/226(12%))
 
 #### Best Student Paper Award
 
@@ -289,7 +289,7 @@ Jeremy Lilley, Jason Yang, Hari Balakrishnan (MIT, USA) and Srinivasan Seshan (I
 
 
 
-### Mobicom 1999 (the 5th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 1999 (the 5th Annual International Conference on Mobile Computing and Networking) (28/170(16%))
 
 #### Best Student Paper Award
 
@@ -301,7 +301,7 @@ Amiya Bhattacharya and Sajal K. Das (University of North Texas, USA)
 
 
 
-### Mobicom 1998 (the 4th Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 1998 (the 4th Annual International Conference on Mobile Computing and Networking) (27/147(18%))
 
 #### Best Student Paper Award
 
@@ -312,7 +312,7 @@ Young-Bae Ko and Nitin H. Vaidya (Texas A&M University, USA)
 
 
 
-### Mobicom 1997 (the 3rd Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 1997 (the 3rd Annual International Conference on Mobile Computing and Networking) (26/101(26%))
 
 #### Best Student Paper Award
 
@@ -323,7 +323,7 @@ Todd D. Hodes, Randy H. Katz, Edouard Servan-Scheriber and Lawrence Rowe (Univer
 
 
 
-### Mobicom 1996 (the 2nd Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 1996 (the 2nd Annual International Conference on Mobile Computing and Networking) (18/90(20%))
 
 #### Best Student Paper Award
 
@@ -336,7 +336,7 @@ Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea Universi
 
 
 
-### Mobicom 1995 (the 1st Annual International Conference on Mobile Computing and Networking) ()
+### Mobicom 1995 (the 1st Annual International Conference on Mobile Computing and Networking) (20/79(25%))
 
 #### Best Student Paper Award
 
