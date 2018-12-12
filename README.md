@@ -256,14 +256,14 @@ Hung-Yun Hsieh, Kyu-Han Kim, Yujie Zhu, and Raghupathy Sivakumar (Georgia Tech, 
 
 
 
-### Mobicom 2002 (the 8th Annual International Conference on Mobile Computing and Networking) (26/364(7%))
+### [Mobicom 2002](https://www.sigmobile.org/mobicom/2002/) (the 8th Annual International Conference on Mobile Computing and Networking) (26/364(7%))
 
 #### Best Student Paper Award
 
 
 
-**Zero-Interaction Authentication**
-Mark Corner and Brian Noble (University of Michigan, USA)
+**[Zero-Interaction Authentication](https://people.cs.umass.edu/~mcorner/papers/mobicom02.pdf)** [[Slides](https://web.eecs.umich.edu/~bnoble/482/handouts/zia-slides.pdf)] [Video]
+[Mark Corner](https://markdcorner.com/) and [Brian Noble](https://web.eecs.umich.edu/~bnoble/UM_EECS/Welcome.html) (University of Michigan, USA)
 
 
 
