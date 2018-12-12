@@ -344,6 +344,7 @@ Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea Universi
 
 
 ***[Improving TCP/IP Performance over Wireless Networks](http://delivery.acm.org/10.1145/220000/215544/p2-balakrishnan.pdf?ip=138.51.113.76&id=215544&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544633638_65792bac9ddfa28131f05c3a89b6e4c1)*** [[Slides](http://www2.ensc.sfu.ca/people/faculty/ljilja/cnl/presentations/wan/wan_thesis/wan_presentation.pdf)] [Video]
+
 [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/), Srinivasan Seshan, Elan Amir and [Randy H. Katz](http://bnrg.eecs.berkeley.edu/~randy/) (University of California, Berkeley, USA)
 
 
