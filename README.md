@@ -24,7 +24,7 @@ MobiCom conferences have been held in locations around the world:
 - 20. [MobiCom 2014](https://www.sigmobile.org/mobicom/2014/), Maui, Hawaii, USA, 7-11 September 2014
 - 19. [MobiCom 2013](https://www.sigmobile.org/mobicom/2013/), Miami, Florida, USA, 30 September-4 October 2013
 - 18. [MobiCom 2012](https://www.sigmobile.org/mobicom/2012/), Istanbul, Turkey, 22-26 August 2012
-- 17. [https://www.sigmobile.org/mobicom/2011/](https://www.sigmobile.org/mobicom/2011/)MobiCom 2011, Las Vegas, NV, USA, 19-23 September 2011
+- 17. [MobiCom 2011](https://www.sigmobile.org/mobicom/2011/), Las Vegas, NV, USA, 19-23 September 2011
 - 16. [MobiCom 2010](https://www.sigmobile.org/mobicom/2010/), Chicago, Illinois, USA, 20-24 September 2010
 - 15. [MobiCom 2009](https://www.sigmobile.org/mobicom/2009/), Beijing, China, 20-25 September 2009
 - 14. [MobiCom 2008](https://www.sigmobile.org/mobicom/2008/), San Francisco, California, USA, 13-19 September 2008
