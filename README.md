@@ -251,7 +251,7 @@ Ricardo A. Baratto, Shaya Potter, Gong Su, Jason Nieh (Columbia University, USA)
 
 
 
-***A Receiver-Centric Transport Protocol for Mobile Hosts with Heterogeneous Wireless Interfaces***
+***A Receiver-Centric Transport Protocol for Mobile Hosts with Heterogeneous Wireless Interfaces***    
 Hung-Yun Hsieh, Kyu-Han Kim, Yujie Zhu, and Raghupathy Sivakumar (Georgia Tech, USA)
 
 
@@ -262,7 +262,7 @@ Hung-Yun Hsieh, Kyu-Han Kim, Yujie Zhu, and Raghupathy Sivakumar (Georgia Tech, 
 
 
 
-**[Zero-Interaction Authentication](https://people.cs.umass.edu/~mcorner/papers/mobicom02.pdf)** [[Slides](https://web.eecs.umich.edu/~bnoble/482/handouts/zia-slides.pdf)] [Video]
+**[Zero-Interaction Authentication](https://people.cs.umass.edu/~mcorner/papers/mobicom02.pdf)** [[Slides](https://web.eecs.umich.edu/~bnoble/482/handouts/zia-slides.pdf)] [Video]    
 [Mark Corner](https://markdcorner.com/) and [Brian Noble](https://web.eecs.umich.edu/~bnoble/UM_EECS/Welcome.html) (University of Michigan, USA)
 
 
@@ -273,7 +273,7 @@ Hung-Yun Hsieh, Kyu-Han Kim, Yujie Zhu, and Raghupathy Sivakumar (Georgia Tech, 
 #### Best Student Paper Award
 
 
-***[Exposure In Wireless Ad Hoc Sensor Networks](http://delivery.acm.org/10.1145/390000/381691/p139-meguerdichian.pdf?ip=138.51.113.76&id=381691&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544636782_0f2312e1849903d5461f9fccda9870c3)*** [[Slides](https://slideplayer.com/slide/6950490/)]
+***[Exposure In Wireless Ad Hoc Sensor Networks](http://delivery.acm.org/10.1145/390000/381691/p139-meguerdichian.pdf?ip=138.51.113.76&id=381691&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544636782_0f2312e1849903d5461f9fccda9870c3)*** [[Slides](https://slideplayer.com/slide/6950490/)]    
 Seapahn Meguerdichian (University of California, Los Angeles), [Farinaz Koushanfar](http://eceweb.ucsd.edu/~fkoushanfar/) (University of California, Berkeley), [Gang Qu](https://ece.umd.edu/~gangqu/) (University of Maryland), [Miodrag Potkonjak](http://web.cs.ucla.edu/~miodrag/index.html) (University of California, Los Angeles)
 
 
@@ -285,7 +285,7 @@ Seapahn Meguerdichian (University of California, Los Angeles), [Farinaz Koushanf
 
 
 
-***[A Unified Header Compression Framework for Low-Bandwidth Links](http://delivery.acm.org/10.1145/350000/345933/p131-lilley.pdf?ip=138.51.113.76&id=345933&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544636075_27093d327443111acb0ae46ddad2ffed)***
+***[A Unified Header Compression Framework for Low-Bandwidth Links](http://delivery.acm.org/10.1145/350000/345933/p131-lilley.pdf?ip=138.51.113.76&id=345933&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544636075_27093d327443111acb0ae46ddad2ffed)***    
 Jeremy Lilley, Jason Yang, [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/) (MIT, USA) and [Srinivasan Seshan](http://www.cs.cmu.edu/~srini/) (IBM T.J. Watson Research Center, USA)
 
 
@@ -296,7 +296,7 @@ Jeremy Lilley, Jason Yang, [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/) 
 #### Best Student Paper Award
 
 
-***[LeZi-Update: An Information-Theoretic Approach to Track Mobile Users in PCS Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.5064&rep=rep1&type=pdf)***
+***[LeZi-Update: An Information-Theoretic Approach to Track Mobile Users in PCS Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.39.5064&rep=rep1&type=pdf)***    
 Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) (University of North Texas, USA)
 
 
@@ -309,7 +309,7 @@ Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) 
 
 
 
-***[Location-Aided Routing (LAR) in Mobile Ad-Hoc Networks](http://www.cs.jhu.edu/~cs647/class-papers/Routing%20algorithms/p66-ko.pdf)***
+***[Location-Aided Routing (LAR) in Mobile Ad-Hoc Networks](http://www.cs.jhu.edu/~cs647/class-papers/Routing%20algorithms/p66-ko.pdf)***    
 [Young-Bae Ko](http://uns.ajou.ac.kr/aboutus/professor.php) and [Nitin H. Vaidya](http://disc.ece.illinois.edu/) (Texas A&M University, USA)
 
 
@@ -319,7 +319,7 @@ Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) 
 #### Best Student Paper Award
 
 
-***[Composable Ad-Hoc Mobile Services for Universal Interaction](http://delivery.acm.org/10.1145/270000/262121/p1-hodes.pdf?ip=138.51.113.76&id=262121&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544634848_5e80a60b676078b23224872a532f4977)***
+***[Composable Ad-Hoc Mobile Services for Universal Interaction](http://delivery.acm.org/10.1145/270000/262121/p1-hodes.pdf?ip=138.51.113.76&id=262121&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544634848_5e80a60b676078b23224872a532f4977)***    
 [Todd D. Hodes](http://www.toddhodes.com/), [Randy H. Katz](http://bnrg.eecs.berkeley.edu/~randy/), Edouard Servan-Scheriber and [Lawrence Rowe](http://people.eecs.berkeley.edu/~larry/) (University of California, Berkeley, USA)
 
 
