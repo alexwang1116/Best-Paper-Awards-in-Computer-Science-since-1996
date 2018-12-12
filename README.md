@@ -213,46 +213,46 @@ Han Cai and Do Young Eun (North Carolina State University)
 
 
 
-### Mobicom 2006 (the 12th Annual International Conference on Mobile Computing and Networking) (35/298(12%))
+### [Mobicom 2006](https://www.sigmobile.org/mobicom/2006/) (the 12th Annual International Conference on Mobile Computing and Networking) (35/298(12%))
 
 #### Best Student Paper Award
 
 
-***A Measurement Study of Vehicular Internet Access Using In Situ Wi-Fi Networks***
-Vladimir Bychkovsky, Bret Hull, Allen K. Miu, Hari Balakrishnan, Samuel Madden (Massachusetts Institute of Technology, USA)
+***[A Measurement Study of Vehicular Internet Access Using In Situ Wi-Fi Networks](http://delivery.acm.org/10.1145/1170000/1161097/p50-bychkovsky.pdf?ip=138.51.113.76&id=1161097&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544657783_461d73b4b03745abb6f136c5545492e8)***    
+[Vladimir Bychkovsky](http://people.csail.mit.edu/vladb/CSAIL_Webpage/contact_%26_bio.html), [Bret Hull](http://nms.csail.mit.edu/~bwhull/), [Allen K. Miu](http://nms.csail.mit.edu/~aklmiu/), [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/), [Samuel Madden](http://db.csail.mit.edu/madden/) (Massachusetts Institute of Technology, USA)
 
 
-### Mobicom 2005 (the 11th Annual International Conference on Mobile Computing and Networking) (23/224(10%))
-
-#### Best Student Paper Award
-
-
-***Architecture and Evaluation of an Unplanned 802.11b Mesh Network***
-John Bicket, Daniel Aguayo, Sanjit Biswas, and Robert Morris (Massachusetts Institute of Technology, USA)
-
-
-
-
-### Mobicom 2004 (the 10th Annual International Conference on Mobile Computing and Networking) (26/326(8%))
+### [Mobicom 2005](https://www.sigmobile.org/mobicom/2005/) (the 11th Annual International Conference on Mobile Computing and Networking) (23/224(10%))
 
 #### Best Student Paper Award
 
 
-***MobiDesk: Mobile Virtual Desktop Computing***
-Ricardo A. Baratto, Shaya Potter, Gong Su, Jason Nieh (Columbia University, USA)
+***[Architecture and Evaluation of an Unplanned 802.11b Mesh Network](https://www.cs.princeton.edu/courses/archive/fall16/cos418/papers/roofnet.pdf)***    
+[John Bicket](https://pdos.csail.mit.edu/~jbicket/), Daniel Aguayo, Sanjit Biswas, and [Robert Morris](https://pdos.csail.mit.edu/~rtm/) (Massachusetts Institute of Technology, USA)
+
+
+
+
+### [Mobicom 2004](https://www.sigmobile.org/mobicom/2004/) (the 10th Annual International Conference on Mobile Computing and Networking) (26/326(8%))
+
+#### Best Student Paper Award
+
+
+***[MobiDesk: Mobile Virtual Desktop Computing](http://nieh.net/pubs/mobicom2004_fordist.pdf)*** [[Slides](https://slideplayer.com/slide/5018825/)]    
+[Ricardo A. Baratto](http://www.cs.columbia.edu/~ricardo/), [Shaya Potter](http://yucs.org/~spotter/), [Gong Su](https://researcher.watson.ibm.com/researcher/view.php?person=us-gongsu), [Jason Nieh](https://www.cs.columbia.edu/~nieh/) (Columbia University, USA)
 
 
 
 
 
-### Mobicom 2003 (the 9th Annual International Conference on Mobile Computing and Networking) (27/281(10%))
+### [Mobicom 2003](https://www.sigmobile.org/mobicom/2003/) (the 9th Annual International Conference on Mobile Computing and Networking) (27/281(10%))
 
 #### Best Student Paper Award
 
 
 
-***A Receiver-Centric Transport Protocol for Mobile Hosts with Heterogeneous Wireless Interfaces***    
-Hung-Yun Hsieh, Kyu-Han Kim, Yujie Zhu, and Raghupathy Sivakumar (Georgia Tech, USA)
+***[A Receiver-Centric Transport Protocol for Mobile Hosts with Heterogeneous Wireless Interfaces](http://delivery.acm.org/10.1145/1160000/1150538/p363-kim.pdf?ip=138.51.113.76&id=1150538&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544655779_89cdc1d9c7781017e7c96fb07ba51fde)***    
+[Hung-Yun Hsieh](http://ccf.ee.ntu.edu.tw/~hyhsieh/), [Kyu-Han Kim](http://kyuhankim.org/), Yujie Zhu, and [Raghupathy Sivakumar](http://siva.ece.gatech.edu/) (Georgia Tech, USA)
 
 
 
@@ -332,7 +332,7 @@ Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) 
 
 
 ***[Low-loss TCP/IP Header Compression for Wireless Networks](http://delivery.acm.org/10.1145/280000/272194/p375-degermark.pdf?ip=138.51.113.76&id=272194&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544634574_6ec2cc64108af3e27acace76ae14352c)***    
-Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea University and the Swedish Insitute of Computer Science, Sweden
+Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea University and the Swedish Insitute of Computer Science, Sweden)
 
 
 
