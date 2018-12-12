@@ -356,22 +356,22 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 ### Previous SIGCOMM Conferences
 
 
-- [SIGCOMM 2019](http://conferences.sigcomm.org/sigcomm/2019/) in Beijing, China on August 19-24, 2019.
+- [SIGCOMM 2019](http://conferences.sigcomm.org/sigcomm/2019/) in Beijing, China. August 19-24, 2019.
 - [SIGCOMM 2018](http://conferences.sigcomm.org/sigcomm/2018/) in Budapest, Hungary. August 20-25, 2018. 
-- [SIGCOMM 2017](http://conferences.sigcomm.org/sigcomm/2017/) in Los Angeles, CA. August 21-25, 2017.
+- [SIGCOMM 2017](http://conferences.sigcomm.org/sigcomm/2017/) in Los Angeles, CA, USA. August 21-25, 2017.
 - [SIGCOMM 2016](http://conferences.sigcomm.org/sigcomm/2016/) in Florianópolis, Brazil. August 22-26, 2016.
-SIGCOMM 2015 in London, UK.
-SIGCOMM 2014 in Chicago, Illinois.
-SIGCOMM 2013 in Hong Kong.
-SIGCOMM 2012 in Helsinki, Finland.
-SIGCOMM 2011 in Toronto, Canada.
-SIGCOMM 2010 in New Delhi, India.
-SIGCOMM 2009 in Barcelona, Spain.
-SIGCOMM 2008 in Seattle, WA, USA.
-SIGCOMM 2007 in Kyoto.
-SIGCOMM 2006 in Pisa.
-SIGCOMM 2005 in Philadelphia.
-SIGCOMM 2004 in Portland.
+- [SIGCOMM 2015](http://conferences.sigcomm.org/sigcomm/2015/) in London, UK. August 17-21, 2015.
+- [SIGCOMM 2014](http://conferences.sigcomm.org/sigcomm/2014/) in Chicago, Illinois, USA. August 17-22, 2014.
+- [SIGCOMM 2013](http://conferences.sigcomm.org/sigcomm/2013/) in Hong Kong, China. August 12-16, 2013.
+- [SIGCOMM 2012](http://conferences.sigcomm.org/sigcomm/2012/) in Helsinki, Finland. August 13-17, 2012. 
+- [SIGCOMM 2011](http://conferences.sigcomm.org/sigcomm/2011/) in Toronto, Canada. August 15-19, 2011.
+- [SIGCOMM 2010](http://conferences.sigcomm.org/sigcomm/2010/) in New Delhi, India. August 30 – September 3, 2010.
+- [SIGCOMM 2009](http://conferences.sigcomm.org/sigcomm/2009/) in Barcelona, Spain. August 17-21, 2009.
+- [SIGCOMM 2008](http://conferences.sigcomm.org/sigcomm/2008/) in Seattle, WA, USA. August 17-22, 2008.
+- [SIGCOMM 2007](http://conferences.sigcomm.org/sigcomm/2007/) in Kyoto, Japan. Aug. 27-31, 2007.
+- [SIGCOMM 2006](http://conferences.sigcomm.org/sigcomm/2006/) in Pisa, Italy. Sept.11-15, 2006.
+- [SIGCOMM 2005](http://conferences.sigcomm.org/sigcomm/2005/) in Philadelphia, PA, USA. August 22-26, 2005.
+- SIGCOMM 2004 in Portland.
 SIGCOMM 2003 in Karlsruhe.
 SIGCOMM 2002 in Pittsburgh.
 SIGCOMM 2001 in San Diego.
