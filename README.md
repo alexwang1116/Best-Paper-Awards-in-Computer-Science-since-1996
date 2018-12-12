@@ -47,11 +47,13 @@ MobiCom conferences have been held in locations around the world:
 
 #### Best Paper Award
 
- ***[SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE networks](http://delivery.acm.org/10.1145/3250000/3241549/p35-moradi.pdf?ip=138.51.122.216&id=3241549&acc=OPEN&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1544546744_448ab692d30db9bac2275edd1971575c)*** [Slides] [[Video](https://www.youtube.com/watch?v=r0vZiZzSsoY)] by Mehrdad Moradi (University of Michigan); [Karthik Sundaresan](https://sites.google.com/view/karthik-s) (NEC Labs); Eugene Chai (NEC Labs); [Sampath Rangarajan](http://www.nec-labs.com/sampath-rangarajan) (NEC Labs); [Z. Morley Mao](http://web.eecs.umich.edu/~zmao/) (University of Michigan) 
+ ***[SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE networks](http://delivery.acm.org/10.1145/3250000/3241549/p35-moradi.pdf?ip=138.51.122.216&id=3241549&acc=OPEN&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1544546744_448ab692d30db9bac2275edd1971575c)*** [Slides] [[Video](https://www.youtube.com/watch?v=r0vZiZzSsoY)]  
+ Mehrdad Moradi (University of Michigan); [Karthik Sundaresan](https://sites.google.com/view/karthik-s) (NEC Labs); Eugene Chai (NEC Labs); [Sampath Rangarajan](http://www.nec-labs.com/sampath-rangarajan) (NEC Labs); [Z. Morley Mao](http://web.eecs.umich.edu/~zmao/) (University of Michigan) 
 
 #### Best Community Paper Award
  
-***[One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol](https://arxiv.org/pdf/1808.03156.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=bKG8ZZq4oTo)] by Milan Stute (Technische Universität Darmstadt); David Kreitschmann (Technische Universität Darmstadt); Matthias Hollick (Technische Universität Darmstadt) 
+***[One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol](https://arxiv.org/pdf/1808.03156.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=bKG8ZZq4oTo)] 
+ Milan Stute (Technische Universität Darmstadt); David Kreitschmann (Technische Universität Darmstadt); Matthias Hollick (Technische Universität Darmstadt) 
 
 
 ### [Mobicom 2017](https://www.sigmobile.org/mobicom/2017/) (the 23rd Annual International Conference on Mobile Computing and Networking) (35/186(19%))
@@ -59,22 +61,22 @@ MobiCom conferences have been held in locations around the world:
 #### Best Paper Award
 
 ***[WEBee: Physical-Layer Cross-Technology Communication via Emulation](delivery.acm.org/10.1145/3120000/3117816/p2-li.pdf?ip=138.51.122.216&id=3117816&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544547747_2ef7cfe9f5391aaba8bd8900df5be091)*** [[Slides](https://www-users.cs.umn.edu/~tianhe/Papers/WEBeeTalk.pdf)] [[Video](https://www.youtube.com/watch?v=gQieKBoFQd0&feature=youtu.be)]
-Zhijun Li (University of Minnesota & Harbin Institute of Technology)
+Zhijun Li (University of Minnesota & Harbin Institute of Technology),
 [Tian He](https://www-users.cs.umn.edu/~tianhe/) (University of Minnesota)
 
 #### Best Community Paper Award
 
 ***[The Tick Programmable Low-Latency SDR System](http://delivery.acm.org/10.1145/3120000/3117834/p101-wu.pdf?ip=138.51.122.216&id=3117834&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544547825_c54dd9eb853ea709dbf491da294599ad)*** [Slides] [[Video](https://www.youtube.com/watch?v=_34FlkJBxiQ)] 
-Haoyang Wu (Peking University) 
-Tao Wang (Peking University) 
-Zengwen Yuan (University of California, Los Angeles) 
-[Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) (Purdue University) 
-Zhiwei Li (Peking University) 
-Zhaowei Tan (University of California, Los Angeles) 
-Boyan Ding (Peking University) 
-Xiaoguang Li (Peking University) 
-[Yuanjie Li](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles) 
-Jun Liu (Peking University) 
+Haoyang Wu (Peking University), 
+Tao Wang (Peking University), 
+Zengwen Yuan (University of California, Los Angeles), 
+[Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) (Purdue University), 
+Zhiwei Li (Peking University), 
+Zhaowei Tan (University of California, Los Angeles), 
+Boyan Ding (Peking University), 
+Xiaoguang Li (Peking University), 
+[Yuanjie Li](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles), 
+Jun Liu (Peking University), 
 [Songwu Lu](http://web.cs.ucla.edu/~slu/) (University of California, Los Angeles) 
 
 ### [Mobicom 2016](https://www.sigmobile.org/mobicom/2016/) (the 22nd Annual International Conference on Mobile Computing and Networking) (32/226(14.2%))
@@ -87,12 +89,12 @@ Jun Liu (Peking University)
 
 #### Best Community Paper Award
 
-***[MobileInsight: Extracting and Analyzing Cellular Network Information on Smartphones](http://delivery.acm.org/10.1145/2980000/2973751/p202-li.pdf?ip=138.51.122.216&id=2973751&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544550694_1a09cdf92983dac23c19280080db0a80)*** [Slides] [[Video](https://www.youtube.com/watch?v=uuhWdQwidBc)]
- [Yuanjie Li](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles)
-[Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) (The Ohio State University) 
-Zengwen Yuan (University of California, Los Angeles) 
-Jiayao Li (University of California, Los Angeles)
-Haotian Deng (The Ohio State University)
+***[MobileInsight: Extracting and Analyzing Cellular Network Information on Smartphones](http://delivery.acm.org/10.1145/2980000/2973751/p202-li.pdf?ip=138.51.122.216&id=2973751&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544550694_1a09cdf92983dac23c19280080db0a80)*** [Slides] [[Video](https://www.youtube.com/watch?v=uuhWdQwidBc)] 
+ [Yuanjie Li](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles),
+[Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) (The Ohio State University), 
+Zengwen Yuan (University of California, Los Angeles), 
+Jiayao Li (University of California, Los Angeles),
+Haotian Deng (The Ohio State University),
 Tao Wang (Peking University)
 
 
@@ -101,8 +103,8 @@ Tao Wang (Peking University)
 #### Best Paper Award
 
 ***[CAreDroid: Adaptation Framework for Android ContextAware Applications](http://delivery.acm.org/10.1145/2800000/2790108/p386-elmalaki.pdf?ip=138.51.122.216&id=2790108&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544572333_0c9a55cf20f0918a8559440a24538612)*** [Slides] [[Video](https://www.youtube.com/watch?v=loLtkeiaUjU)]
-Salma Elmalaki (University of California, Los Angeles)
-Lucas Wanner (University of California, Los Angeles)
+Salma Elmalaki (University of California, Los Angeles),
+Lucas Wanner (University of California, Los Angeles),
 [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)
 
 #### Best Community Paper Award 
