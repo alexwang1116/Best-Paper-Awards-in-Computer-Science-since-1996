@@ -55,7 +55,7 @@ MobiCom conferences have been held in locations around the world:
 
 #### Best Community Paper Award
  
-***[One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol](https://arxiv.org/pdf/1808.03156.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=bKG8ZZq4oTo)] 
+***[One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol](https://arxiv.org/pdf/1808.03156.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=bKG8ZZq4oTo)]     
  Milan Stute (Technische Universität Darmstadt); David Kreitschmann (Technische Universität Darmstadt); Matthias Hollick (Technische Universität Darmstadt) 
 
 
