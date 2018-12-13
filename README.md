@@ -50,7 +50,7 @@ MobiCom conferences have been held in locations around the world:
 
 #### Best Paper Award
 
- ***[SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE networks](http://delivery.acm.org/10.1145/3250000/3241549/p35-moradi.pdf?ip=138.51.122.216&id=3241549&acc=OPEN&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1544546744_448ab692d30db9bac2275edd1971575c)*** [Slides] [[Video](https://www.youtube.com/watch?v=r0vZiZzSsoY)]  
+ ***[SkyCore: Moving Core to the Edge for Untethered and Reliable UAV-based LTE networks](http://delivery.acm.org/10.1145/3250000/3241549/p35-moradi.pdf?ip=138.51.122.216&id=3241549&acc=OPEN&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1544546744_448ab692d30db9bac2275edd1971575c)*** [Slides] [[Video](https://www.youtube.com/watch?v=r0vZiZzSsoY)]    
  Mehrdad Moradi (University of Michigan); [Karthik Sundaresan](https://sites.google.com/view/karthik-s) (NEC Labs); Eugene Chai (NEC Labs); [Sampath Rangarajan](http://www.nec-labs.com/sampath-rangarajan) (NEC Labs); [Z. Morley Mao](http://web.eecs.umich.edu/~zmao/) (University of Michigan) 
 
 #### Best Community Paper Award
@@ -63,22 +63,22 @@ MobiCom conferences have been held in locations around the world:
 
 #### Best Paper Award
 
-***[WEBee: Physical-Layer Cross-Technology Communication via Emulation](delivery.acm.org/10.1145/3120000/3117816/p2-li.pdf?ip=138.51.122.216&id=3117816&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544547747_2ef7cfe9f5391aaba8bd8900df5be091)*** [[Slides](https://www-users.cs.umn.edu/~tianhe/Papers/WEBeeTalk.pdf)] [[Video](https://www.youtube.com/watch?v=gQieKBoFQd0&feature=youtu.be)]
+***[WEBee: Physical-Layer Cross-Technology Communication via Emulation](https://www-users.cs.umn.edu/~tianhe/Papers/WEBee.pdf)*** [[Slides](https://www-users.cs.umn.edu/~tianhe/Papers/WEBeeTalk.pdf)] [[Video](https://www.youtube.com/watch?v=gQieKBoFQd0&feature=youtu.be)] [[Web](http://tianhe.cs.umn.edu/CTC/)]    
 Zhijun Li (University of Minnesota & Harbin Institute of Technology),
 [Tian He](https://www-users.cs.umn.edu/~tianhe/) (University of Minnesota)
 
 #### Best Community Paper Award
 
-***[The Tick Programmable Low-Latency SDR System](http://delivery.acm.org/10.1145/3120000/3117834/p101-wu.pdf?ip=138.51.122.216&id=3117834&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544547825_c54dd9eb853ea709dbf491da294599ad)*** [Slides] [[Video](https://www.youtube.com/watch?v=_34FlkJBxiQ)] 
+***[The Tick Programmable Low-Latency SDR System](http://metro.cs.ucla.edu/papers/mobicom17-tick.pdf)*** [[Slides](http://web.cs.ucla.edu/~zyuan/slides/mobicom17-tick-slides.pdf)] [[Video](https://www.youtube.com/watch?v=_34FlkJBxiQ)] [[Web](http://metro.cs.ucla.edu/tick.html)]    
 Haoyang Wu (Peking University), 
-Tao Wang (Peking University), 
-Zengwen Yuan (University of California, Los Angeles), 
-[Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) (Purdue University), 
+[**Tao Wang**](http://ceca.pku.edu.cn/en/people_/faculty_/tao_wang/) (Peking University), 
+[**Zengwen Yuan**](http://web.cs.ucla.edu/~zyuan/), 
+[**Chunyi Peng**](https://www.cs.purdue.edu/homes/chunyi/) (Purdue University), 
 Zhiwei Li (Peking University), 
 Zhaowei Tan (University of California, Los Angeles), 
 Boyan Ding (Peking University), 
 Xiaoguang Li (Peking University), 
-[Yuanjie Li](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles), 
+[**Yuanjie Li**](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles), 
 Jun Liu (Peking University), 
 [Songwu Lu](http://web.cs.ucla.edu/~slu/) (University of California, Los Angeles) 
 
@@ -92,39 +92,49 @@ Jun Liu (Peking University),
 
 #### Best Community Paper Award
 
-***[MobileInsight: Extracting and Analyzing Cellular Network Information on Smartphones](http://delivery.acm.org/10.1145/2980000/2973751/p202-li.pdf?ip=138.51.122.216&id=2973751&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544550694_1a09cdf92983dac23c19280080db0a80)*** [Slides] [[Video](https://www.youtube.com/watch?v=uuhWdQwidBc)] 
- [Yuanjie Li](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles),
-[Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) (The Ohio State University), 
-Zengwen Yuan (University of California, Los Angeles), 
+***[MobileInsight: Extracting and Analyzing Cellular Network Information on Smartphones](https://www.cs.purdue.edu/homes/chunyi/pubs/mobicom16-li.pdf)*** [[Slides](http://web.cs.ucla.edu/~zyuan/slides/mobicom16-mobileinsight-slides.pdf)] [[Video](https://www.youtube.com/watch?v=uuhWdQwidBc)] [[Web](mobileinsight.net/)]    
+[**Yuanjie Li**](http://web.cs.ucla.edu/~yuanjie.li/) (University of California, Los Angeles),
+[**Chunyi Peng**](https://www.cs.purdue.edu/homes/chunyi/) (The Ohio State University), 
+[**Zengwen Yuan**](http://web.cs.ucla.edu/~zyuan/) (University of California, Los Angeles), 
 Jiayao Li (University of California, Los Angeles),
-Haotian Deng (The Ohio State University),
-Tao Wang (Peking University)
+[Haotian Deng](https://moonsky219.github.io/) (The Ohio State University),
+[**Tao Wang**](http://ceca.pku.edu.cn/en/people_/faculty_/tao_wang/) (Peking University)
+
+#### Best Video Award
+
+
+***[The DarkLight Rises: Visible Light Communication in the Dark](https://www.cs.dartmouth.edu/~tianzhao/papers/mobicom16-darklight.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=qwxLYC2z1C0&feature=youtu.be)] [[Web](http://dartnets.cs.dartmouth.edu/darklight)]    
+[**Zhao Tian**](https://www.cs.dartmouth.edu/~tianzhao/) (Dartmouth College),
+Kevin Wright (Dartmouth College)
+[**Xia Zhou**](https://home.cs.dartmouth.edu/~xia/) (Dartmouth College)
+
+
 
 
 ### [Mobicom 2015](https://www.sigmobile.org/mobicom/2015/) (the 21st Annual International Conference on Mobile Computing and Networking) (38/207(18%))
 
 #### Best Paper Award
 
-***[CAreDroid: Adaptation Framework for Android ContextAware Applications](http://delivery.acm.org/10.1145/2800000/2790108/p386-elmalaki.pdf?ip=138.51.122.216&id=2790108&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544572333_0c9a55cf20f0918a8559440a24538612)*** [Slides] [[Video](https://www.youtube.com/watch?v=loLtkeiaUjU)]
-Salma Elmalaki (University of California, Los Angeles),
+***[CAreDroid: Adaptation Framework for Android Context Aware Applications](http://delivery.acm.org/10.1145/2800000/2790108/p386-elmalaki.pdf?ip=138.51.122.216&id=2790108&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544572333_0c9a55cf20f0918a8559440a24538612)*** [[Slides](https://pdfs.semanticscholar.org/f592/686188c7100fdd18b0fa097c77ecb5fa5472.pdf)] [[Video](https://www.youtube.com/watch?v=loLtkeiaUjU)]    
+[Salma Elmalaki](http://www.seas.ucla.edu/~salma/) (University of California, Los Angeles),
 Lucas Wanner (University of California, Los Angeles),
 [Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)
 
 #### Best Community Paper Award 
 
-***[CAreDroid: Adaptation Framework for Android ContextAware Applications](http://delivery.acm.org/10.1145/2800000/2790108/p386-elmalaki.pdf?ip=138.51.122.216&id=2790108&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544572333_0c9a55cf20f0918a8559440a24538612)*** [Slides] [[Video](https://www.youtube.com/watch?v=loLtkeiaUjU)]
-Salma Elmalaki (University of California, Los Angeles)
-Lucas Wanner (University of California, Los Angeles)
-Mani Srivastava (University of California, Los Angeles)
+***[CAreDroid: Adaptation Framework for Android Context Aware Applications](http://delivery.acm.org/10.1145/2800000/2790108/p386-elmalaki.pdf?ip=138.51.122.216&id=2790108&acc=ACTIVE%20SERVICE&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1544572333_0c9a55cf20f0918a8559440a24538612)*** [[Slides](https://pdfs.semanticscholar.org/f592/686188c7100fdd18b0fa097c77ecb5fa5472.pdf)] [[Video](https://www.youtube.com/watch?v=loLtkeiaUjU)]    
+[Salma Elmalaki](http://www.seas.ucla.edu/~salma/) (University of California, Los Angeles),
+Lucas Wanner (University of California, Los Angeles),
+[Mani Srivastava](https://www.ee.ucla.edu/mani-srivastava/) (University of California, Los Angeles)
 
 
-#### Best Video Award: 
-***[Human Sensing Using Visible Light Communication](https://home.cs.dartmouth.edu/~xia/papers/mobicom15-lisense.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=7wK-zo66GdY&feature=youtu.be)]
-Tianxing Li (Dartmouth College)
-Chuankai An (Dartmouth College)
-Zhao Tian (Dartmouth College)
-Andrew T. Campbell (Dartmouth College)
-[Xia Zhou](https://home.cs.dartmouth.edu/~xia/) (Dartmouth College)
+#### Best Video Award
+***[Human Sensing Using Visible Light Communication](https://home.cs.dartmouth.edu/~xia/papers/mobicom15-lisense.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=7wK-zo66GdY&feature=youtu.be)] [[Web](http://dartnets.cs.dartmouth.edu/lisense)]    
+[Tianxing Li](https://www.cs.dartmouth.edu/~ltx/) (Dartmouth College),
+Chuankai An (Dartmouth College),
+[**Zhao Tian**](https://www.cs.dartmouth.edu/~tianzhao/) (Dartmouth College),
+[Andrew T. Campbell](https://www.cs.dartmouth.edu/~campbell/page/) (Dartmouth College),
+[**Xia Zhou**](https://home.cs.dartmouth.edu/~xia/) (Dartmouth College)
 
 
 ### [Mobicom 2014](https://www.sigmobile.org/mobicom/2014/) (the 20th Annual International Conference on Mobile Computing and Networking) (36/220(16%))
@@ -132,9 +142,8 @@ Andrew T. Campbell (Dartmouth College)
 #### Best Paper Award
 
 
-***[Tagoram: Real-Time Tracking of Mobile RFID Tags to High Precision Using COTS Devices](http://www.ntu.edu.sg/home/limo/papers/tagoram-MobiCom14.pdf)*** [[Slides](https://www.sigmobile.org/mobicom/2014/talks/slides_6_2.pdf)] [[Video](https://www.youtube.com/watch?v=5Won4ihJop4)]
-[Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about) (Tsinghua University); Yekui Chen (Tsinghua University); Xiang-Yang Li (Tsinghua University, Illinois Institute of Technology); Chaowei Xiao (Tsinghua University); [Mo Li](http://www.ntu.edu.sg/home/limo/) (Nanyang Technological Univ.); Yunhao Liu (Tsinghua University) 
-
+***[Tagoram: Real-Time Tracking of Mobile RFID Tags to High Precision Using COTS Devices](http://www.ntu.edu.sg/home/limo/papers/tagoram-MobiCom14.pdf)*** [[Slides](https://www.sigmobile.org/mobicom/2014/talks/slides_6_2.pdf)] [[Video](https://www.youtube.com/watch?v=5Won4ihJop4)]    
+[Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about) (Tsinghua University); Yekui Chen (Tsinghua University); [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/index.html) (Tsinghua University, Illinois Institute of Technology); Chaowei Xiao (Tsinghua University); [Mo Li](http://www.ntu.edu.sg/home/limo/) (Nanyang Technological Univ.); [Yunhao Liu](http://www.cse.msu.edu/~liuyunha/) (Tsinghua University) 
 
 
 
@@ -144,8 +153,8 @@ Andrew T. Campbell (Dartmouth College)
 #### Best Paper Award
 
 
-***[Whole-Home Gesture Recognition Using Wireless Signals](https://homes.cs.washington.edu/~gshyam/Papers/wisee.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=VZ7Nz942yAY)]
-Qifan Pu, Sidhant Gupta, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), and Shwetak Patel. 
+***[Whole-Home Gesture Recognition Using Wireless Signals](https://homes.cs.washington.edu/~gshyam/Papers/wisee.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=VZ7Nz942yAY)] [[Web](http://wisee.cs.washington.edu/)]    
+[Qifan Pu](http://people.eecs.berkeley.edu/~qifan/), Sidhant Gupta, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), and [Shwetak Patel](https://homes.cs.washington.edu/~shwetak/?Home). 
 
 
 
@@ -153,8 +162,8 @@ Qifan Pu, Sidhant Gupta, [Shyam Gollakota](https://homes.cs.washington.edu/~gshy
 
 #### Best Paper Award
 
-***[Distinguishing Users with Capacitative Touch Communication](http://www.winlab.rutgers.edu/~janne/capacitivetouch_mobicom12.pdf)*** [[Slides](https://www.sigmobile.org/mobicom/2012/slides/Vu.pdf)] [Video]
-Tam Vu (Rutgers University, USA), Akash Baid (Rutgers University, USA), Simon Gao (Rutgers University, USA), Marco Gruteser (Rutgers University, USA), Richard Howard (Rutgers University, USA), Janne Lindqvist (Rutgers University, USA), Predag Spasojevic (Rutgers University, USA) and Jeffrey Walling (Rutgers University, USA) 
+***[Distinguishing Users with Capacitative Touch Communication](http://www.winlab.rutgers.edu/~janne/capacitivetouch_mobicom12.pdf)*** [[Slides](https://www.sigmobile.org/mobicom/2012/slides/Vu.pdf)] [[Video](https://www.youtube.com/watch?v=lHg9SXHf0ZI)]    
+[**Tam Vu**](http://mnslab.org/tamvu/) (Rutgers University, USA), [Akash Baid](http://www.winlab.rutgers.edu/~baid/) (Rutgers University, USA), Simon Gao (Rutgers University, USA), [**Marco Gruteser**](http://www.winlab.rutgers.edu/~gruteser/) (Rutgers University, USA), Richard Howard (Rutgers University, USA), [Janne Lindqvist](http://www.winlab.rutgers.edu/~janne/) (Rutgers University, USA), [Predag Spasojevic](http://www.winlab.rutgers.edu/~spasojev/) (Rutgers University, USA) and Jeffrey Walling (Rutgers University, USA) 
 
 
 ### [Mobicom 2011](https://www.sigmobile.org/mobicom/2011/) (the 17th Annual International Conference on Mobile Computing and Networking) (29/214(14%))
@@ -163,15 +172,15 @@ Tam Vu (Rutgers University, USA), Akash Baid (Rutgers University, USA), Simon Ga
 
 
 
-- ***[E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks](https://kabru.eecs.umich.edu/papers/publications/2011/xyzhang_kgshin_mobicom11.pdf)*** [Slides] [Video]
-[Xinyu Zhang](http://xyzhang.ucsd.edu/) (University of Michigan-Ann Arbor, USA) and Kang G. Shin (University of Michigan-Ann Arbor, USA)
+- ***[E-MiLi: Energy-Minimizing Idle Listening in Wireless Networks](https://kabru.eecs.umich.edu/papers/publications/2011/xyzhang_kgshin_mobicom11.pdf)*** [[Slides](https://slideplayer.com/slide/7183117/)] [[Video](https://www.youtube.com/watch?v=w5wa4tHGafc)]    
+[Xinyu Zhang](http://xyzhang.ucsd.edu/) (University of Michigan-Ann Arbor, USA) and [Kang G. Shin](http://web.eecs.umich.edu/~kgshin/) (University of Michigan-Ann Arbor, USA)
 
 
-- ***[Detecting Driver Phone Use Leveraging Car Speakers](http://www.winlab.rutgers.edu/~gruteser/papers/mobi22c_yang.pdf)*** [[Slides](http://www.winlab.rutgers.edu/~yychen/mobicom2011_Yingying_Chen_post.pdf)] [Video]
-Jie Yang (Stevens Institute of Technology, USA), Simon Sdhom (Stevens Institute of Technology, USA), Gayathri Chandrasekaran (Rutgers University, USA), Tam Vu (Stevens Institute of Technology, USA), Hongbo Liu (Stevens Institute of Technology, USA), Nicolae Cecan (Rutgers University, USA), [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (Stevens Institute of Technology, USA), Marco Gruteser (Rutgers University, USA), and Richard P. Martin (Rutgers University, USA)
+- ***[Detecting Driver Phone Use Leveraging Car Speakers](http://www.winlab.rutgers.edu/~gruteser/papers/mobi22c_yang.pdf)*** [[Slides](http://www.winlab.rutgers.edu/~yychen/mobicom2011_Yingying_Chen_post.pdf)] [Video]    
+[Jie Yang](https://www.cs.fsu.edu/~jieyang/index.html) (Stevens Institute of Technology, USA), Simon Sdhom (Stevens Institute of Technology, USA), Gayathri Chandrasekaran (Rutgers University, USA), [**Tam Vu**](http://mnslab.org/tamvu/) (Stevens Institute of Technology, USA), Hongbo Liu (Stevens Institute of Technology, USA), Nicolae Cecan (Rutgers University, USA), [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (Stevens Institute of Technology, USA), [**Marco Gruteser**](http://www.winlab.rutgers.edu/~gruteser/) (Rutgers University, USA), and [Richard P. Martin](https://www.cs.rutgers.edu/~rmartin/) (Rutgers University, USA)
 
 
-### Mobicom 2010 (the 16th Annual International Conference on Mobile Computing and Networking) (33/233(14%))
+### [Mobicom 2010](https://www.sigmobile.org/mobicom/2010/) (the 16th Annual International Conference on Mobile Computing and Networking) (33/233(14%))
 
 #### Best Paper Award
 
