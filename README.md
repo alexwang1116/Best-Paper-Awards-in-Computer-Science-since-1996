@@ -172,44 +172,44 @@ Jie Yang (Stevens Institute of Technology, USA), Simon Sdhom (Stevens Institute 
 
 #### Best Paper Award
 
-***[The κ factor: inferring protocol performance using inter-link reception correlation](http://sing.stanford.edu/pubs/mobicom10-kappa.pdf)*** 
-Kannan Srinivasan (Stanford University), Mayank Jain (Stanford University), Jung Il Choi (Stanford University), Tahir Azim (Stanford University), Edward S. Kim (University of Southern California), Philip Levis (Stanford University), and [Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)
+***[The κ factor: inferring protocol performance using inter-link reception correlation](http://sing.stanford.edu/pubs/mobicom10-kappa.pdf)*** [[Slides](http://sing.stanford.edu/talks/mobicom10-kappa-slides.pdf)]    
+[Kannan Srinivasan](http://web.cse.ohio-state.edu/~athreya.14/) (Stanford University), Mayank Jain (Stanford University), Jung Il Choi (Stanford University), [Tahir Azim](https://sing.stanford.edu/site/users/7) (Stanford University), Edward S. Kim (University of Southern California), [Philip Levis](http://csl.stanford.edu/~pal/) (Stanford University), and [Bhaskar Krishnamachari](http://ceng.usc.edu/~bkrishna/) (University of Southern California)
 
 
 
 
 
 
-### Mobicom 2009 (the 15th Annual International Conference on Mobile Computing and Networking) (30/282(11%))
-
-#### Best Paper Award
-
-
-***[CENTAUR: Realizing the Full Potential of Centralized WLANs through a Hybrid Data Path](http://pages.cs.wisc.edu/~suman/pubs/centaur.pdf)***
-Vivek Shrivastava(University of Wisconsin), Nabeel Ahmed (University of Waterloo), Shravan Rayanchu (University of Wisconsin), Suman Banerjee (University of Wisconsin), Srinivasan Keshav (University of Waterloo), Konstantina Papagiannaki (Intel Labs), and Arunesh Mishra (Google Inc.)
-
-
-
-
-
-### Mobicom 2008 (the 14th Annual International Conference on Mobile Computing and Networking) (31/264(12%))
+### [Mobicom 2009](https://www.sigmobile.org/mobicom/2009/) (the 15th Annual International Conference on Mobile Computing and Networking) (30/282(11%))
 
 #### Best Paper Award
 
 
-***Assessment of Urban-Scale Wireless Networks with a Small Number of Measurements***
-Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and Edward W. Knightly (Rice University)
+***[CENTAUR: Realizing the Full Potential of Centralized WLANs through a Hybrid Data Path](http://pages.cs.wisc.edu/~suman/pubs/centaur.pdf)***    
+[Vivek Shrivastava](http://pages.cs.wisc.edu/~viveks/)(University of Wisconsin), [Nabeel Ahmed](http://people.csail.mit.edu/nabeel/Nabeel_Ahmed/Welcome.html) (University of Waterloo), [Shravan Rayanchu](http://pages.cs.wisc.edu/~shravan/) (University of Wisconsin), [Suman Banerjee](http://pages.cs.wisc.edu/~suman/) (University of Wisconsin), [Srinivasan Keshav](http://blizzard.cs.uwaterloo.ca/keshav/wiki/index.php/Main_Page) (University of Waterloo), Konstantina Papagiannaki (Intel Labs), and Arunesh Mishra (Google Inc.)
 
 
 
 
-### Mobicom 2007 (the 13th Annual International Conference on Mobile Computing and Networking) (26/233(11%))
+
+### [Mobicom 2008](https://www.sigmobile.org/mobicom/2008/) (the 14th Annual International Conference on Mobile Computing and Networking) (31/264(12%))
+
+#### Best Paper Award
+
+
+***[Assessment of Urban-Scale Wireless Networks with a Small Number of Measurements](https://cpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/2/3274/files/2014/08/com0895-robinson.pdf)*** [[Slides](https://cpb-us-e1.wpmucdn.com/blogs.rice.edu/dist/2/3274/files/2014/08/mobicom08_jpr_slides.pdf)]        
+Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and [Edward W. Knightly](http://knightly.rice.edu/) (Rice University)
+
+
+
+
+### [Mobicom 2007](https://www.sigmobile.org/mobicom/2007/) (the 13th Annual International Conference on Mobile Computing and Networking) (26/233(11%))
 
 #### Best Student Paper Award
 
 
-***Crossing Over the Bounded Domain: From Exponential to Power-law Inter-meeting Time in MANET***
-Han Cai and Do Young Eun (North Carolina State University)
+***[Crossing Over the Bounded Domain: From Exponential to Power-law Inter-meeting Time in MANET](https://people.engr.ncsu.edu/dyeun/doc/Mobicom07-Cai-Eun.pdf)*** [[Slides](https://people.engr.ncsu.edu/dyeun/)]    
+Han Cai and [Do Young Eun](https://people.engr.ncsu.edu/dyeun/) (North Carolina State University)
 
 
 
