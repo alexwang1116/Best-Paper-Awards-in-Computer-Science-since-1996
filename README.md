@@ -402,7 +402,7 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 - [SIGCOMM 1990](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1990.html) in Philadelpia, PA, USA. September 24-27, 1990.
 - [SIGCOMM 1989](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1989.html) in  Austin, Texas, USA. September 19-22, 1989. 
 - [SIGCOMM 1988](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1988.html) in Stanford, CA, USA. August 16-18, 1988. 
-- SIGCOMM '87 Workshop
+- [SIGCOMM '87](http://ccr.sigcomm.org/archive/ccr-toc/ccr-toc-87.html) Workshop
 
 
 
