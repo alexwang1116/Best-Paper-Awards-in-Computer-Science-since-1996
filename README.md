@@ -385,24 +385,24 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 - [SIGCOMM 2007](http://conferences.sigcomm.org/sigcomm/2007/) in Kyoto, Japan. Aug. 27-31, 2007.
 - [SIGCOMM 2006](http://conferences.sigcomm.org/sigcomm/2006/) in Pisa, Italy. Sept.11-15, 2006.
 - [SIGCOMM 2005](http://conferences.sigcomm.org/sigcomm/2005/) in Philadelphia, PA, USA. August 22-26, 2005.
-- SIGCOMM 2004 in Portland.
-SIGCOMM 2003 in Karlsruhe.
-SIGCOMM 2002 in Pittsburgh.
-SIGCOMM 2001 in San Diego.
-SIGCOMM 2000 in Stockholm.
-SIGCOMM 1999 in Cambridge, Massachusetts.
-SIGCOMM 1998 in Vancouver.
-SIGCOMM 1997 in Cannes.
-SIGCOMM 1996 in Palo Alto.
-SIGCOMM 1995 in Cambridge, Massachusetts.
-SIGCOMM 1994 in London, UK.
-SIGCOMM 1993 in San Francisco, CA, USA.
-SIGCOMM 1992 in Baltimore, Maryland, USA.
-SIGCOMM 1991 in Zürich, Switzerland.
-SIGCOMM 1990 in Philadelpia, PA, USA.
-SIGCOMM 1989 in  Austin, Texas, USA.
-SIGCOMM 1988 in Stanford, CA, USA.
-SIGCOMM '87 Workshop
+- [SIGCOMM 2004](conferences.sigcomm.org/sigcomm/2004/) in Portland.
+- [SIGCOMM 2003](http://conferences.sigcomm.org/sigcomm/2003/) in Karlsruhe，Germany. August 25-29, 2003. 
+- [SIGCOMM 2002](http://conferences.sigcomm.org/sigcomm/2002/) in Pittsburgh, USA. August 19-23, 2002.
+- [SIGCOMM 2001](http://conferences.sigcomm.org/sigcomm/2001/) in San Diego, CA, USA. August 27-31, 2001. 
+- [SIGCOMM 2000](http://conferences.sigcomm.org/sigcomm/2000/) in Stockholm, Sweden. August 28-September 1, 2000.
+- [SIGCOMM 1999](http://conferences.sigcomm.org/sigcomm/1999/) in Cambridge, Massachusetts, USA. August 31-September 3, 1999.
+- [SIGCOMM 1998](http://conferences.sigcomm.org/sigcomm/1998/) in Vancouver, Canada. August 31-September 1, 1998. 
+- [SIGCOMM 1997](http://conferences.sigcomm.org/sigcomm/1997/) in Cannes, French Riviera, FRANCE. September 14-September 18, 1997.
+- [SIGCOMM 1996](conferences.sigcomm.org/sigcomm/1996/) in Palo Alto, CA, USA. August 26-30, 1996.
+- [SIGCOMM 1995](http://conferences.sigcomm.org/sigcomm/1995/) in Cambridge, Massachusetts, USA. August 28-September 1, 1995.
+- [SIGCOMM 1994](https://dblp1.uni-trier.de/db/conf/sigcomm/sigcomm1994.html) in London, UK, August 31-September 2, 1994.
+- [SIGCOMM 1993](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1993.html) in San Francisco, CA, USA. September 13-17, 1993.
+- [SIGCOMM 1992](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1992.html) in Baltimore, Maryland, USA. August 17-20, 1992.
+- [SIGCOMM 1991](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1991.html) in Zürich, Switzerland. September 3-6, 1991. 
+- [SIGCOMM 1990](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1990.html) in Philadelpia, PA, USA. September 24-27, 1990.
+- [SIGCOMM 1989](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1989.html) in  Austin, Texas, USA. September 19-22, 1989. 
+- [SIGCOMM 1988](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1988.html) in Stanford, CA, USA. August 16-18, 1988. 
+- SIGCOMM '87 Workshop
 
 
 
