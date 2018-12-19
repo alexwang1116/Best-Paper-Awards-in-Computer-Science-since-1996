@@ -424,7 +424,7 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 #### Best Paper Award
 
 
-***[Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://homes.cs.washington.edu/~gshyam/Papers/interscatter.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=MoeFYCGbthk)] Vikram Iyer, Vamsi Talla, Bryce Kellogg, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and Josh Smith.
+***[Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://homes.cs.washington.edu/~gshyam/Papers/interscatter.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=MoeFYCGbthk)]     Vikram Iyer, Vamsi Talla, Bryce Kellogg, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and Josh Smith.
 
 
 ### SIGCOMM 2015
@@ -443,7 +443,7 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 #### Best Paper Award
 
 
-***[Ambient Backscatter: Wireless Communication out of Thin Air](https://homes.cs.washington.edu/~gshyam/Papers/amb.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=gX9cbxLSOkE)] 
+***[Ambient Backscatter: Wireless Communication out of Thin Air](https://homes.cs.washington.edu/~gshyam/Papers/amb.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=gX9cbxLSOkE)]     
 Vincent Liu, Aaron Parks, Vamsi Talla, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), David Wetherall, and Josh Smith. 
 
 
@@ -451,7 +451,7 @@ Vincent Liu, Aaron Parks, Vamsi Talla, [Shyam Gollakota](https://homes.cs.washin
 
 #### Best Paper Award
 
-***[They Can Hear Your Heartbeats: Non-Invasive Security for Implanted Medical Devices](https://homes.cs.washington.edu/~gshyam/Papers/IMDShield.pdf)*** [Slides] [Video]
+***[They Can Hear Your Heartbeats: Non-Invasive Security for Implanted Medical Devices](https://homes.cs.washington.edu/~gshyam/Papers/IMDShield.pdf)*** [Slides] [Video]    
 [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), Haitham Hassanieh, Ben Ransford, Dina Katabi, and Kevin Fu.
 
 
@@ -463,7 +463,7 @@ Vincent Liu, Aaron Parks, Vamsi Talla, [Shyam Gollakota](https://homes.cs.washin
 #### Best Paper Award
 
 
-***[ZigZag Decoding: Combating Hidden Terminals in Wireless Networks](https://homes.cs.washington.edu/~gshyam/Papers/ZigZag.pdf)*** [Slides] [Video] 
+***[ZigZag Decoding: Combating Hidden Terminals in Wireless Networks](https://homes.cs.washington.edu/~gshyam/Papers/ZigZag.pdf)*** [Slides] [Video]    
 [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and Dina Katabi.
 
 
