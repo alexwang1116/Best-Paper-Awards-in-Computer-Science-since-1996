@@ -405,38 +405,68 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 - [SIGCOMM '87](http://ccr.sigcomm.org/archive/ccr-toc/ccr-toc-87.html) Workshop
 
 
+### Recent SIGCOMM Best Paper Award Winners
+http://www.sigcomm.org/awards/best-paper-award
 
 
 
 
-### SIGCOMM 2018
-
-#### Best Paper Award
-
-
-### SIGCOMM 2017
+### [SIGCOMM 2018](http://conferences.sigcomm.org/sigcomm/2018/)
 
 #### Best Paper Award
 
 
-### SIGCOMM 2016
+
+### [SIGCOMM 2017](http://conferences.sigcomm.org/sigcomm/2017/)
+
+#### Best Paper Award
+
+*[**Re-architecting datacenter networks and stacks for low latency and high performance**](http://delivery.acm.org/10.1145/3100000/3098825/p29-Handley.pdf?ip=142.150.238.22&id=3098825&acc=PUBLIC&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545936523_c2ac8a99c1722799c7f4bf995ae89007)* [Slides] [Video]    
+[Mark Handley](http://www0.cs.ucl.ac.uk/staff/M.Handley/) (University College London), Costin Raiciu, Alexandru Agache, and Andrei Voinescu (University Politehnica of Bucharest), and Andrew Moore, Gianni Antichi, and Marcin Wójcik (University of Cambridge)
+
+
+
+***[Language-directed hardware design for network performance monitoring](web.mit.edu/marple/marple-sigcomm17.pdf)*** [[Slides](http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-1-ldhd.pdf)] [[Web](http://web.mit.edu/marple/)] [Video]     [Srinivas Narayana](https://www.cs.rutgers.edu/~sn624/), Anirudh Sivaraman, Vikram Nathan, and Prateesh Goyal (MIT CSAIL), Venkat Arun (IIT Guwahati), [Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/) (MIT CSAIL), Vimalkumar Jeyakumar (Cisco Tetration Analytics), and Changhoon Kim (Barefoot Networks)
+
+
+
+
+### [SIGCOMM 2016](http://conferences.sigcomm.org/sigcomm/2016/)
 
 #### Best Paper Award
 
 
-***[Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://homes.cs.washington.edu/~gshyam/Papers/interscatter.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=MoeFYCGbthk)]     Vikram Iyer, Vamsi Talla, Bryce Kellogg, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and Josh Smith.
+***[Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://homes.cs.washington.edu/~gshyam/Papers/interscatter.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=MoeFYCGbthk)]     [Vikram Iyer](https://staff.washington.edu/vsiyer/), Vamsi Talla, Bryce Kellogg, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and [Josh Smith](https://sensor.cs.washington.edu/jrs.html) (University of Washington). 
+
+
+
+***[Don't Mind the Gap: Bridging Network-wide Objectives and Device-level Configurations](https://www.cs.princeton.edu/~dpw/papers/propane-sigcomm16.pdf)*** [[Web](https://propane-lang.org/)] [[Slides](http://conferences.sigcomm.org/sigcomm/2016/files/program/sigcomm/Session06-Paper03-DontMind-Ryan-Slides.pdf)] [Video]    
+[Ryan Beckett](https://scholar.princeton.edu/rbeckett/home) (Princeton University), Ratul Mahajan (Microsoft), Todd Millstein (University of California, Los Angeles), Jitendra Padhye (Microsoft), [David Walker](https://www.cs.princeton.edu/~dpw/) (Princeton University)
+
+
+
+***[Eliminating Channel Feedback in Next-Generation Cellular Networks](https://people.csail.mit.edu/deepak/assets/papers/R2F2_SIGCOMM_2016.pdf)*** [[Slides](https://people.csail.mit.edu/deepak/assets/slides/R2F2_SIGCOMM_2016.pdf)] [[Video](https://www.youtube.com/watch?v=n_oEdl-l7oo)]     
+[Deepak Vasisht](https://people.csail.mit.edu/deepak/) (MIT), Swarun Kumar (CMU), Hariharan Rahul (MIT), [**Dina Katabi**](people.csail.mit.edu/dina/) (MIT)
+
 
 
 ### SIGCOMM 2015
 
 #### Best Paper Award
 
+***Central Control Over Distributed Routing*** [Slides] [Video]  Stefano Vissicchio (UCLouvain), Olivier Tilmans (UCLouvain), Laurent Vanbever (ETH Zürich), Jennifer Rexford (Princeton University)
+
+
 
 ### SIGCOMM 2014
 
 #### Best Paper Award
 
+***Balancing Accountability and Privacy in the Network*** [Slides] [Video]    David Naylor (Carnegie Mellon University); Matthew K. Mukerjee (Carnegie Mellon University); Peter Steenkiste (Carnegie Mellon University), 
 
+
+
+***CONGA: Distributed Congestion-Aware Load Balancing for Datacenters*** [Slides] [Video]    Mohammad Alizadeh (Cisco); Tom Edsall (Cisco); Sarang Dharmapurikar (Cisco); Ramanan Vaidyanathan (Cisco); Kevin Chu (Cisco); Andy Fingerhut (Google); Terry Lam (Cisco); Francis Matus (Cisco); Rong Pan (Cisco); Navindra Yadav (Cisco); George Varghese (Microsoft)
 
 ### SIGCOMM 2013
 
@@ -447,14 +477,35 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 Vincent Liu, Aaron Parks, Vamsi Talla, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), David Wetherall, and Josh Smith. 
 
 
+
+### SIGCOMM 2012
+
+#### Best Paper Award
+
+***Multi-Resource Fair Queueing for Packet Processing*** [Slides] [Video]    Ali Ghodsi, Vyas Sekar, Matei Zaharia, Ion Stoica 
+
+
+
 ### [SIGCOMM 2011](http://conferences.sigcomm.org/sigcomm/2011/) 
 
 #### Best Paper Award
 
 ***[They Can Hear Your Heartbeats: Non-Invasive Security for Implanted Medical Devices](https://homes.cs.washington.edu/~gshyam/Papers/IMDShield.pdf)*** [Slides] [Video]    
-[Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), Haitham Hassanieh, Ben Ransford, Dina Katabi, and Kevin Fu.
+[Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), Haitham Hassanieh, Ben Ransford, [**Dina Katabi**](people.csail.mit.edu/dina/) (MIT), and Kevin Fu.
 
 
+### SIGCOMM 2010
+
+#### Best Paper Award
+
+***Efficient Error Estimating Coding: Feasibility and Applications*** [Slides] [Video]     Binbin Chen, Zling Zhou, Yuda Zho, and Haifeng Yu 
+
+
+### SIGCOMM 2009
+
+#### Best Paper Award
+
+***White Space Networking with Wi-Fi like Connectivity*** [Slides] [Video]    Paramvir Bahl, Ranveer Chandra, Thomas Moscibroda, Rohan Murthy, and Matt Welsh, 
 
 
 
