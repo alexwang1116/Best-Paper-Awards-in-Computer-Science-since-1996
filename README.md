@@ -426,7 +426,7 @@ http://www.sigcomm.org/awards/best-paper-award
 
 
 
-***[Language-directed hardware design for network performance monitoring](web.mit.edu/marple/marple-sigcomm17.pdf)*** [[Slides](http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-1-ldhd.pdf)] [[Web](http://web.mit.edu/marple/)] [Video]     [Srinivas Narayana](https://www.cs.rutgers.edu/~sn624/), Anirudh Sivaraman, Vikram Nathan, and Prateesh Goyal (MIT CSAIL), Venkat Arun (IIT Guwahati), [Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/) (MIT CSAIL), Vimalkumar Jeyakumar (Cisco Tetration Analytics), and Changhoon Kim (Barefoot Networks)
+***[Language-directed hardware design for network performance monitoring](web.mit.edu/marple/marple-sigcomm17.pdf)*** [[Slides](http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-1-ldhd.pdf)] [[Web](http://web.mit.edu/marple/)] [Video]         [Srinivas Narayana](https://www.cs.rutgers.edu/~sn624/), Anirudh Sivaraman, Vikram Nathan, and Prateesh Goyal (MIT CSAIL), Venkat Arun (IIT Guwahati), [Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/) (MIT CSAIL), Vimalkumar Jeyakumar (Cisco Tetration Analytics), and Changhoon Kim (Barefoot Networks)
 
 
 
@@ -436,7 +436,8 @@ http://www.sigcomm.org/awards/best-paper-award
 #### Best Paper Award
 
 
-***[Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://homes.cs.washington.edu/~gshyam/Papers/interscatter.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=MoeFYCGbthk)]     [Vikram Iyer](https://staff.washington.edu/vsiyer/), Vamsi Talla, Bryce Kellogg, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and [Josh Smith](https://sensor.cs.washington.edu/jrs.html) (University of Washington). 
+***[Inter-Technology Backscatter: Towards Internet Connectivity for Implanted Devices](https://homes.cs.washington.edu/~gshyam/Papers/interscatter.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=MoeFYCGbthk)]         
+[Vikram Iyer](https://staff.washington.edu/vsiyer/), Vamsi Talla, Bryce Kellogg, [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and [Josh Smith](https://sensor.cs.washington.edu/jrs.html) (University of Washington). 
 
 
 
