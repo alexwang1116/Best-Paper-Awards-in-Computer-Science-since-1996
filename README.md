@@ -424,12 +424,12 @@ http://www.sigcomm.org/awards/best-paper-award
 
 #### Best Paper Award
 
-*[**Re-architecting datacenter networks and stacks for low latency and high performance**](http://delivery.acm.org/10.1145/3100000/3098825/p29-Handley.pdf?ip=142.150.238.22&id=3098825&acc=PUBLIC&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545936523_c2ac8a99c1722799c7f4bf995ae89007)* [Slides] [Video]    
+*[**Re-architecting datacenter networks and stacks for low latency and high performance**](http://delivery.acm.org/10.1145/3100000/3098825/p29-Handley.pdf?ip=142.150.238.22&id=3098825&acc=PUBLIC&key=FD0067F557510FFB%2E148C9AE997532579%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1545936523_c2ac8a99c1722799c7f4bf995ae89007)* [Slides] [[Video](https://www.youtube.com/watch?v=OI3mh1Vx8xI)]    
 [Mark Handley](http://www0.cs.ucl.ac.uk/staff/M.Handley/) (University College London), Costin Raiciu, Alexandru Agache, and Andrei Voinescu (University Politehnica of Bucharest), and Andrew Moore, Gianni Antichi, and Marcin Wójcik (University of Cambridge)
 
 
 
-***[Language-directed hardware design for network performance monitoring](web.mit.edu/marple/marple-sigcomm17.pdf)*** [[Slides](http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-1-ldhd.pdf)] [[Web](http://web.mit.edu/marple/)] [Video]         
+***[Language-directed hardware design for network performance monitoring](web.mit.edu/marple/marple-sigcomm17.pdf)*** [[Web](http://web.mit.edu/marple/)] [[Slides](http://conferences.sigcomm.org/sigcomm/2017/files/program/ts-3-1-ldhd.pdf)] [[Video](https://www.youtube.com/watch?v=-mT4KXBFOfs)]         
 [Srinivas Narayana](https://www.cs.rutgers.edu/~sn624/), Anirudh Sivaraman, Vikram Nathan, and Prateesh Goyal (MIT CSAIL), Venkat Arun (IIT Guwahati), [Mohammad Alizadeh](https://people.csail.mit.edu/alizadeh/) (MIT CSAIL), Vimalkumar Jeyakumar (Cisco Tetration Analytics), and Changhoon Kim (Barefoot Networks)
 
 
@@ -455,21 +455,21 @@ http://www.sigcomm.org/awards/best-paper-award
 
 
 
-### SIGCOMM 2015
+### [SIGCOMM 2015](http://conferences.sigcomm.org/sigcomm/2015/)
 
 #### Best Paper Award
 
-***[Central Control Over Distributed Routing](https://vanbever.eu/pdfs/vanbever_fibbing_sigcomm_2015.pdf)*** [[Web](http://fibbing.net/)] [[Slides](http://fibbing.net/files/sigcomm15_slides.pdf)] [Video]  
+***[Central Control Over Distributed Routing](https://vanbever.eu/pdfs/vanbever_fibbing_sigcomm_2015.pdf)*** [[Web](http://fibbing.net/)] [[Slides](http://fibbing.net/files/sigcomm15_slides.pdf)] [[Video](https://www.youtube.com/watch?v=l6JZi8ewXPY)]  
 [Stefano Vissicchio](https://inl.info.ucl.ac.be/svissicchio) (UCLouvain), [Olivier Tilmans](https://inl.info.ucl.ac.be/otilmans) (UCLouvain), [Laurent Vanbever](https://www.vanbever.eu/) (ETH Zürich), [Jennifer Rexford](https://www.cs.princeton.edu/~jrex/) (Princeton University)
 
 #### Best Student Paper Award
 
-***[Rollback Recovery for Middleboxes](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p227.pdf)*** [Slides] [Video]    
+***[Rollback Recovery for Middleboxes](https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p227.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=yKRXCJ0wrCw)]    
 Justine Sherry (UC Berkeley), Peter Gao (UC Berkeley), Soumya Basu (UC Berkeley), Aurojit Panda (UC Berkeley), Arvind Krishnamurthy (University of Washington), Christian Macciocco (Intel Research), Maziar Manesh (Intel Research), Joao Martins (NEC Labs), Sylvia Ratnasamy (UC Berkeley), Luigi Rizzo (University of Pisa), Scott Shenker (UC Berkeley and ICSI).
 
 
 
-### SIGCOMM 2014
+### [SIGCOMM 2014](http://conferences.sigcomm.org/sigcomm/2014/)
 
 #### Best Paper Award
 
@@ -481,7 +481,7 @@ David Naylor (Carnegie Mellon University); Matthew K. Mukerjee (Carnegie Mellon 
 ***CONGA: Distributed Congestion-Aware Load Balancing for Datacenters*** [Slides] [Video]    
 Mohammad Alizadeh (Cisco); Tom Edsall (Cisco); Sarang Dharmapurikar (Cisco); Ramanan Vaidyanathan (Cisco); Kevin Chu (Cisco); Andy Fingerhut (Google); Terry Lam (Cisco); Francis Matus (Cisco); Rong Pan (Cisco); Navindra Yadav (Cisco); George Varghese (Microsoft)
 
-### SIGCOMM 2013
+### [SIGCOMM 2013](http://conferences.sigcomm.org/sigcomm/2013/)
 
 #### Best Paper Award
 
@@ -491,7 +491,7 @@ Vincent Liu, Aaron Parks, Vamsi Talla, [Shyam Gollakota](https://homes.cs.washin
 
 
 
-### SIGCOMM 2012
+###[ SIGCOMM 2012](http://conferences.sigcomm.org/sigcomm/2012/)
 
 #### Best Paper Award
 
@@ -508,7 +508,7 @@ Ali Ghodsi, Vyas Sekar, Matei Zaharia, Ion Stoica
 [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/), Haitham Hassanieh, Ben Ransford, [**Dina Katabi**](people.csail.mit.edu/dina/) (MIT), and Kevin Fu
 
 
-### SIGCOMM 2010
+### [SIGCOMM 2010](http://conferences.sigcomm.org/sigcomm/2010/)
 
 #### Best Paper Award
 
@@ -516,7 +516,7 @@ Ali Ghodsi, Vyas Sekar, Matei Zaharia, Ion Stoica
 Binbin Chen, Zling Zhou, Yuda Zho, and Haifeng Yu 
 
 
-### SIGCOMM 2009
+### [SIGCOMM 2009](http://conferences.sigcomm.org/sigcomm/2009/)
 
 #### Best Paper Award
 
