@@ -1,6 +1,6 @@
 
 
-# Best-Paper-Awards-in-Computer-Science-since-1996-
+# Best-Paper-Awards-in-Computer-Science-since-1996
 
 1. This is the [**website** (https://jeffhuang.com/best_paper_awards.html) ](https://jeffhuang.com/best_paper_awards.html)of best paper awards in some top computer science conferences since 1996.
 
@@ -20,7 +20,8 @@ The Annual International Conference on Mobile Computing and Networking (MobiCom)
 
 MobiCom conferences have been held in locations around the world:
 
-- 25. [MobiCom 2019](https://sigmobile.org/mobicom/2019/), Los Cabos, Mexico, October 21-25, 2019
+- 26. [MobiCom 2020](https://www.sigmobile.org/mobicom/2020/), London, United Kingdom, September 21-25, 2020
+- 25. [MobiCom 2019](https://www.sigmobile.org/mobicom/2019/), Los Cabos, Mexico, October 21-25, 2019
 - 24. [MobiCom 2018](https://www.sigmobile.org/mobicom/2018/), New Delhi, India, October 29 - November 2, 2018
 - 23. [MobiCom 2017](https://www.sigmobile.org/mobicom/2017/), Snowbird, Utah, USA, 16-20 October 2017
 - 22. [MobiCom 2016](https://www.sigmobile.org/mobicom/2016/), New York, USA, 3-7 October 2016
@@ -45,6 +46,37 @@ MobiCom conferences have been held in locations around the world:
 - 3. [MobiCom 1997](https://www.sigmobile.org/mobicom/1997/), Budapest, Hungary, 26-30 September 1997
 - 2. [MobiCom 1996](https://www.sigmobile.org/mobicom/1996/), Rye, New York, USA, 10-12 November 1996
 - 1. [MobiCom 1995](https://www.sigmobile.org/mobicom/1995/), Berkeley, California, USA, 13-15 November 1995
+
+
+
+### [Mobicom 2020](https://www.sigmobile.org/mobicom/2020/) (the 26th Annual International Conference on Mobile Computing and Networking) (/(%))
+
+#### Best Paper Award
+
+
+
+
+### [Mobicom 2019](https://www.sigmobile.org/mobicom/2019/) (the 25th Annual International Conference on Mobile Computing and Networking) (55/290(18.9%))
+
+#### Best Paper Award
+
+***[eBP: A Wearable System For Frequent and Comfortable Blood Pressure Monitoring From User’s Ear](http://mnslab.org/hoangtruong/pubs/2019_MobiCom_eBP.pdf)*** [[Slides](http://mnslab.org/hoangtruong/pubs/2019_MobiCom_eBP_Slide.pptx)] [[Video](https://www.youtube.com/watch?v=lXIw9lzn4F0)] [[Web](http://mnslab.org/)]    
+Nam Bui, Nhat Pham, Jessica Jacqueline Barnitz, Phuc Nguyen, [Hoang Truong](http://mnslab.org/hoangtruong/#publications), Taeho Kim, Anh Nguyen, Zhanan Zou, Nicholas Farrow, Jianliang Xiao (University of Colorado Boulder); Robin Deterding (Children's Hospital Colorado); Thang Dinh (Virginia Commonwealth University); [Tam Vu](http://mnslab.org/tamvu/) (University of Colorado Boulder)
+
+
+***[FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device Interaction](http://cps.kaist.ac.kr/papers/mobicom19-fluid.pdf)*** [[Slides](http://cps.kaist.ac.kr/papers/mobicom19-fluid-slides.pdf)] [[Video](https://www.youtube.com/watch?v=FGVkJzR_NPc)] [Web]    
+Sangeun Oh, Ahyeon Kim, Sunjae Lee, Kilho Lee, Dae R. Jeong (KAIST); [Steven Y. Ko](https://nsr.cse.buffalo.edu/?page_id=272) (University at Buffalo, The State University of New York); [Insik Shin](http://cps.kaist.ac.kr/~ishin/) (KAIST)
+
+#### Best Community Paper Award
+
+***[HealthSense: Software-defined Mobile-based Clinical Trials](https://dl.acm.org/doi/10.1145/3300061.3345433)*** [Slides] [[Video](https://www.youtube.com/watch?v=riANitc5it0)] [[Web](http://amruta.blogs.rice.edu/healthsense/)]    
+Aidan Curtis, [Amruta Pai](http://amruta.blogs.rice.edu/), Jian Cao (Rice University); [Nidal Moukaddam](https://www.bcm.edu/people-search/nidal-moukaddam-27262) (Baylor College of Medicine); [Ashutosh Sabharwal](https://www.ece.rice.edu/~ashu/students.html) (Rice University)
+
+#### Best Paper Honorable Mention
+
+***[Towards Low Cost Soil Sensing Using Wi-Fi](https://www.microsoft.com/en-us/research/uploads/prod/2019/08/Strobe_camera_ready-1.pdf)*** [[Slides](https://www.owlnet.rice.edu/~jianding/publications/Strobe_mobicom_slides.pdf)] [[Video](https://www.youtube.com/watch?v=ffm1Un_ySqI)] [[Web](https://www.microsoft.com/en-us/research/publication/towards-low-cost-soil-sensing-using-wi-fi/)]    
+[Jian Ding](https://www.owlnet.rice.edu/~jianding/) (Rice University); [Ranveer Chandra](https://www.microsoft.com/en-us/research/people/ranveer/) (Microsoft)
+
 
 
 ### [Mobicom 2018](https://www.sigmobile.org/mobicom/2018/) (the 24th Annual International Conference on Mobile Computing and Networking) (42/187(22.2%))
@@ -370,7 +402,7 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 
 ### Previous SIGCOMM Conferences
 
-
+- [SIGCOMM 2020](http://conferences.sigcomm.org/sigcomm/2020/) in New York, NY, USA. August 10-14, 2020.
 - [SIGCOMM 2019](http://conferences.sigcomm.org/sigcomm/2019/) in Beijing, China. August 19-24, 2019.
 - [SIGCOMM 2018](http://conferences.sigcomm.org/sigcomm/2018/) in Budapest, Hungary. August 20-25, 2018. 
 - [SIGCOMM 2017](http://conferences.sigcomm.org/sigcomm/2017/) in Los Angeles, CA, USA. August 21-25, 2017.
@@ -384,11 +416,11 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 - [SIGCOMM 2009](http://conferences.sigcomm.org/sigcomm/2009/) in Barcelona, Spain. August 17-21, 2009.
 - [SIGCOMM 2008](http://conferences.sigcomm.org/sigcomm/2008/) in Seattle, WA, USA. August 17-22, 2008.
 - [SIGCOMM 2007](http://conferences.sigcomm.org/sigcomm/2007/) in Kyoto, Japan. Aug. 27-31, 2007.
-- [SIGCOMM 2006](http://conferences.sigcomm.org/sigcomm/2006/) in Pisa, Italy. Sept.11-15, 2006.
+- [SIGCOMM 2006](http://conferences.sigcomm.org/sigcomm/2006/) in Pisa, Italy. September 11-15, 2006.
 - [SIGCOMM 2005](http://conferences.sigcomm.org/sigcomm/2005/) in Philadelphia, PA, USA. August 22-26, 2005.
-- [SIGCOMM 2004](conferences.sigcomm.org/sigcomm/2004/) in Portland.
+- [SIGCOMM 2004](conferences.sigcomm.org/sigcomm/2004/) in Portland, OR, USA. August 30- September 3, 2004.
 - [SIGCOMM 2003](http://conferences.sigcomm.org/sigcomm/2003/) in Karlsruhe，Germany. August 25-29, 2003. 
-- [SIGCOMM 2002](http://conferences.sigcomm.org/sigcomm/2002/) in Pittsburgh, USA. August 19-23, 2002.
+- [SIGCOMM 2002](http://conferences.sigcomm.org/sigcomm/2002/) in Pittsburgh,  PA, USA. August 19-23, 2002.
 - [SIGCOMM 2001](http://conferences.sigcomm.org/sigcomm/2001/) in San Diego, CA, USA. August 27-31, 2001. 
 - [SIGCOMM 2000](http://conferences.sigcomm.org/sigcomm/2000/) in Stockholm, Sweden. August 28-September 1, 2000.
 - [SIGCOMM 1999](http://conferences.sigcomm.org/sigcomm/1999/) in Cambridge, Massachusetts, USA. August 31-September 3, 1999.
@@ -410,6 +442,23 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 http://www.sigcomm.org/awards/best-paper-award
 
 
+
+
+### [SIGCOMM 2020](http://conferences.sigcomm.org/sigcomm/2020/)
+
+#### Best Paper Award
+
+
+
+
+
+
+### [SIGCOMM 2019](http://conferences.sigcomm.org/sigcomm/2019/)
+
+#### Best Paper Award
+
+***[Underwater Backscatter Networking](http://www.mit.edu/~fadel/papers/PAB-paper.pdf)*** [[Web](https://www.media.mit.edu/publications/underwater-backscatter-networking/)] [[Slides](https://www.mit.edu/~fadel/slides/PAB-slides.zip)] [[Video](https://www.youtube.com/watch?v=zC3HaY6YJLY)] [[Presentation Video](https://dl.acm.org/ft_gateway.cfm?id=3342091&ftid=2080731&dwn=1&CFID=153853516&CFTOKEN=83cd046e67f484a4-561F895A-CC29-7729-70CF6744AE201ECC)]       
+[Junsu Jang](https://www.media.mit.edu/people/junsuj/overview/) (MIT Media Lab) and [Fadel Adib](https://www.mit.edu/~fadel/) (MIT Media Lab)
 
 
 ### [SIGCOMM 2018](http://conferences.sigcomm.org/sigcomm/2018/)
