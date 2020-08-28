@@ -589,12 +589,46 @@ Paramvir Bahl, Ranveer Chandra, Thomas Moscibroda, Rohan Murthy, and Matt Welsh
 ----------
 
 
-## Infocom 
+## Infocom
 
 
 
 
 
+
+ 
+### [INFOCOM 2020](https://infocom2020.ieee-infocom.org/awards)
+
+#### Best Paper Award
+
+
+***[Push the Limit of Acoustic Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/9155402)*** [[Slides](https://www4.comp.polyu.edu.hk/~csywwang/papers/infocom_slide.pdf)] [[Video](https://www4.comp.polyu.edu.hk/~csyqzheng/video/RobuCIR.mp4)]    
+Yanwen Wang, Jiaxing Shen, and [Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/),
+The Hong Kong Polytechnic University, Hongkong, China
+
+***[On the Power of Randomization for Scheduling Real-Time Traffic in Wireless Networks](https://www.ee.columbia.edu/~jghaderi/real-time-infocom20.pdf)*** [Slides] [Video]   
+Christos Tsanikidis and [Javad Ghaderi](https://www.ee.columbia.edu/~jghaderi/), 
+Columbia University, USA
+
+***[Reducing the Service Function Chain Backup Cost over the Edge and Cloud by a Self-Adapting Scheme](https://ieeexplore.ieee.org/abstract/document/9155394)*** [Slides] [Video]   
+Xiaojun Shang, Yaodong Huang, [Zhenhua Liu](http://www.ams.stonybrook.edu/~zhliu/#_Selected_Publications), Yuanyuan Yang, 
+Stony Brook University, USA
+
+
+ 
+### [INFOCOM 2019](https://infocom2019.ieee-infocom.org/awards)
+
+#### Best Paper Award
+
+
+***RF-Mehndi: A Fingertip Profiled RF Identifier*** [Slides] [Video]    
+Cui Zhao (Xi'an Jiaotong University, P.R. China); Zhenjiang Li (City University of Hong Kong, Hong Kong); Han Ding (Xi'an Jiaotong University, P.R. China); Jinsong Han (Zhejiang University & Institute of Cyber Security Research, P.R. China); Wei Xi (Xi'an Jiaotong University, P.R. China); Ting Liu (Xi'an Jiaotong University, PRC, P.R. China); Ruowei Gui (Xi'an Jiaotong University, P.R. China)
+
+***Counterintuitive Characteristics of Optimal Distributed LRU Caching Over Unreliable Channels*** [Slides] [Video]     
+Guocong Quan, Jian Tan and Atilla Eryilmaz (The Ohio State University, USA)
+
+***Combinatorial Sleeping Bandits with Fairness Constraints*** [Slides] [Video]     
+Fengjiao Li (Temple University, USA); Jia Liu (Iowa State University, USA); Bo Ji (Temple University, USA)
 
 
 
