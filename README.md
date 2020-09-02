@@ -589,7 +589,7 @@ Paramvir Bahl, Ranveer Chandra, Thomas Moscibroda, Rohan Murthy, and Matt Welsh
 ----------
 
 
-## Infocom
+## INFOCOM (IEEE International Conference on Computer Communications)
 
 
 
@@ -625,10 +625,10 @@ Stony Brook University, USA
 Cui Zhao (Xi'an Jiaotong University, P.R. China); [Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/) (City University of Hong Kong, Hong Kong); Han Ding (Xi'an Jiaotong University, P.R. China); Jinsong Han (Zhejiang University & Institute of Cyber Security Research, P.R. China); Wei Xi (Xi'an Jiaotong University, P.R. China); Ting Liu (Xi'an Jiaotong University, PRC, P.R. China); Ruowei Gui (Xi'an Jiaotong University, P.R. China)
 
 ***[Counterintuitive Characteristics of Optimal Distributed LRU Caching Over Unreliable Channels](http://www2.ece.ohio-state.edu/~eryilmaz/UnreliableCachingTR.pdf)*** [Slides] [Video]     
-Guocong Quan, [Jian Tan](https://u.osu.edu/tan.252/) and [Atilla Eryilmaz](http://www2.ece.ohio-state.edu/~eryilmaz/) (The Ohio State University, USA)
+Guocong Quan, [Jian Tan](https://u.osu.edu/tan.252/) and [**Atilla Eryilmaz**](http://www2.ece.ohio-state.edu/~eryilmaz/) (The Ohio State University, USA)
 
 ***[Combinatorial Sleeping Bandits with Fairness Constraints](https://kevinliu-osu-ece.github.io/publications/Sleeping_Bandit_INFOCOM19.pdf)*** [Slides] [Video]     
-[Fengjiao Li](https://tuj42942.wixsite.com/fengjiao-li) (Temple University, USA); [Jia Liu](https://kevinliu-osu-ece.github.io/) (Iowa State University, USA); [Bo Ji](http://people.cs.vt.edu/boji/) (Temple University, USA)
+[Fengjiao Li](https://tuj42942.wixsite.com/fengjiao-li) (Temple University, USA); [**Jia Liu**](https://kevinliu-osu-ece.github.io/) (Iowa State University, USA); [Bo Ji](http://people.cs.vt.edu/boji/) (Temple University, USA)
 
 
 
@@ -647,7 +647,7 @@ Guocong Quan, [Jian Tan](https://u.osu.edu/tan.252/) and [Atilla Eryilmaz](http:
 [Igor Kadota](http://www.mit.edu/~kadota/) (Massachusetts Institute of Technology, USA); [Abhishek Sinha](https://home.iitm.ac.in/abhishek.sinha/) (Massachusetts Institute of Technology, USA); [Eytan Modiano](https://modiano.mit.edu/) (MIT, USA)
 
 
-### [INFOCOM 2017](https://infocom2017.ieee-infocom.org)
+### [INFOCOM 2017](https://infocom2017.ieee-infocom.org/content/awards)
 
 #### Best Paper Award
 
@@ -657,12 +657,130 @@ Guocong Quan, [Jian Tan](https://u.osu.edu/tan.252/) and [Atilla Eryilmaz](http:
  
 #### Best Paper Runners up Awards  
  
-A Parity Check Analog Decoder for Molecular Communication Based on Biological Circuits [Slides] [Video]     
-Alessio Marcone (Politecnico di Milano, Italy); Massimiliano Pierobon (University of Nebraska­ Lincoln, USA); Maurizio Magarini (Politecnico di Milano, Italy)
+***[A Parity Check Analog Decoder for Molecular Communication Based on Biological Circuits](https://mbite.unl.edu/files/papers/2017/c1.pdf)*** [Slides] [Video]     
+Alessio Marcone (Politecnico di Milano, Italy); [Massimiliano Pierobon](https://mbite.unl.edu/massimiliano-pierobon) (University of Nebraska­ Lincoln, USA); [Maurizio Magarini](http://www.polisocial.polimi.it/en/home-en/) (Politecnico di Milano, Italy)
  
  
-DyMo: Dynamic Monitoring of Large Scale LTE-Multicast Systems [Slides] [Video]     
-Yigal Bejerano (Bell­Labs, Alcatel­Lucent, USA); Chandru Raman (Mobile Networks, Nokia, USA); Chun­Nam Yu (Bell Labs, Nokia, USA); Varun Gupta and Craig Gutterman (Columbia University, USA); Tomas Young and Hugo Infante (Mobile Networks, Nokia, USA); Yousef Abdelmalek (Verizon Wireless, USA); Gil Zussman (Columbia University, USA)
+***[DyMo: Dynamic Monitoring of Large Scale LTE-Multicast Systems](https://wimnet.ee.columbia.edu/wp-content/uploads/2017/01/DyMo-Infocom.pdf)*** [[Slides](https://wimnet.ee.columbia.edu/wp-content/uploads/2017/06/Dymo-Infocom.pdf)] [Video]     
+[Yigal Bejerano](http://54.210.236.23:8080/Yigal-Bejerano/index.jsp) (Bell­Labs, Alcatel­Lucent, USA); Chandru Raman (Mobile Networks, Nokia, USA); Chun­Nam Yu (Bell Labs, Nokia, USA); Varun Gupta and Craig Gutterman (Columbia University, USA); Tomas Young and Hugo Infante (Mobile Networks, Nokia, USA); Yousef Abdelmalek (Verizon Wireless, USA); [Gil Zussman](https://www.ee.columbia.edu/gil-zussman) (Columbia University, USA)
+
+
+
+### [INFOCOM 2016](https://infocom2016.ieee-infocom.org/content/best-paper-award-runner.html)
+
+#### Best Paper Award
+
+***[Heavy-Ball: A New Approach to Tame Delay and Convergence in Wireless Network Optimization](http://newslab.ece.ohio-state.edu/research/resources/Heavy_ball.pdf)*** [Slides] [Video]    
+[**Jia Liu**](https://kevinliu-osu-ece.github.io/) and [**Atilla Eryilmaz**](http://www2.ece.ohio-state.edu/~eryilmaz/) (Ohio State University, USA); [**Ness B. Shroff**](http://newslab.ece.ohio-state.edu/home/) (The Ohio State University, USA); Elizabeth Serena Bentley (AFRL, USA)
+
+ 
+#### Best Paper Award Runner-up    
+
+[***FLIP the (Flow) Table: Fast LIghtweight Policy-preserving SDN Updates***](http://csc.csudh.edu/btang/seminar/papers/flip.pdf) [[Slides](https://inl.info.ucl.ac.be/system/files/infocom16_flip.pdf)] [Video]     
+[Stefano Vissicchio](http://www0.cs.ucl.ac.uk/staff/S.Vissicchio/) (Universit Catholique de Louvain, Belgium); [Luca Cittadini](https://compunet.ing.uniroma3.it/#!/people/cittadini) (Roma Tre University, Italy)
+
+
+
+
+### [INFOCOM 2015](https://infocom2015.ieee-infocom.org/content/best-paper-award-runner.html)
+
+#### Best Paper Award
+
+***[The Power of Slightly More than One Sample in Randomized Load Balancing](https://ieeexplore.ieee.org/document/7218487)*** [Slides] [Video]    
+[Lei Ying](https://leiying.engin.umich.edu/) (Arizona State University, USA); lhttps://sites.google.com/a/illinois.edu/srikant/
+ (University of Illinois at Urbana-Champaign, USA); [Xiaohan Kang](https://veggente.github.io/) (Arizona State University, USA)
+
+#### Best Paper Award Runner-up
+
+***[On the Efficiency of Social Recommender Networks](https://ieeexplore.ieee.org/document/7218619)*** [Slides] [Video]    
+Felix Ming Fai Wong, [Zhenming Liu](http://zmliu.org/), [**Mung Chiang**](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2017/chiang.html) (Princeton University, USA)
+
+
+
+
+### [INFOCOM 2014](https://infocom2014.ieee-infocom.org/Program_awards_BP.html)
+
+#### Best Paper Award
+
+
+***[Joint Static and Dynamic Traffic Scheduling in Data Center Networks](https://ieeexplore.ieee.org/document/6848190)*** [Slides] [Video]    
+Zizhong Cao (Polytechnic Institute of New York University, USA),
+M. Kodialam (Bell Labs, Alcatel-Lucent, USA),
+T. V. Lakshman (Bell Labs, Alcatel-Lucent, USA) 
+
+***[Performance Evaluation and Asymptotics for Content Delivery Networks](http://users.ece.utexas.edu/~gustavo/papers/ShD14.pdf)***  [[Slides](http://users.ece.utexas.edu/~gustavo/talks/shah-Infocom2014.pdf)] [Video]     
+[Virag Shah](https://virags.github.io/) (The University of Texas at Austin, USA),
+[Gustavo de Veciana](http://users.ece.utexas.edu/~gustavo/) (The University of Texas at Austin, USA)
+
+
+#### Best Paper Award Runner-up
+
+***[A Social Group Utility Maximization Framework with Applications in Database Assisted Spectrum Access](http://webhome.auburn.edu/~xzg0017/infocom14_SGUM.PDF)*** [Slides] [Video]     
+Xu Chen (Arizona State University, USA),
+[Xiaowen Gong](http://webhome.auburn.edu/~xzg0017/) (Arizona State University, USA),
+[Lei Yang](https://www.cse.unr.edu/~lyang/) (Arizona State University, USA),
+[Junshan Zhang](http://informationnet.asu.edu/) (Arizona State University, USA)
+
+
+
+### [INFOCOM 2013](https://infocom2013.ieee-infocom.org/awards.html)
+
+#### Best Paper Award
+
+***[On the Steady-State of Cache Networks](http://mobilityfirst.winlab.rutgers.edu/documents/INFOCOM12.pdf)*** [[Slides](https://slideplayer.com/slide/1660521/)] [[Video](https://slideplayer.com/slide/1660521/)]     
+Elisha Rosensweig (CloudBand, Alcatel-Lucent, Israel),
+Daniel Menasche (Federal University of Rio de Janeiro, Brazil),
+[Jim Kurose](https://www-net.cs.umass.edu/personnel/kurose.html) (University of Massachusetts at Amherst, USA)
+
+
+#### Best Paper Award Runner-up
+
+[***Distributed Cross-Layer Optimization in Wireless Networks: A Second-Order Approach***](https://newslab.ece.ohio-state.edu/research/resources/1569647467.pdf) [Slides] [Video]      
+[**Jia Liu**](https://kevinliu-osu-ece.github.io/) (Ohio State University, USA),
+[Cathy Xia](https://u.osu.edu/xia.52/) (Ohio-State University, USA),
+[**Ness B. Shroff**](http://newslab.ece.ohio-state.edu/home/) (The Ohio State University, USA),
+[Hanif Sherali](https://sites.google.com/a/vt.edu/sherali-webpage/) (Virginia Tech, USA)
+
+
+***[On Finding an Optimal TCAM Encoding Scheme for Packet Classification](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.465.957&rep=rep1&type=pdf)*** [[Slides](https://www.ee.technion.ac.il/~isaac/p/infocom13_tcam.ppt)] [Video]     
+Ori Rottenstreich (Technion, Israel),
+Isaac Keslassy (Technion, Israel),
+Avinatan Hassidim (Google, Israel),
+Haim Kaplan (Tel-Aviv University, Israel),
+[Ely Porat](https://u.cs.biu.ac.il/~porately/) (Bar Ilan University, Israel)
+
+
+
+
+
+### [INFOCOM 2012](https://infocom2012.ieee-infocom.org/awards.html)
+
+#### Best Paper Award
+***[Multi-Resource Allocation: Fairness-Efficiency Tradeoffs in a Unifying Framework ](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.720.6936&rep=rep1&type=pdf)*** [[Slides](https://www.andrew.cmu.edu/user/cjoewong/Infocom_Slides.pdf)] [Video]      
+[Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/) (Princeton University, USA),
+Soumya Sen (Princeton University, USA),
+[Tian Lan](https://www2.seas.gwu.edu/~tlan/) (George Washington University, USA),
+[**Mung Chiang**](https://engineering.purdue.edu/Engr/People/NewFaculty/New_Faculty_2017/chiang.html) (Princeton University, USA)
+
+
+#### Best Paper Award Runner-up              
+***[Upward Max Min Fairness](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/37651.pdf)*** [Slides] [Video]     
+Emilie Danna (Google, USA),
+Avinatan Hassidim (Google, Israel),
+Haim Kaplan (Tel-Aviv University, Israel),
+Alok Kumar (Google, USA),
+[Yishay Mansour](https://www.tau.ac.il/~mansour/) (Tel-Aviv University, Israel),
+Danny Raz (Technion, Israel),
+Michal Segalov (Google, Israel)
+
+
+### [INFOCOM 2011](https://infocom2011.ieee-infocom.org/)
+
+#### Best Paper Award
+***[Dynamic right-sizing for power-proportional data centers](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6B124B01C606286066CF1C0A5F6BD29B?doi=10.1.1.172.2813&rep=rep1&type=pdf)*** [Slides] [Video]     
+Minghong Lin (California Institute of Technology), [Adam Wierman](http://users.cms.caltech.edu/~adamw/) (California Institute of Technology), Lachlan L. H. Andrew (Swinburne University of Technology), [Eno Thereska](https://enothereska.wordpress.com/) (Microsoft Research)
+
+
 
 
 ----------
