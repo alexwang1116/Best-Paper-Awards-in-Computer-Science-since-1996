@@ -621,15 +621,48 @@ Stony Brook University, USA
 #### Best Paper Award
 
 
-***RF-Mehndi: A Fingertip Profiled RF Identifier*** [Slides] [Video]    
-Cui Zhao (Xi'an Jiaotong University, P.R. China); Zhenjiang Li (City University of Hong Kong, Hong Kong); Han Ding (Xi'an Jiaotong University, P.R. China); Jinsong Han (Zhejiang University & Institute of Cyber Security Research, P.R. China); Wei Xi (Xi'an Jiaotong University, P.R. China); Ting Liu (Xi'an Jiaotong University, PRC, P.R. China); Ruowei Gui (Xi'an Jiaotong University, P.R. China)
+***[RF-Mehndi: A Fingertip Profiled RF Identifier](https://ieeexplore.ieee.org/abstract/document/8737419)*** [[Slides](https://www.cs.cityu.edu.hk/~zhenjili/2019-Infocom-RF-Mehndi-Slides.pptx)] [Video]    
+Cui Zhao (Xi'an Jiaotong University, P.R. China); [Zhenjiang Li](https://www.cs.cityu.edu.hk/~zhenjili/) (City University of Hong Kong, Hong Kong); Han Ding (Xi'an Jiaotong University, P.R. China); Jinsong Han (Zhejiang University & Institute of Cyber Security Research, P.R. China); Wei Xi (Xi'an Jiaotong University, P.R. China); Ting Liu (Xi'an Jiaotong University, PRC, P.R. China); Ruowei Gui (Xi'an Jiaotong University, P.R. China)
 
-***Counterintuitive Characteristics of Optimal Distributed LRU Caching Over Unreliable Channels*** [Slides] [Video]     
-Guocong Quan, Jian Tan and Atilla Eryilmaz (The Ohio State University, USA)
+***[Counterintuitive Characteristics of Optimal Distributed LRU Caching Over Unreliable Channels](http://www2.ece.ohio-state.edu/~eryilmaz/UnreliableCachingTR.pdf)*** [Slides] [Video]     
+Guocong Quan, [Jian Tan](https://u.osu.edu/tan.252/) and [Atilla Eryilmaz](http://www2.ece.ohio-state.edu/~eryilmaz/) (The Ohio State University, USA)
 
-***Combinatorial Sleeping Bandits with Fairness Constraints*** [Slides] [Video]     
-Fengjiao Li (Temple University, USA); Jia Liu (Iowa State University, USA); Bo Ji (Temple University, USA)
+***[Combinatorial Sleeping Bandits with Fairness Constraints](https://kevinliu-osu-ece.github.io/publications/Sleeping_Bandit_INFOCOM19.pdf)*** [Slides] [Video]     
+[Fengjiao Li](https://tuj42942.wixsite.com/fengjiao-li) (Temple University, USA); [Jia Liu](https://kevinliu-osu-ece.github.io/) (Iowa State University, USA); [Bo Ji](http://people.cs.vt.edu/boji/) (Temple University, USA)
 
+
+
+
+### [INFOCOM 2018](https://infocom2018.ieee-infocom.org/awards)
+
+#### Best Paper Award
+
+***[Understanding Ethereum via Graph Analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf)*** [Slides] [Video]    
+[Ting Chen](http://faculty.uestc.edu.cn/chenting/en/index.htm) (University of Electronic Science and Technology of China (UESTC), P.R. China); Yuxiao Zhu (School of Management, Guangdong University of Technology, P.R. China); Zihao Li (University of Electronic Science and Technology of China (UESTC), P.R. China); Jiachi Chen (The Hong Kong Polytechnic University, Hong Kong); [Xiaoqi Li](https://csxqli.github.io/) (The Hong Kong Polytechnic University, Hong Kong); [Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/) (The Hong Kong Polytechnic University, Hong Kong); Xiaodong Lin (Wilfrid Laurier University, Canada); Xiaosong Zhang (University of Electronic Science and Technology of China, P.R. China)
+
+***[WiFED: WiFi Friendly Energy Delivery with Distributed Beamforming](https://genesys-lab.org/papers/WiFED-INFOCOM18.pdf)*** [Slides] [Video]     
+[Subhramoy Mohanti](http://www1.coe.neu.edu/~smohanti/) (Northeastern University, USA); Elif Bozkaya (Istanbul Technical University & National Defense University Naval Academy, Turkey); M. Yousof Naderi (Northeastern University, USA); Berk Canberk (Istanbul Technical University, Turkey); [Kaushik Chowdhury](http://genesys-lab.org/team/kaushik-chowdhury) (Northeastern University, USA)
+
+***[Optimizing Age of Information in Wireless Networks with Throughput Constraints](http://www.mit.edu/~kadota/PDFs/2018INFOCOM.pdf)*** [[Slides](https://home.iitm.ac.in/abhishek.sinha/INFOCOM_2018_Sinha.pptx)] [Video]     
+[Igor Kadota](http://www.mit.edu/~kadota/) (Massachusetts Institute of Technology, USA); [Abhishek Sinha](https://home.iitm.ac.in/abhishek.sinha/) (Massachusetts Institute of Technology, USA); [Eytan Modiano](https://modiano.mit.edu/) (MIT, USA)
+
+
+### [INFOCOM 2017](https://infocom2017.ieee-infocom.org)
+
+#### Best Paper Award
+
+
+***[One Step at a Time: Optimizing SDN Upgrades in ISP Networks](http://www.smaragdakis.net/publications/Infocom2017)*** [[Slides](https://people.csail.mit.edu/gsmaragd/publications/Infocom2017/Infocom2017-presentation.pdf)] [Video]    
+[Konstantinos Poularakis](https://sites.google.com/site/kpoularakis/) (Yale University, USA); George Iosifidis (Trinity College Dublin and CONNECT, Ireland & Yale University, USA); [Georgios Smaragdakis](https://people.csail.mit.edu/gsmaragd/) (MIT and TU Berlin); [Leandros Tassiulas](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) (Yale University, USA)
+ 
+#### Best Paper Runners up Awards  
+ 
+A Parity Check Analog Decoder for Molecular Communication Based on Biological Circuits [Slides] [Video]     
+Alessio Marcone (Politecnico di Milano, Italy); Massimiliano Pierobon (University of Nebraska­ Lincoln, USA); Maurizio Magarini (Politecnico di Milano, Italy)
+ 
+ 
+DyMo: Dynamic Monitoring of Large Scale LTE-Multicast Systems [Slides] [Video]     
+Yigal Bejerano (Bell­Labs, Alcatel­Lucent, USA); Chandru Raman (Mobile Networks, Nokia, USA); Chun­Nam Yu (Bell Labs, Nokia, USA); Varun Gupta and Craig Gutterman (Columbia University, USA); Tomas Young and Hugo Infante (Mobile Networks, Nokia, USA); Yousef Abdelmalek (Verizon Wireless, USA); Gil Zussman (Columbia University, USA)
 
 
 ----------
