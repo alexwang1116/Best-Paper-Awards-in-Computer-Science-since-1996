@@ -821,6 +821,9 @@ Minghong Lin (California Institute of Technology), [Adam Wierman](http://users.c
 
 ## [<h1 id="4">NSDI</h1>](https://www.usenix.org/conference/nsdi20) (USENIX Symposium on Networked Systems Design and Implementation)
 
+NSDI focuses on the design principles, implementation, and practical evaluation of networked and distributed systems. Our goal is to bring together researchers from across the networking and systems community to foster a broad approach to addressing overlapping research challenges.
+
+
 ### PAST NSDI SYMPOSIA:
 
 
@@ -884,14 +887,76 @@ March 29, 2004–March 31, 2004 | San Francisco, CA, United States
 
 ### [NSDI '20](https://www.usenix.org/conference/nsdi20)  
   
-AmphiLight: Direct Air-Water Communication with Laser Light [Slides] [Video]      
-Charles J. Carver, Department of Computer Science, Dartmouth College; Zhao Tian, Department of Computer Science, Dartmouth College; Hongyong Zhang, Thayer School of Engineering, Dartmouth College; Kofi M. Odame, Thayer School of Engineering, Dartmouth College; Alberto Quattrini Li, Department of Computer Science, Dartmouth College; Xia Zhou, Department of Computer Science, Dartmouth College
+***[AmphiLight: Direct Air-Water Communication with Laser Light](https://www.usenix.org/system/files/nsdi20-paper-carver.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_carver.pdf)] [[Video](https://www.usenix.org/conference/nsdi20/presentation/carver)]      
+[Charles J. Carver](https://home.cs.dartmouth.edu/~ccarver/), Department of Computer Science, Dartmouth College; Zhao Tian, Department of Computer Science, Dartmouth College; Hongyong Zhang, Thayer School of Engineering, Dartmouth College; Kofi M. Odame, Thayer School of Engineering, Dartmouth College; Alberto Quattrini Li, Department of Computer Science, Dartmouth College; [Xia Zhou](https://home.cs.dartmouth.edu/~xia/), Department of Computer Science, Dartmouth College
 
-Learning in situ: a randomized experiment in video streaming [Slides] [Video]    
-Francis Y. Yan, Stanford University; Hudson Ayers, Stanford University; Chenzhi Zhu, Tsinghua University; Sadjad Fouladi, Stanford University; James Hong, Stanford University; Keyi Zhang, Stanford University; Philip Levis, Stanford University; Keith Winstein, Stanford University
+***[Learning in situ: a randomized experiment in video streaming](https://www.usenix.org/system/files/nsdi20-paper-yan.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_yan.pdf)] [[Video](https://www.usenix.org/conference/nsdi20/presentation/yan)]    
+[Francis Y. Yan](https://francisyyan.org/), Stanford University; Hudson Ayers, Stanford University; Chenzhi Zhu, Tsinghua University; Sadjad Fouladi, Stanford University; James Hong, Stanford University; Keyi Zhang, Stanford University; [Philip Levis](http://csl.stanford.edu/~pal/), Stanford University; [**Keith Winstein**](https://cs.stanford.edu/~keithw/), Stanford University
 
-Understanding, Detecting and Localizing Partial Failures in Large System Software [Slides] [Video]            
-Chang Lou, Johns Hopkins University; Peng Huang, Johns Hopkins University; Scott Smith, Johns Hopkins University
+***[Understanding, Detecting and Localizing Partial Failures in Large System Software ](https://www.usenix.org/system/files/nsdi20-paper-lou.pdf)***[[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_lou.pdf)] [[Video](https://www.usenix.org/conference/nsdi20/presentation/lou)]            
+[Chang Lou](https://www.cs.jhu.edu/~chlou/about/), Johns Hopkins University; [Peng Huang](https://www.cs.jhu.edu/~huang/), Johns Hopkins University; [Scott Smith](https://www.cs.jhu.edu/~scott/), Johns Hopkins University
+
+
+
+### [NSDI '19](https://www.usenix.org/conference/nsdi19)
+
+***[Datacenter RPCs can be General and Fast](https://www.usenix.org/system/files/nsdi19-kalia.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_kalia.pdf)] [[Video](https://www.usenix.org/conference/nsdi19/presentation/kalia)]      
+[Anuj Kalia](https://webpage-266700.appspot.com/), Carnegie Mellon University; Michael Kaminsky, Intel Labs; [David Andersen](http://www.cs.cmu.edu/~dga/), Carnegie Mellon University
+
+***[Scaling Community Cellular Networks with CommunityCellularManager](https://www.usenix.org/system/files/nsdi19-hasan.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_hasan.pdf)] [[Video](https://www.usenix.org/conference/nsdi19/presentation/hasan)]      
+[Shaddi Hasan](https://www.shaddih.com/), UC Berkeley; Mary Claire Barela, University of the Philippines, Diliman; Matthew Johnson, University of Washington; Eric Brewer, UC Berkeley; [Kurtis Heimerl](https://kurti.sh/), University of Washington
+
+***[Understanding Lifecycle Management Complexity of Datacenter Topologies](https://www.usenix.org/system/files/nsdi19-zhang.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_zhang_mingyang.pdf)] [[Video](https://www.usenix.org/conference/nsdi19/presentation/zhang)]      
+[Mingyang Zhang](https://nsl.usc.edu/people/mingyang-zhang/), University of Southern California; Radhika Niranjan Mysore, VMware Research; Sucha Supittayapornpong, University of Southern California; [Ramesh Govindan](https://nsl.usc.edu/people/ramesh/), University of Southern California
+
+
+### [NSDI '18](https://www.usenix.org/conference/nsdi18)
+
+***[NetChain: Scale-Free Sub-RTT Coordination](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-jin.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_jin.pdf)] [[Video](https://www.usenix.org/conference/nsdi18/presentation/jin)]       
+[Xin Jin](https://www.cs.jhu.edu/~xinjin/), Johns Hopkins University; Xiaozhou Li, Barefoot Networks; Haoyu Zhang, Princeton University; Nate Foster, Cornell; Jeongkeun Lee, Barefoot Networks; Robert Soulé, Università della Svizzera italiana; Changhoon Kim, Barefoot Networks; [Ion Stoica](https://people.eecs.berkeley.edu/~istoica/), UC Berkeley
+
+***[Stateless Datacenter Load-balancing with Beamer](https://www.usenix.org/system/files/conference/nsdi18/nsdi18-olteanu.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi18_slides_olteanu.pdf)] [[Video](https://www.usenix.org/conference/nsdi18/presentation/olteanu)]      
+Vladimir Olteanu, University Politehnica of Bucharest; Alexandru Agache, University Politehnica of Bucharest; Andrei Voinescu, University Politehnica of Bucharest; [Costin Raiciu](http://nets.cs.pub.ro/~costin/), University Politehnica of Bucharest
+
+### [NSDI '17](https://www.usenix.org/conference/nsdi17)
+ 
+***[mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jamshed.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_jamshed.pdf)] [[Video](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed)]    
+[Muhammad Asim Jamshed](https://ajamshed.github.io/), Korea Advanced Institute of Science and Technology (KAIST); YoungGyoun Moon, Korea Advanced Institute of Science and Technology (KAIST); Donghwi Kim, Korea Advanced Institute of Science and Technology (KAIST); Dongsu Han, Korea Advanced Institute of Science and Technology (KAIST); [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/), Korea Advanced Institute of Science and Technology (KAIST)
+
+***[The Design, Implementation, and Deployment of a System to Transparently Compress Hundreds of Petabytes of Image Files for a File-Storage Service](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-horn-daniel.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_horn.pdf)] [[Video](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/horn)]      
+Daniel Reiter Horn, Dropbox Inc.; Ken Elkabany, Dropbox Inc.; Chris Lesniewski-Lass, Dropbox; [**Keith Winstein**](https://cs.stanford.edu/~keithw/), Stanford University
+
+
+
+### NSDI '16
+
+An Industrial-Scale Software Defined Internet Exchange Point [Slides] [Video]     
+Arpit Gupta, Princeton University; Robert MacDavid, Princeton University; Rudiger Birkner, ETH Zürich; Marco Canini, Université catholique de Louvain; Nick Feamster, Princeton University ; Jennifer Rexford, Princeton University; Laurent Vanbever, ETH Zürich
+
+Passive Wi-Fi: Bringing Low Power to Wi-Fi Transmissions [Slides] [Video]     
+Bryce Kellogg, University of Washington; Vamsi Talla, University of Washington; Shyamnath Gollakota, University of Washington; Joshua R. Smith, University of Washington
+
+PhyCloak: Obfuscating Sensing from Communication Signals [Slides] [Video]     
+Yue Qiao, The Ohio State University; Ouyang Zhang, The Ohio State University; Wenjie Zhou, The Ohio State University; Kannan Srinivasan, The Ohio State University; Anish Arora, The Ohio State University
+
+
+
+### NSDI '15
+
+The Design and Implementation of Open vSwitch [Slides] [Video]      
+[Ben Pfaff](https://research.vmware.com/researchers/ben-pfaff), VMware, Inc.; Justin Pettit, VMware, Inc.; Teemu Koponen, VMware, Inc.; Ethan Jackson, VMware, Inc.; Andy Zhou, VMware, Inc.; Jarno Rajahalme, VMware, Inc.; Jesse Gross, VMware, Inc.; Alex Wang, VMware, Inc.; Joe Stringer, VMware, Inc.; Pravin Shelar, VMware, Inc.; Keith Amidon, VMware, Inc.; Martín Casado, VMware, Inc.
+
+Designing Distributed Systems Using Approximate Synchrony in Data Center Networks [Slides] [Video]      
+Dan R. K. Ports, University of Washington; Jialin Li, University of Washington; Vincent Liu, University of Washington; Naveen Kr. Sharma, University of Washington; Arvind Krishnamurthy, University of Washington
+
+Queues Don’t Matter When You Can JUMP Them! [Slides] [Video]     
+Matthew P. Grosvenor, University of Cambridge; Malte Schwarzkopf, University of Cambridge; Ionel Gog, University of Cambridge; Robert N. M. Watson, University of Cambridge; Andrew W. Moore, University of Cambridge; Steven Hand, University of Cambridge; Jon Crowcroft, University of Cambridge
+
+
+
+
+
+
 
 ----------
 
