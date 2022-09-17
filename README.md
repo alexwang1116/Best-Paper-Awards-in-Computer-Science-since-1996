@@ -12,7 +12,7 @@
 
 ----------
 
-**Contents By Conference**: [MobiCom](#1), [SIGCOMM](#2), [INFOCOM](#3), [NSDI](#4)
+**Contents By Conference**: [MobiCom](#1), [SIGCOMM](#2), [INFOCOM](#3), [NSDI](#4), [CCS](#5), [ACL](#6)
 
 
 
@@ -417,13 +417,13 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 - [SIGCOMM 2013](http://conferences.sigcomm.org/sigcomm/2013/) in Hong Kong, China. August 12-16, 2013.
 - [SIGCOMM 2012](http://conferences.sigcomm.org/sigcomm/2012/) in Helsinki, Finland. August 13-17, 2012. 
 - [SIGCOMM 2011](http://conferences.sigcomm.org/sigcomm/2011/) in Toronto, Canada. August 15-19, 2011.
-- [SIGCOMM 2010](http://conferences.sigcomm.org/sigcomm/2010/) in New Delhi, India. August 30 – September 3, 2010.
+- [SIGCOMM 2010](http://conferences.sigcomm.org/sigcomm/2010/) in New Delhi, India. August 30–September 3, 2010.
 - [SIGCOMM 2009](http://conferences.sigcomm.org/sigcomm/2009/) in Barcelona, Spain. August 17-21, 2009.
 - [SIGCOMM 2008](http://conferences.sigcomm.org/sigcomm/2008/) in Seattle, WA, USA. August 17-22, 2008.
-- [SIGCOMM 2007](http://conferences.sigcomm.org/sigcomm/2007/) in Kyoto, Japan. Aug. 27-31, 2007.
+- [SIGCOMM 2007](http://conferences.sigcomm.org/sigcomm/2007/) in Kyoto, Japan. August 27-31, 2007.
 - [SIGCOMM 2006](http://conferences.sigcomm.org/sigcomm/2006/) in Pisa, Italy. September 11-15, 2006.
 - [SIGCOMM 2005](http://conferences.sigcomm.org/sigcomm/2005/) in Philadelphia, PA, USA. August 22-26, 2005.
-- [SIGCOMM 2004](conferences.sigcomm.org/sigcomm/2004/) in Portland, OR, USA. August 30- September 3, 2004.
+- [SIGCOMM 2004](conferences.sigcomm.org/sigcomm/2004/) in Portland, OR, USA. August 30-September 3, 2004.
 - [SIGCOMM 2003](http://conferences.sigcomm.org/sigcomm/2003/) in Karlsruhe，Germany. August 25-29, 2003. 
 - [SIGCOMM 2002](http://conferences.sigcomm.org/sigcomm/2002/) in Pittsburgh,  PA, USA. August 19-23, 2002.
 - [SIGCOMM 2001](http://conferences.sigcomm.org/sigcomm/2001/) in San Diego, CA, USA. August 27-31, 2001. 
@@ -440,7 +440,7 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 - [SIGCOMM 1990](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1990.html) in Philadelpia, PA, USA. September 24-27, 1990.
 - [SIGCOMM 1989](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1989.html) in  Austin, Texas, USA. September 19-22, 1989. 
 - [SIGCOMM 1988](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1988.html) in Stanford, CA, USA. August 16-18, 1988. 
-- [SIGCOMM '87](http://ccr.sigcomm.org/archive/ccr-toc/ccr-toc-87.html) Workshop
+- [SIGCOMM 1987](http://ccr.sigcomm.org/archive/ccr-toc/ccr-toc-87.html) Workshop
 
 
 ### Recent SIGCOMM Best Paper Award Winners
@@ -985,10 +985,104 @@ Matthew P. Grosvenor, University of Cambridge; Malte Schwarzkopf, University of 
 
 
 
-
 ----------
 
-## ACL (Annual Meeting of the Association for Computational Linguistics)
+
+## [<h1 id="5">CCS</h1>](https://sigsac.org/ccs.html)(ACM Conference on Computer and Communications Security)
+
+The ACM Conference on Computer and Communications Security (CCS) is the flagship annual conference of the Special Interest Group on Security, Audit and Control (SIGSAC) of the Association for Computing Machinery (ACM).
+
+
+### Previous CCS Conferences
+
+- 29th [CCS 2022](https://sigsac.org/ccs/CCS2022/) in Los Angeles, CA, USA. November 7-11, 2022.
+- 28th [CCS 2021](https://www.sigsac.org/ccs/CCS2021/) in Virtual Event. November 15-19, 2021. General  Chair: Yongdae Kim and Jong Kim,
+Program Chairs: Giovanni Vigna and Elaine Shi
+- 27th [CCS 2020](https://www.sigsac.org/ccs/CCS2020/) in Virtual Event. November 09-13, 2020. General Chair: Jay Ligatti and Xinming Ou, Program Chairs: Jonathan Katz and Giovanni Vigna
+- 26th [CCS 2019](https://www.sigsac.org/ccs/CCS2019/) in London, UK. November 11-15, 2019. General Chair: Lorenzo Cavallaro and Johannes Kinder, Program Chairs: XiaoFeng Wang and Jonathan Katz
+- 25th [CCS 2018](https://www.sigsac.org/ccs/CCS2018/index.php/) in Toronto, Canada. October 15-19, 2018. General Chair: David Lie and Mohammad Mannan, Program Chairs: Michael Backes and XiaoFeng Wang 
+- 24th [CCS 2017](https://www.sigsac.org/ccs/CCS2017/) in Dallas, TX, USA. October 30-November 3, 2017. General Chair: Bhavani Thuraisingham, Program Chairs: David Evans, Tal Malkin and Dongyan Xu 
+- 23rd [CCS 2016](https://www.sigsac.org/ccs/CCS2016/index.html) in Vienna, Austria. October 24-28, 2016. General Chairs: Edgar Weippl and Stefan Katzenbeisser, Program Chairs: Christopher Kruegel, Andrew Myers and Shai Halevi
+- 22nd [CCS 2015](https://www.sigsac.org/ccs/CCS2015/) in Denver, CO, USA. October 12-16, 2015. General Chair: Indrajit Ray, Program Chairs: Ninghui Li and Christopher Kruegel
+- 21st [CCS 2014](https://www.sigsac.org/ccs/CCS2014/) in Scottsdale, AZ, USA. November 3-7, 2014. General Chair: Gail-Joon Ahn, Program Chairs: Moti Yung and Ninghui Li
+- 20th [CCS 2013](https://www.sigsac.org/ccs/CCS2013/) in Berlin, Germany. November 4-8, 2013. General Chair: Ahmad-Reza Sadeghi, Program Chairs: Virgil Gligor and Moti Yung
+- 19th [CCS 2012](https://www.sigsac.org/ccs/CCS2012/) in Raleigh, NC, USA. October 16-18, 2012. General Chair: Ting Yu, Program Chairs: George Danezis and Virgil Gligor
+- 18th [CCS 2011](https://www.sigsac.org/ccs/CCS2011/) in Chicago, IL, USA. October 17-21, 2011. General Chair: Yan Chen, Program Chairs: George Danezis and Vitaly Shmatikov 
+- 17th [CCS 2010](https://www.sigsac.org/ccs/CCS2010/) in Chicago, IL, USA. October 04-08, 2010. General Chair: Ehab Al-Shaer, Program Chairs: Angelos D. Keromytis and Vitaly Shmatikov 
+- 16th [CCS 2009](https://www.sigsac.org/ccs/CCS2009/) in Chicago, IL, USA. November 9-13, 2009. General Chair: Ehab Al-Shaer, Program Chairs: Angelos D. Keromytis and Somesh Jha
+- 15th [CCS 2008](https://www.sigsac.org/ccs/CCS2008/) in Alexandria, VA, USA. October 27-31, 2008. General Chair: Peng Ning, Program Chairs: Paul Syverson and Somesh Jha
+- 14th [CCS 2007](https://www.sigsac.org/ccs/CCS2007/) in Alexandria, VA, USA. October 29-November 2,, 2007. General Chair: Peng Ning, Program Chairs (Research Track): Sabrina De Capitani di Vimercati and Paul Syverson , Program Chair (Industry Track): Peter Dinsmore
+- 13th [CCS 2006](https://www.sigsac.org/ccs/CCS2006/) in Alexandria, VA, USA. October 30-November 3, 2006. General Chair: Ari Juels, Program Chairs (Research Track): Rebecca Wright and Sabrina De Capitani di Vimercati , Program Chair (Industry Track): Patrick McDaniel
+- 12th [CCS 2005](https://www.sigsac.org/ccs/CCS2005/) in Alexandria, VA, USA. November 7-11, 2005. General Chair: Vijay Atluri, Program Chair (Research Track): Catherine Meadows, Program Chair (Industry Track): Ari Juels 
+- 11th [CCS 2004](https://www.sigsac.org/ccs/CCS2004/) in Washington, DC, USA. October 25-29, 2004. General Chair: Vijay Atluri, Program Chair (Research Track): Birgit Pfitzmann, Program Chair (Industry Track): Patrick McDaniel
+- 10th [CCS 2003](https://sigsac.org/ccs/ccs-history.html#10th) in Washington, DC, USA. October 27-30, 2003. 
+- 9th [CCS 2002](https://sigsac.org/ccs/ccs-history.html#9th) in Washington, DC, USA. November 17-21, 2002.
+- 8th [CCS 2001](https://sigsac.org/ccs/ccs-history.html#8th) in in Philadelphia, PA, USA. November 5-8, 2001. 
+- 7th [CCS 2000](https://sigsac.org/ccs/ccs-history.html#7th) in Athens, Greece. November 1-4, 2000.
+- 6th [CCS 1999](https://sigsac.org/ccs/ccs-history.html#6th) in Singapore. November 1-4, 1999.
+- 5th [CCS 1998](https://sigsac.org/ccs/ccs-history.html#5th) in San Francisco, CA, USA. November 2-5, 1998. 
+- 4th [CCS 1997](https://sigsac.org/ccs/ccs-history.html#4th) in Zurich, Switzerland. April 2-4, 1997.
+- 3rd [CCS 1996](https://sigsac.org/ccs/ccs-history.html#3rd) in New Delhi, India. March 14-16, 1996.
+- 2nd [CCS 1994](https://sigsac.org/ccs/ccs-history.html#2nd) in Fairfax, VA, USA. November 2-4, 1994.
+- 1st [CCS 1993](https://sigsac.org/ccs/ccs-history.html#1st) in Fairfax, VA, USA. November 3-5, 1993.
+
+
+
+### Recent CCS Best Paper Award Winners
+https://sigsac.org/ccs/CCS_awards/ccs-bestpaper.html
+
+
+### [CCS 2022](https://sigsac.org/ccs/CCS2022/)
+
+#### Best Paper Award
+
+
+
+### [CCS 2021](https://sigsac.org/ccs/CCS2021/)
+
+#### Best Paper Award
+
+[***XSinator.com: From a Formal Model to the Automatic Evaluation of Cross-Site Leaks in Web Browsers***](https://dl.acm.org/doi/pdf/10.1145/3460120.3484739) [[Web](https://xsinator.com/)] [Slides] [Video] [[Code](https://github.com/RUB-NDS/xsinator.com)]     
+Lukas Knittel (Ruhr University Bochum); [Christian Mainka](https://www.nds.ruhr-uni-bochum.de/chair/people/cmainka/) (Ruhr University Bochum); Marcus Niemietz (Niederrhein University of Applied Sciences); Dominik Trevor Noß (Ruhr University Bochum); Jörg Schwenk (Ruhr University Bochum) 
+
+**Abstract:** Cross-Site Leaks (XS-Leaks) describe a client-side bug that allows an attacker to collect side-channel information from a cross-origin HTTP resource. They are a significant threat to Internet privacy since simply visiting a web page may reveal if the victim is a drug addict or leak a sexual orientation. Numerous different attack vectors, as well as mitigation strategies, have been proposed, but a clear and systematic understanding of XS-Leak' root causes is still missing. Recently, Sudhodanan et al. gave a first overview of XS-Leak at NDSS 2020. We build on their work by presenting the first formal model for XS-Leaks. Our comprehensive analysis of known XS-Leaks reveals that all of them fit into this new model. With the help of this formal approach, we (1) systematically searched for new XS-Leak attack classes, (2) implemented XSinator.com, a tool to automatically evaluate if a given web browser is vulnerable to XS-Leaks, and (3) systematically evaluated mitigations for XS-Leaks. We found 14 new attack classes, evaluated the resilience of 56 different browser/OS combinations against a total of 34 XS-Leaks, and propose a completely novel methodology to mitigate XS-Leaks.
+
+
+[***One Glitch to Rule Them All: Fault Injection Attacks Against AMD’s Secure Encrypted Virtualization***](https://arxiv.org/pdf/2108.04575.pdf) [[Slides](https://i.blackhat.com/EU-21/Wednesday/EU-21-Buhren-One-Glitch-to-Rule-them-All-Fault-Injection-Attacks-Against-AMDs-Secure-Processor.pdf)] [[Video](https://dl.acm.org/doi/10.1145/3460120.3484779)] [[Code](https://github.com/PSPReverse/amd-sp-glitch)]     
+Robert Buhren (Technische Universität Berlin - SECT); Hans-Niklas Jacob (Technische Universität Berlin - SECT); Thilo Krachenfels (Technische Universität Berlin - SECT); Jean-Pierre Seifert (Technische Universität Berlin - SECT & Fraunhofer SIT)
+
+**Abstract**: AMD Secure Encrypted Virtualization (SEV) offers protection mechanisms for virtual machines in untrusted environments through memory and register encryption. To separate security-sensitive operations from software executing on the main x86 cores, SEV leverages the AMD Secure Processor (AMD-SP). This paper introduces a new approach to attack SEV-protected virtual machines (VMs) by targeting the AMD-SP. We present a voltage glitching attack that allows an attacker to execute custom payloads on the AMD-SPs of all microarchitectures that support SEV currently on the market (Zen 1, Zen 2, and Zen 3). The presented methods allow us to deploy a custom SEV firmware on the AMD-SP, which enables an adversary to decrypt a VM's memory. Furthermore, using our approach, we can extract endorsement keys of SEV-enabled CPUs, which allows us to fake attestation reports or to pose as a valid target for VM migration without requiring physical access to the target host. Moreover, we reverse-engineered the Versioned Chip Endorsement Key (VCEK) mechanism introduced with SEV Secure Nested Paging (SEV-SNP). The VCEK binds the endorsement keys to the firmware version of TCB components relevant for SEV. Building on the ability to extract the endorsement keys, we show how to derive valid VCEKs for arbitrary firmware versions. With our findings, we prove that SEV cannot adequately protect confidential data in cloud environments from insider attackers, such as rogue administrators, on currently available CPUs.
+
+
+[***On the Renyi Differential Privacy of the Shuffle Model***](https://dl.acm.org/doi/pdf/10.1145/3460120.3484794) [Slides] [Video]     
+Antonious M. Girgis (University of California, Los Angeles); Deepesh Data (University of California, Los Angeles); Suhas Diggavi (University of California Los Angeles, USA); Ananda Theertha Suresh (Google Research); Peter Kairouz (Google Research)
+
+**Abstract**: The central question studied in this paper is Rényi Differential Privacy (RDP) guarantees for general discrete local randomizers in the shuffle privacy model. In the shuffle model, each of the n clients randomizes its response using a local differentially private (LDP) mechanism and the untrusted server only receives a random permutation (shuffle) of the client responses without association to each client. The principal result in this paper is the first direct RDP bounds for general discrete local randomization in the shuffle privacy model, and we develop new analysis techniques for deriving our results which could be of independent interest. In applications, such an RDP guarantee is most useful when we use it for composing several private interactions. We numerically demonstrate that, for important regimes, with composition our bound yields an improvement in privacy guarantee by a factor of $8\times$ over the state-of-the-art approximate Differential Privacy (DP) guarantee (with standard composition) for shuffle models. Moreover, combining with Poisson subsampling, our result leads to at least $10\times$ improvement over subsampled approximate DP with standard composition.
+
+
+[***On the (In)Security of ElGamal in OpenPGP***](https://eprint.iacr.org/2021/923.pdf) [Slides] [[Video](https://www.youtube.com/watch?v=r6Y0s5DTGEM)]    
+[Luca De Feo](https://defeo.lu/) (IBM Research Europe - Zurich); Bertram Poettering (IBM Research Europe - Zurich); [Alessandro Sorniotti](https://ale.sopit.net/) (IBM Research Europe - Zurich)
+
+
+**Abstract**: Roughly four decades ago, Taher ElGamal put forward what is today one of the most widely known and best understood public key encryption schemes. ElGamal encryption has been used in many different contexts, chiefly among them by the OpenPGP standard. Despite its simplicity, or perhaps because of it, in reality there is a large degree of ambiguity on several key aspects of the cipher. Each library in the OpenPGP ecosystem seems to have implemented a slightly different "flavour" of ElGamal encryption. While --taken in isolation-- each implementation may be secure, we reveal that in the interoperable world of OpenPGP, unforeseen cross-configuration attacks become possible. Concretely, we propose different such attacks and show their practical efficacy by recovering plaintexts and even secret keys.
+
+
+
+[***V-Shuttle: Scalable and Semantics-Aware Hypervisor Virtual Device Fuzzing***](https://nesa.zju.edu.cn/download/pgn_pdf_V-SHUTTLE.pdf) [[Slides](https://nesa.zju.edu.cn/download/ppt/pgn_slides_V-SHUTTLE.pdf)] [Video] [[Code](https://github.com/hustdebug/v-shuttle)]     
+Gaoning Pan (Zhejiang University & Ant Group); Xingwei Lin (Ant Group); Xuhong Zhang (Zhejiang University & Binjiang Institute of Zhejiang University); Yongkang Jia (Zhejiang University); Shouling Ji (Zhejiang University & Binjiang Institute of Zhejiang University); Chunming Wu (Zhejiang University); Xinlei Ying (Ant Group); Jiashui Wang (Ant Group); Yanjun Wu (Institute of Software, Chinese Academy of Sciences)
+
+
+
+**Abstract**: With the wide application and deployment of cloud computing in enterprises, virtualization developers and security researchers are paying more attention to cloud computing security. The core component of cloud computing products is the hypervisor, which is also known as the virtual machine monitor (VMM) that can isolate multiple virtual machines in one host machine. However, compromising the hypervisor can lead to virtual machine escape and the elevation of privilege, allowing attackers to gain the permission of code execution in the host. Therefore, the security analysis and vulnerability detection of the hypervisor are critical for cloud computing enterprises. Importantly, virtual devices expose many interfaces to a guest user for communication, making virtual devices the most vulnerable part of a hypervisor. However, applying fuzzing to the virtual devices of a hypervisor is challenging because the data structures transferred by DMA are constructed in a nested form according to protocol specifications. Failure to understand the protocol of the virtual devices will make the fuzzing process stuck in the initial fuzzing stage, resulting in inefficient fuzzing.
+
+In this paper, we propose a new framework called V-Shuttle to conduct hypervisor fuzzing, which performs scalable and semantics-aware hypervisor fuzzing. To address the above challenges, we first design a DMA redirection mechanism to significantly reduce the manual efforts to reconstruct virtual devices' protocol structures and make the fuzzing environment setup automated and scalable. Furthermore, we put forward a new fuzzing mutation scheduling mechanism called seedpool to make the virtual device fuzzing process semantics-aware and speed up the fuzzing process to achieve high coverage. Extensive evaluation on QEMU and VirtualBox, two of the most popular hypervisor platforms among the world, shows that V-Shuttle can efficiently reproduce existing vulnerabilities and find new vulnerabilities. We further carried out a long-term fuzzing campaign in QEMU/KVM and VirtualBox with V-Shuttle. In total, we discovered 35 new bugs with 17 CVEs assigned.
+
+
+
+----------
+## [<h1 id="6">ACL</h1>](https://aclweb.org/portal/acl) (Annual Meeting of the Association for Computational Linguistics)
+
+## ACL 
 
 ### ACL 2018 (56th Annual Meeting of the Association for Computational Linguistics) Best Papers
 
