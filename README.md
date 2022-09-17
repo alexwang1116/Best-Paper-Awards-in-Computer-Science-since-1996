@@ -12,9 +12,7 @@
 
 ----------
 
-
 **Contents By Conference**: [MobiCom](#1), [SIGCOMM](#2), [INFOCOM](#3), [NSDI](#4)
-
 
 
 
@@ -93,7 +91,7 @@ Aidan Curtis, [Amruta Pai](http://amruta.blogs.rice.edu/), Jian Cao (Rice Univer
  Mehrdad Moradi (University of Michigan); [Karthik Sundaresan](https://sites.google.com/view/karthik-s) (NEC Labs); Eugene Chai (NEC Labs); [Sampath Rangarajan](http://www.nec-labs.com/sampath-rangarajan) (NEC Labs); [Z. Morley Mao](http://web.eecs.umich.edu/~zmao/) (University of Michigan) 
 
 #### Best Community Paper Award
- 
+
 ***[One Billion Apples' Secret Sauce: Recipe for the Apple Wireless Direct Link Ad hoc Protocol](https://arxiv.org/pdf/1808.03156.pdf)*** [Slides] [[Video](https://www.youtube.com/watch?v=bKG8ZZq4oTo)]     
  Milan Stute (Technische Universität Darmstadt); David Kreitschmann (Technische Universität Darmstadt); Matthias Hollick (Technische Universität Darmstadt) 
 
@@ -180,9 +178,8 @@ Chuankai An (Dartmouth College),
 
 #### Best Paper Award
 
-
 ***[Tagoram: Real-Time Tracking of Mobile RFID Tags to High Precision Using COTS Devices](http://www.ntu.edu.sg/home/limo/papers/tagoram-MobiCom14.pdf)*** [[Slides](https://www.sigmobile.org/mobicom/2014/talks/slides_6_2.pdf)] [[Video](https://www.youtube.com/watch?v=5Won4ihJop4)]    
-[Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about) (Tsinghua University); Yekui Chen (Tsinghua University); [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/index.html) (Tsinghua University, Illinois Institute of Technology); Chaowei Xiao (Tsinghua University); [Mo Li](http://www.ntu.edu.sg/home/limo/) (Nanyang Technological Univ.); [Yunhao Liu](http://www.cse.msu.edu/~liuyunha/) (Tsinghua University) 
+[Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about) (Tsinghua University), Yekui Chen (Tsinghua University); [Xiang-Yang Li](http://staff.ustc.edu.cn/~xiangyangli/index.html) (Tsinghua University, Illinois Institute of Technology); Chaowei Xiao (Tsinghua University); [Mo Li](http://www.ntu.edu.sg/home/limo/) (Nanyang Technological Univ.); [Yunhao Liu](http://www.cse.msu.edu/~liuyunha/) (Tsinghua University) 
 
 
 
@@ -408,6 +405,8 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 
 ### Previous SIGCOMM Conferences
 
+- [SIGCOMM 2022](http://conferences.sigcomm.org/sigcomm/2022/) in Amsterdam, Netherlands. August 22-26, 2022.
+- [SIGCOMM 2021](http://conferences.sigcomm.org/sigcomm/2021/) in Virtual Event, New York. August 23-27, 2021.
 - [SIGCOMM 2020](http://conferences.sigcomm.org/sigcomm/2020/) in New York, NY, USA. August 10-14, 2020.
 - [SIGCOMM 2019](http://conferences.sigcomm.org/sigcomm/2019/) in Beijing, China. August 19-24, 2019.
 - [SIGCOMM 2018](http://conferences.sigcomm.org/sigcomm/2018/) in Budapest, Hungary. August 20-25, 2018. 
@@ -448,6 +447,29 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 http://www.sigcomm.org/awards/best-paper-award
 
 
+### [SIGCOMM 2022](http://conferences.sigcomm.org/sigcomm/2022/)
+
+#### Best Paper Award
+
+[***Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim***](https://dl.acm.org/doi/pdf/10.1145/3544216.3544244)  [[Slides](https://amyworkspace.github.io/hxchen/files/sigcomm22-nassim-slide.pdf)] [[Video](https://www.youtube.com/watch?v=9wmZFbLiDC0&list=PLU4C2_kotFP2rg92oGchLFN0Y7F3liFio&index=19)] [[Dataset](https://github.com/AmyWorkspace/nassim)]     
+[Huangxun Chen](https://amyworkspace.github.io/hxchen/) (Huawei Theory Lab), Yukai Miao (University of New South Wales), Li Chen (Zhongguancun Laboratory), Haifeng Sun (Beijing University of Posts and Telecommunications), Hong Xu (The Chinese University of Hong Kong), Libin Liu (Shandong Computer Science Center), Gong Zhang (Huawei Theory Lab), Wei Wang (HKUST(Guangzhou))
+
+
+**Abstract:** On-boarding new devices into an existing SDN network is a pain for network operations (NetOps) teams, because much expert effort is required to bridge the gap between the configuration models of the new devices and the unified data model in the SDN controller. In this work, we present an assistant framework NAssim, to help NetOps accelerate the process of assimilating a new device into a SDN network. Our solution features a unified parser framework to parse diverse device user manuals into preliminary configuration models, a rigorous validator that confirm the correctness of the models via formal syntax analysis, model hierarchy validation and empirical data validation, and a deep-learning-based mapping algorithm that uses state-of-the-art neural language processing techniques to produce human-comprehensible recommended mapping between the validated configuration model and the one in the SDN controller. In all, NAssim liberates the NetOps from most tedious tasks by learning directly from devices' manuals to produce data models which are comprehensible by both the SDN controller and human experts. Our evaluation shows, NAssim can accelerate the assimilation process by 9.1x. In this process, we also identify and correct 243 errors in four mainstream vendors' device manuals, and release a validated and expert-curated dataset of parsed manual corpus for future research.
+
+
+### [SIGCOMM 2021](http://conferences.sigcomm.org/sigcomm/2021/)
+
+#### Best Paper Award
+
+***[Seven Years in the Life of Hypergiants’ Off-Nets](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472928.pdf)*** [[Slides](https://pgigis.github.io/hypergiants-offnets/data/pdf/seven_years_in_the_life_of_hypergiants_offnets_slides.pdf)] [[Web](https://pgigis.github.io/hypergiants-offnets/)] [Video] [[Code](https://github.com/pgigis/sigcomm2021-hypergiants-offnets)] [[Dataset](https://github.com/pgigis/sigcomm2021-hypergiants-offnets/tree/main/datasets#readme)]      
+[Petros Gigis](https://www.homepages.ucl.ac.uk/~ucabpgk/) (UCL), Matt Calder (Microsoft; Columbia University), Lefteris Manassakis (FORTH-ICS), George Nomikos  (FORTH-ICS; Lancaster University), Vasileios Kotronis (FORTH-ICS), Xenofontas Dimitropoulos (FORTH-ICS; University of Crete), Ethan Katz-Bassett (Columbia University),  [Georgios Smaragdakis](https://gsmaragd.github.io/index.html) (TU Delft)
+
+
+**Abstract:** Content Hypergiants deliver the vast majority of Internet traffic to end users. In recent years, some have invested heavily in deploying services and servers inside end-user networks. With several dozen Hypergiants and thousands of servers deployed inside networks, these off-net (meaning outside the Hypergiant networks) deployments change the structure of the Internet. Previous efforts to study them have relied on proprietary data or specialized per-Hypergiant measurement techniques that neither scale nor generalize, providing a limited view of content delivery on today’s Internet.
+
+In this paper, we develop a generic and easy to implement methodology to measure the expansion of Hypergiants’ off-nets. Our key observation is that Hypergiants increasingly encrypt their traffic to protect their customers’ privacy. Thus, we can analyze publicly available Internet-wide scans of port 443 and retrieve TLS certificates to discover which IP addresses host Hypergiant certificates in order to infer the networks hosting off-nets for the corresponding Hypergiants. Our results show that the number of networks hosting Hypergiant off-nets has tripled from 2013 to 2021, reaching 4.5k networks. The largest Hypergiants dominate these deployments, with almost all of these networks hosting an off-net for at least one — and increasingly two or more — of Google, Netflix, Facebook, or Akamai. These four Hypergiants have off-nets within networks that provide access to a significant fraction of end user population.
+
 
 
 ### [SIGCOMM 2020](http://conferences.sigcomm.org/sigcomm/2020/)
@@ -455,7 +477,13 @@ http://www.sigcomm.org/awards/best-paper-award
 #### Best Paper Award
 
 
+[***Routing on Multiple Optimality Criteria***](https://dl.acm.org/doi/pdf/10.1145/3387514.3405864) [Slides] [Video]     
+[João Luís Sobrinho](http://www.lx.it.pt/~jls/), Miguel Alves Ferreira (Instituto de Telecomunicações Instituto Superior Técnico, Universidade de Lisboa)
 
+
+
+[***Swift: Delay is Simple and Effective for Congestion Control in the Datacenter***](https://dl.acm.org/doi/pdf/10.1145/3387514.3406591) [Slides] [Video]     
+Gautam Kumar, Nandita Dukkipati, Keon Jang (MPI-SWS), Hassan M. G. Wassel, Xian Wu, Behnam Montazeri, Yaogong Wang, Kevin Springborn, Christopher Alfeld, Michael Ryan, David Wetherall, Amin Vahdat (Google)  
 
 
 
@@ -622,7 +650,7 @@ IEEE INFOCOM is a top ranked conference on networking in the research community.
 
 
 
- 
+
 ### [INFOCOM 2020](https://infocom2020.ieee-infocom.org/awards)
 
 #### Best Paper Award
@@ -641,7 +669,7 @@ Xiaojun Shang, Yaodong Huang, [Zhenhua Liu](http://www.ams.stonybrook.edu/~zhliu
 Stony Brook University, USA
 
 
- 
+
 ### [INFOCOM 2019](https://infocom2019.ieee-infocom.org/awards)
 
 #### Best Paper Award
@@ -680,13 +708,13 @@ Guocong Quan, [Jian Tan](https://u.osu.edu/tan.252/) and [**Atilla Eryilmaz**](h
 
 ***[One Step at a Time: Optimizing SDN Upgrades in ISP Networks](http://www.smaragdakis.net/publications/Infocom2017)*** [[Slides](https://people.csail.mit.edu/gsmaragd/publications/Infocom2017/Infocom2017-presentation.pdf)] [Video]    
 [Konstantinos Poularakis](https://sites.google.com/site/kpoularakis/) (Yale University, USA); George Iosifidis (Trinity College Dublin and CONNECT, Ireland & Yale University, USA); [Georgios Smaragdakis](https://people.csail.mit.edu/gsmaragd/) (MIT and TU Berlin); [Leandros Tassiulas](https://seas.yale.edu/faculty-research/faculty-directory/leandros-tassiulas) (Yale University, USA)
- 
+
 #### Best Paper Runners up Awards  
- 
+
 ***[A Parity Check Analog Decoder for Molecular Communication Based on Biological Circuits](https://mbite.unl.edu/files/papers/2017/c1.pdf)*** [Slides] [Video]     
 Alessio Marcone (Politecnico di Milano, Italy); [Massimiliano Pierobon](https://mbite.unl.edu/massimiliano-pierobon) (University of Nebraska­ Lincoln, USA); [Maurizio Magarini](http://www.polisocial.polimi.it/en/home-en/) (Politecnico di Milano, Italy)
- 
- 
+
+
 ***[DyMo: Dynamic Monitoring of Large Scale LTE-Multicast Systems](https://wimnet.ee.columbia.edu/wp-content/uploads/2017/01/DyMo-Infocom.pdf)*** [[Slides](https://wimnet.ee.columbia.edu/wp-content/uploads/2017/06/Dymo-Infocom.pdf)] [Video]     
 [Yigal Bejerano](http://54.210.236.23:8080/Yigal-Bejerano/index.jsp) (Bell­Labs, Alcatel­Lucent, USA); Chandru Raman (Mobile Networks, Nokia, USA); Chun­Nam Yu (Bell Labs, Nokia, USA); Varun Gupta and Craig Gutterman (Columbia University, USA); Tomas Young and Hugo Infante (Mobile Networks, Nokia, USA); Yousef Abdelmalek (Verizon Wireless, USA); [Gil Zussman](https://www.ee.columbia.edu/gil-zussman) (Columbia University, USA)
 
@@ -699,7 +727,7 @@ Alessio Marcone (Politecnico di Milano, Italy); [Massimiliano Pierobon](https:/
 ***[Heavy-Ball: A New Approach to Tame Delay and Convergence in Wireless Network Optimization](http://newslab.ece.ohio-state.edu/research/resources/Heavy_ball.pdf)*** [Slides] [Video]    
 [**Jia Liu**](https://kevinliu-osu-ece.github.io/) and [**Atilla Eryilmaz**](http://www2.ece.ohio-state.edu/~eryilmaz/) (Ohio State University, USA); [**Ness B. Shroff**](http://newslab.ece.ohio-state.edu/home/) (The Ohio State University, USA); Elizabeth Serena Bentley (AFRL, USA)
 
- 
+
 #### Best Paper Award Runner-up    
 
 [***FLIP the (Flow) Table: Fast LIghtweight Policy-preserving SDN Updates***](http://csc.csudh.edu/btang/seminar/papers/flip.pdf) [[Slides](https://inl.info.ucl.ac.be/system/files/infocom16_flip.pdf)] [Video]     
@@ -831,54 +859,54 @@ NSDI focuses on the design principles, implementation, and practical evaluation 
 - 2022 19th USENIX Symposium on Networked Systems Design and Implementation
 April 4, 2022–April 6, 2022 | Renton, WA, United States
 - 2021 18th USENIX Symposium on Networked Systems Design and Implementation
-April 12, 2021–April 14, 2021 | Boston, MA, United States	
+	April 12, 2021–April 14, 2021 | Boston, MA, United States	
 - 2020 17th USENIX Symposium on Networked Systems Design and Implementation
-February 25, 2020–February 27, 2020 | Santa Clara, CA, United States	
+	February 25, 2020–February 27, 2020 | Santa Clara, CA, United States	
 - 2019
 16th USENIX Symposium on Networked Systems Design and Implementation
-February 26, 2019–February 28, 2019 | Boston, MA, United States	
+	February 26, 2019–February 28, 2019 | Boston, MA, United States	
 - 2018
 15th USENIX Symposium on Networked Systems Design and Implementation
-April 9, 2018–April 11, 2018 | Renton, WA, United States	
+	April 9, 2018–April 11, 2018 | Renton, WA, United States	
 - 2017
 14th USENIX Symposium on Networked Systems Design and Implementation
-March 27, 2017–March 29, 2017 | Boston, MA, United States	
+	March 27, 2017–March 29, 2017 | Boston, MA, United States	
 - 2016
 13th USENIX Symposium on Networked Systems Design and Implementation
-March 16, 2016–March 18, 2016 | Santa Clara, CA, United States	
+	March 16, 2016–March 18, 2016 | Santa Clara, CA, United States	
 - 2015
 12th USENIX Symposium on Networked Systems Design and Implementation
-May 4, 2015–May 6, 2015 | Oakland, CA, United States	
+	May 4, 2015–May 6, 2015 | Oakland, CA, United States	
 - 2014
 11th USENIX Symposium on Networked Systems Design and Implementation
-April 2, 2014–April 4, 2014 | Seattle, WA, United States	
+	April 2, 2014–April 4, 2014 | Seattle, WA, United States	
 - 2013
 10th USENIX Symposium on Networked Systems Design and Implementation
-April 2, 2013–April 5, 2013 | Lombard, IL, United States	
+	April 2, 2013–April 5, 2013 | Lombard, IL, United States	
 - 2012
 9th USENIX Symposium on Networked Systems Design and Implementation
-April 25, 2012–April 27, 2012 | San Jose, CA, United States	
+	April 25, 2012–April 27, 2012 | San Jose, CA, United States	
 - 2011
 8th USENIX Symposium on Networked Systems Design and Implementation
-March 30, 2011–April 1, 2011 | Boston, MA, United States	
+	March 30, 2011–April 1, 2011 | Boston, MA, United States	
 - 2010
 7th USENIX Symposium on Networked Systems Design and Implementation
-April 28, 2010–April 30, 2010 | San Jose, CA, United States	
+	April 28, 2010–April 30, 2010 | San Jose, CA, United States	
 - 2009
 6th USENIX Symposium on Networked Systems Design and Implementation
-April 22, 2009–April 24, 2009 | Boston, MA , United States	
+	April 22, 2009–April 24, 2009 | Boston, MA , United States	
 - 2008
 5th USENIX Symposium on Networked Systems Design and Implementation
-April 16, 2008–April 18, 2008 | San Francisco, CA, United States	
+	April 16, 2008–April 18, 2008 | San Francisco, CA, United States	
 - 2007
 4th USENIX Symposium on Networked Systems Design & Implementation
-April 11, 2007–April 13, 2007 | Cambridge, MA, United States	
+	April 11, 2007–April 13, 2007 | Cambridge, MA, United States	
 - 2006
 3rd Symposium on Networked Systems Design & Implementation
-May 8, 2006–May 10, 2006 | San Jose, CA, United States	
+	May 8, 2006–May 10, 2006 | San Jose, CA, United States	
 - 2005
 2nd Symposium on Networked Systems Design & Implementation
-May 2, 2005–May 4, 2005 | Boston, MA, United States	
+	May 2, 2005–May 4, 2005 | Boston, MA, United States	
 - 2004
 First Symposium on Networked Systems Design and Implementation
 March 29, 2004–March 31, 2004 | San Francisco, CA, United States
@@ -886,7 +914,7 @@ March 29, 2004–March 31, 2004 | San Francisco, CA, United States
 
 
 ### [NSDI '20](https://www.usenix.org/conference/nsdi20)  
-  
+
 ***[AmphiLight: Direct Air-Water Communication with Laser Light](https://www.usenix.org/system/files/nsdi20-paper-carver.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_carver.pdf)] [[Video](https://www.usenix.org/conference/nsdi20/presentation/carver)]      
 [Charles J. Carver](https://home.cs.dartmouth.edu/~ccarver/), Department of Computer Science, Dartmouth College; Zhao Tian, Department of Computer Science, Dartmouth College; Hongyong Zhang, Thayer School of Engineering, Dartmouth College; Kofi M. Odame, Thayer School of Engineering, Dartmouth College; Alberto Quattrini Li, Department of Computer Science, Dartmouth College; [Xia Zhou](https://home.cs.dartmouth.edu/~xia/), Department of Computer Science, Dartmouth College
 
@@ -919,7 +947,7 @@ March 29, 2004–March 31, 2004 | San Francisco, CA, United States
 Vladimir Olteanu, University Politehnica of Bucharest; Alexandru Agache, University Politehnica of Bucharest; Andrei Voinescu, University Politehnica of Bucharest; [Costin Raiciu](http://nets.cs.pub.ro/~costin/), University Politehnica of Bucharest
 
 ### [NSDI '17](https://www.usenix.org/conference/nsdi17)
- 
+
 ***[mOS: A Reusable Networking Stack for Flow Monitoring Middleboxes](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-jamshed.pdf)*** [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi17_slides_jamshed.pdf)] [[Video](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/jamshed)]    
 [Muhammad Asim Jamshed](https://ajamshed.github.io/), Korea Advanced Institute of Science and Technology (KAIST); YoungGyoun Moon, Korea Advanced Institute of Science and Technology (KAIST); Donghwi Kim, Korea Advanced Institute of Science and Technology (KAIST); Dongsu Han, Korea Advanced Institute of Science and Technology (KAIST); [KyoungSoo Park](https://www.ndsl.kaist.edu/~kyoungsoo/), Korea Advanced Institute of Science and Technology (KAIST)
 
@@ -975,6 +1003,5 @@ Matthew P. Grosvenor, University of Cambridge; Malte Schwarzkopf, University of 
 
 - ***[Know What You Don’t Know: Unanswerable Questions for SQuAD.](http://aclweb.org/anthology/P18-2124)*** Pranav Rajpurkar, Robin Jia and Percy Liang
 - ***[‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions.](https://aclweb.org/anthology/P18-2125)*** Olivia Winn and Smaranda Muresan
-
 
 ----------
