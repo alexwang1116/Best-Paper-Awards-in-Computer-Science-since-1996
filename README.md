@@ -24,6 +24,8 @@ The Annual International Conference on Mobile Computing and Networking (MobiCom)
 
 MobiCom conferences have been held in locations around the world:
 
+- 28. [MobiCom 2022](https://www.sigmobile.org/mobicom/2022/), Sydney, Australia, October 17-21, 2022
+- 27. [MobiCom 2021](https://www.sigmobile.org/mobicom/2021/), New Orleans, Louisiana, USA, September 21-25, 2021
 - 26. [MobiCom 2020](https://www.sigmobile.org/mobicom/2020/), London, United Kingdom, September 21-25, 2020
 - 25. [MobiCom 2019](https://www.sigmobile.org/mobicom/2019/), Los Cabos, Mexico, October 21-25, 2019
 - 24. [MobiCom 2018](https://www.sigmobile.org/mobicom/2018/), New Delhi, India, October 29 - November 2, 2018
@@ -53,14 +55,73 @@ MobiCom conferences have been held in locations around the world:
 
 
 
-### [Mobicom 2020](https://www.sigmobile.org/mobicom/2020/) (the 26th Annual International Conference on Mobile Computing and Networking) (/(%))
+
+
+### [Mobicom 2022](https://www.sigmobile.org/mobicom/2022/) (/(%))
 
 #### Best Paper Award
 
 
 
 
-### [Mobicom 2019](https://www.sigmobile.org/mobicom/2019/) (the 25th Annual International Conference on Mobile Computing and Networking) (55/290(18.9%))
+
+### [Mobicom 2021](https://www.sigmobile.org/mobicom/2021/) (/(%))
+
+#### Best Paper Award
+
+***[mSAIL: Milligram-Scale Multi-Modal Sensor Platform for Monarch Butterfly Migration Tracking](https://monarch.engin.umich.edu/wp-content/uploads/sites/65/2022/04/mSAIL_Camera_Ready_v4.pdf)*** [Slides] [[Video](https://youtu.be/fKwMbQHXmHk)] [[Code](https://github.com/sarashoouri/Monarch_Butterfly_Tracking)]    
+[Inhee Lee](https://engineering.pitt.edu/people/faculty/in-hee-lee/) (University of Pittsburgh); Roger Hsiao, Gordy Carichner, Chin-Wei Hsu, Mingyu Yang, Sara Shoouri, Katherine Ernst, and Tess Carichner (University of Michigan); Yuyang Li (University of Pittsburgh); Jaechan Lim (University of Michigan); Cole R. Julick (University of Nebraska-Lincoln); Eunseong Moon and Yi Sun (University of Michigan); Jamie Phillips (University of Delaware); Kristi L. Montooth (University of Nebraska-Lincoln); Delbert A. Green II, Hun-Seok Kim, and [David Blaauw](https://blaauw.engin.umich.edu/) (University of Michigan)
+
+
+**Abstract:** Each fall, millions of monarch butterflies across the northern US and Canada migrate up to 4,000 km to overwinter in the exact same cluster of mountain peaks in central Mexico. To track monarchs precisely and study their navigation, a monarch tracker must obtain daily localization of the butterfly as it progresses on its 3-month journey. And, the tracker must perform this task while having a weight in the tens of milligram (mg) and measuring a few millimeters (mm) in size to avoid interfering with monarch's flight. This paper proposes mSAIL, 8 × 8 × 2.6 mm and 62 mg embedded system for monarch migration tracking, constructed using 8 prior custom-designed ICs providing solar energy harvesting, an ultra-low power processor, light/temperature sensors, power management, and a wireless transceiver, all integrated and 3D stacked on a micro PCB with an 8 × 8 mm printed antenna. The proposed system is designed to record and compress light and temperature data during the migration path while harvesting solar energy for energy autonomy, and wirelessly transmit the data at the overwintering site in Mexico, from which the daily location of the butterfly can be estimated using a deep learning-based localization algorithm. A 2-day trial experiment of mSAIL attached on a live butterfly in an outdoor botanical garden demonstrates the feasibility of individual butterfly localization and tracking.
+
+
+#### Best Community Paper Award
+
+***[Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry](https://dl.acm.org/doi/10.1145/3447993.3483269)*** [Slides] [[Video](https://youtu.be/ZCD_kvxHb40)]    
+Abhilash Jindal (IIT Delhi and Mobile Enerlytics); [Y. Charlie Hu](https://engineering.purdue.edu/~ychu/) (Purdue University and Mobile Enerlytics)
+
+**Abstract:** In this paper, we report on our 6-year experience developing Eagle Tester (eTester for short) - a mobile battery drain testing and diagnostic tool. We show how eTester evolved from an "academic" prototype to a fully automated tool usable by the mobile industry.
+We first present the design of our initial research prototype and discuss 8 key requirements for a usable battery drain testing and diagnostic tool gathered from some of the most popular software vendors in the Android ecosystem. These requirements posed interesting scientific and engineering challenges such as how to accurately estimate battery drain without requiring a priori power modeling, work on unmodified devices, and automatically monitor code evolution to generate high-fidelity battery spike alerts with actionable insights. These requirements motivated a complete overhaul of the eTester design and led to the creation of a novel battery drain testing methodology. We show how the redesigned eTester was used to effortlessly find battery bugs in some of the most popular Android apps with hundreds of millions of users, such as Netflix and CNN. We are open-sourcing eTester to encourage further research in battery diagnosis and to empower developers to write battery-efficient mobile software.
+
+
+
+
+
+
+### [Mobicom 2020](https://www.sigmobile.org/mobicom/2020/) (62/384(16%))
+
+#### Best Paper Award
+
+***[Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/pdf/10.1145/3372224.3380886)*** [Slides] [[Video](https://youtu.be/gwUB-tchXFg)]     
+Sujay Narayana, R Venkatesha Prasad, [Vijay S Rao](https://www.st.ewi.tudelft.nl/vijay/) (TU Delft); [Luca Mottola](https://mottola.faculty.polimi.it/) (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)
+
+**Abstract:** Global Positioning System is a widely adopted localization technique. With the increasing demand for small satellites, the need for a low-power GPS for satellites is also increasing. To enable many state-of-the-art applications, the exact position of the satellites is necessary. However, building low-power GPS receivers which operate in low earth orbit pose significant challenges. This is mainly due to the high speed (~7.8km/s) of small satellites. While duty-cycling the receiver is a possible solution, the high relative Doppler shift between the GPS satellites and the small satellite contributes to the increase in Time To First Fix (TTFF), thus increasing the energy consumption. Further, if the GPS receiver is tumbling along with the small satellite on which it is mounted, longer TTFF may lead to no GPS fix due to disorientation of the receiver antenna. In this paper, we elucidate the design of a low-cost, low-power GPS receiver for small satellite applications. We also propose an energy optimization algorithm called F3 to improve the TTFF which is the main contributor to the energy consumption during cold start. With simulations and in-orbit evaluation from a launched nanosatellite with our μGPS and high-end GPS simulators, we show that up to 96.16% of energy savings (consuming only ~ 1/25th energy compared to the state of the art) can be achieved using our algorithm without compromising much (~10m) on the navigation accuracy. The TTFF achieved is at most 33s.
+
+
+
+
+***[M-Cube: A Millimeter-Wave Massive MIMO Software Radiov](https://dl.acm.org/doi/pdf/10.1145/3372224.3380892)*** [[Slides](https://renjiezhao.github.io/files/MCube_slides_20min.pptx)] [[Video](https://youtu.be/NRooJM1UK3s)] [[Web](http://m3.ucsd.edu/)]    
+[Renjie Zhao](https://renjiezhao.github.io/), Timothy Woodford, Teng Wei, [Kun Qian](https://kunqian.info/), [Xinyu Zhang](http://xyzhang.ucsd.edu/) (University of California San Diego)
+
+**Abstract:** Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wireless network infrastructure, and for RF sensing systems in security, health, and automotive domains. Through a MIMO array of phased arrays with hundreds of antenna elements, mmWave can boost wireless bit-rate to 100+~Gbps, and potentially achieve near-vision sensing resolution. However, lack of an experimental platform has been impeding research in this field. This paper fills the gap with M^3M (M-Cube), the first mmWave massive MIMO software radio. M^3M features a fully reconfigurable array of phased arrays, with up to 8 RF chains and 288 antenna elements. Despite the orders of magnitude larger antenna arrays, its cost is orders of magnitude lower, even when compared with state-of-the-art single RF chain mmWave software radios. The key design principle behind M^3M is to hijack a low-cost commodity 802.11ad radio, separate the control path and data path inside, regenerate the phased array control signals, and recreate the data signals using a programmable baseband. Extensive experiments have demonstrated the effectiveness of the M^3M design, and its usefulness for research in mmWave massive MIMO communication and sensing.
+
+
+
+#### Honourable Mention Award
+
+***[Sniffing Visible Light Communication Through Walls](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187)*** [Slides] [[Video](https://youtu.be/Sb5lP046uPU)]     
+[Minhao Cui](https://people.cs.umass.edu/~minhaocui/), Yuda Feng (University of Massachusetts Amherst); [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (Delft University of Technology); [Jie Xiong](https://people.cs.umass.edu/~jxiong/pub.html) (University of Massachusetts Amherst)
+
+
+**Abstract:** Visible light communication (VLC) is gaining a significant amount of interest as a new paradigm to meet rapidly increasing demands on wireless capacity required by a digitalized world. VLC is considered as a secure wireless communication scheme because VLC signals can be easily constrained within physical boundaries. In this paper, for the first time, we show that VLC is not as secure as people thought: VLC can be sniffed through walls! The key principle behind this is that in VLC transmissions, a VLC transmitter not only emits visible light signals but also leaks out 'side channel RF signals'. The leaked RF signals can be sniffed by a receiver to decode the VLC transmissions even the receiver is blocked (e.g., by walls) from the VLC transmitter. In this work, we establish a theoretical model to quantify the amplitude of the leaked RF signal and verify the model with comprehensive experiments. We design and implement a VLC sniffing system including receiver coil design, signal processing and frame decoding, spanning across hardware and software. Field studies show that with a cheap receiver design, our system can simultaneously sniff transmissions from multiple VLC transmitters 6.4 meters away with a 14 cm concrete wall in between, where the distance exceeds the communication range of most state-of-the-art VLC systems. By simply twining a wired earphone on the arm, we can sniff the VLC transmission 1.9 meters away.
+
+
+
+
+
+
+### [Mobicom 2019](https://www.sigmobile.org/mobicom/2019/) (55/290(18.9%))
 
 #### Best Paper Award
 
@@ -83,7 +144,7 @@ Aidan Curtis, [Amruta Pai](http://amruta.blogs.rice.edu/), Jian Cao (Rice Univer
 
 
 
-### [Mobicom 2018](https://www.sigmobile.org/mobicom/2018/) (the 24th Annual International Conference on Mobile Computing and Networking) (42/187(22.2%))
+### [Mobicom 2018](https://www.sigmobile.org/mobicom/2018/) (42/187(22.2%))
 
 #### Best Paper Award
 
@@ -96,7 +157,7 @@ Aidan Curtis, [Amruta Pai](http://amruta.blogs.rice.edu/), Jian Cao (Rice Univer
  Milan Stute (Technische Universität Darmstadt); David Kreitschmann (Technische Universität Darmstadt); Matthias Hollick (Technische Universität Darmstadt) 
 
 
-### [Mobicom 2017](https://www.sigmobile.org/mobicom/2017/) (the 23rd Annual International Conference on Mobile Computing and Networking) (35/186(19%))
+### [Mobicom 2017](https://www.sigmobile.org/mobicom/2017/) (35/186(19%))
 
 #### Best Paper Award
 
@@ -119,7 +180,7 @@ Xiaoguang Li (Peking University),
 Jun Liu (Peking University), 
 [Songwu Lu](http://web.cs.ucla.edu/~slu/) (University of California, Los Angeles) 
 
-### [Mobicom 2016](https://www.sigmobile.org/mobicom/2016/) (the 22nd Annual International Conference on Mobile Computing and Networking) (32/226(14.2%))
+### [Mobicom 2016](https://www.sigmobile.org/mobicom/2016/) (32/226(14.2%))
 
 #### Best Paper Award
 
@@ -148,7 +209,7 @@ Kevin Wright (Dartmouth College)
 
 
 
-### [Mobicom 2015](https://www.sigmobile.org/mobicom/2015/) (the 21st Annual International Conference on Mobile Computing and Networking) (38/207(18%))
+### [Mobicom 2015](https://www.sigmobile.org/mobicom/2015/) (38/207(18%))
 
 #### Best Paper Award
 
@@ -174,7 +235,7 @@ Chuankai An (Dartmouth College),
 [**Xia Zhou**](https://home.cs.dartmouth.edu/~xia/) (Dartmouth College)
 
 
-### [Mobicom 2014](https://www.sigmobile.org/mobicom/2014/) (the 20th Annual International Conference on Mobile Computing and Networking) (36/220(16%))
+### [Mobicom 2014](https://www.sigmobile.org/mobicom/2014/) (36/220(16%))
 
 #### Best Paper Award
 
@@ -184,7 +245,7 @@ Chuankai An (Dartmouth College),
 
 
 
-### [Mobicom 2013](https://www.sigmobile.org/mobicom/2013/) (the 19th Annual International Conference on Mobile Computing and Networking) (28/207(14%))
+### [Mobicom 2013](https://www.sigmobile.org/mobicom/2013/) (28/207(14%))
 
 #### Best Paper Award
 
@@ -194,7 +255,7 @@ Chuankai An (Dartmouth College),
 
 
 
-### [Mobicom 2012](https://www.sigmobile.org/mobicom/2012/) (the 18th Annual International Conference on Mobile Computing and Networking) (32/212(15%))
+### [Mobicom 2012](https://www.sigmobile.org/mobicom/2012/) (32/212(15%))
 
 #### Best Paper Award
 
@@ -202,7 +263,7 @@ Chuankai An (Dartmouth College),
 [**Tam Vu**](http://mnslab.org/tamvu/) (Rutgers University, USA), [Akash Baid](http://www.winlab.rutgers.edu/~baid/) (Rutgers University, USA), Simon Gao (Rutgers University, USA), [**Marco Gruteser**](http://www.winlab.rutgers.edu/~gruteser/) (Rutgers University, USA), Richard Howard (Rutgers University, USA), [Janne Lindqvist](http://www.winlab.rutgers.edu/~janne/) (Rutgers University, USA), [Predag Spasojevic](http://www.winlab.rutgers.edu/~spasojev/) (Rutgers University, USA) and Jeffrey Walling (Rutgers University, USA) 
 
 
-### [Mobicom 2011](https://www.sigmobile.org/mobicom/2011/) (the 17th Annual International Conference on Mobile Computing and Networking) (29/214(14%))
+### [Mobicom 2011](https://www.sigmobile.org/mobicom/2011/) (29/214(14%))
 
 #### Best Paper Award
 
@@ -216,7 +277,7 @@ Chuankai An (Dartmouth College),
 [Jie Yang](https://www.cs.fsu.edu/~jieyang/index.html) (Stevens Institute of Technology, USA), Simon Sdhom (Stevens Institute of Technology, USA), Gayathri Chandrasekaran (Rutgers University, USA), [**Tam Vu**](http://mnslab.org/tamvu/) (Stevens Institute of Technology, USA), Hongbo Liu (Stevens Institute of Technology, USA), Nicolae Cecan (Rutgers University, USA), [Yingying Chen](http://www.winlab.rutgers.edu/~yychen/) (Stevens Institute of Technology, USA), [**Marco Gruteser**](http://www.winlab.rutgers.edu/~gruteser/) (Rutgers University, USA), and [Richard P. Martin](https://www.cs.rutgers.edu/~rmartin/) (Rutgers University, USA)
 
 
-### [Mobicom 2010](https://www.sigmobile.org/mobicom/2010/) (the 16th Annual International Conference on Mobile Computing and Networking) (33/233(14%))
+### [Mobicom 2010](https://www.sigmobile.org/mobicom/2010/) (33/233(14%))
 
 #### Best Paper Award
 
@@ -228,7 +289,7 @@ Chuankai An (Dartmouth College),
 
 
 
-### [Mobicom 2009](https://www.sigmobile.org/mobicom/2009/) (the 15th Annual International Conference on Mobile Computing and Networking) (30/282(11%))
+### [Mobicom 2009](https://www.sigmobile.org/mobicom/2009/) (30/282(11%))
 
 #### Best Paper Award
 
@@ -240,7 +301,7 @@ Chuankai An (Dartmouth College),
 
 
 
-### [Mobicom 2008](https://www.sigmobile.org/mobicom/2008/) (the 14th Annual International Conference on Mobile Computing and Networking) (31/264(12%))
+### [Mobicom 2008](https://www.sigmobile.org/mobicom/2008/) (31/264(12%))
 
 #### Best Paper Award
 
@@ -251,7 +312,7 @@ Joshua Robinson (Rice University), Ram Swaminathan (HP Labs), and [Edward W. Kni
 
 
 
-### [Mobicom 2007](https://www.sigmobile.org/mobicom/2007/) (the 13th Annual International Conference on Mobile Computing and Networking) (26/233(11%))
+### [Mobicom 2007](https://www.sigmobile.org/mobicom/2007/) (26/233(11%))
 
 #### Best Student Paper Award
 
@@ -261,7 +322,7 @@ Han Cai and [Do Young Eun](https://people.engr.ncsu.edu/dyeun/) (North Carolina 
 
 
 
-### [Mobicom 2006](https://www.sigmobile.org/mobicom/2006/) (the 12th Annual International Conference on Mobile Computing and Networking) (35/298(12%))
+### [Mobicom 2006](https://www.sigmobile.org/mobicom/2006/) (35/298(12%))
 
 #### Best Student Paper Award
 
@@ -270,7 +331,7 @@ Han Cai and [Do Young Eun](https://people.engr.ncsu.edu/dyeun/) (North Carolina 
 [Vladimir Bychkovsky](http://people.csail.mit.edu/vladb/CSAIL_Webpage/contact_%26_bio.html), [Bret Hull](http://nms.csail.mit.edu/~bwhull/), [Allen K. Miu](http://nms.csail.mit.edu/~aklmiu/), [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/), [Samuel Madden](http://db.csail.mit.edu/madden/) (Massachusetts Institute of Technology, USA)
 
 
-### [Mobicom 2005](https://www.sigmobile.org/mobicom/2005/) (the 11th Annual International Conference on Mobile Computing and Networking) (23/224(10%))
+### [Mobicom 2005](https://www.sigmobile.org/mobicom/2005/) (23/224(10%))
 
 #### Best Student Paper Award
 
@@ -281,7 +342,7 @@ Han Cai and [Do Young Eun](https://people.engr.ncsu.edu/dyeun/) (North Carolina 
 
 
 
-### [Mobicom 2004](https://www.sigmobile.org/mobicom/2004/) (the 10th Annual International Conference on Mobile Computing and Networking) (26/326(8%))
+### [Mobicom 2004](https://www.sigmobile.org/mobicom/2004/) (26/326(8%))
 
 #### Best Student Paper Award
 
@@ -293,7 +354,7 @@ Han Cai and [Do Young Eun](https://people.engr.ncsu.edu/dyeun/) (North Carolina 
 
 
 
-### [Mobicom 2003](https://www.sigmobile.org/mobicom/2003/) (the 9th Annual International Conference on Mobile Computing and Networking) (27/281(10%))
+### [Mobicom 2003](https://www.sigmobile.org/mobicom/2003/) (27/281(10%))
 
 #### Best Student Paper Award
 
@@ -304,7 +365,7 @@ Han Cai and [Do Young Eun](https://people.engr.ncsu.edu/dyeun/) (North Carolina 
 
 
 
-### [Mobicom 2002](https://www.sigmobile.org/mobicom/2002/) (the 8th Annual International Conference on Mobile Computing and Networking) (26/364(7%))
+### [Mobicom 2002](https://www.sigmobile.org/mobicom/2002/) (26/364(7%))
 
 #### Best Student Paper Award
 
@@ -316,7 +377,7 @@ Han Cai and [Do Young Eun](https://people.engr.ncsu.edu/dyeun/) (North Carolina 
 
 
 
-### [Mobicom 2001](https://www.sigmobile.org/mobicom/2001/) (the 7th Annual International Conference on Mobile Computing and Networking) (30/281(11%))
+### [Mobicom 2001](https://www.sigmobile.org/mobicom/2001/) (30/281(11%))
 
 #### Best Student Paper Award
 
@@ -327,7 +388,7 @@ Seapahn Meguerdichian (University of California, Los Angeles), [Farinaz Koushanf
 
 
 
-### [Mobicom 2000](https://www.sigmobile.org/mobicom/2000/) (the 6th Annual International Conference on Mobile Computing and Networking) (28/226(12%))
+### [Mobicom 2000](https://www.sigmobile.org/mobicom/2000/) (28/226(12%))
 
 #### Best Student Paper Award
 
@@ -339,7 +400,7 @@ Jeremy Lilley, Jason Yang, [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/) 
 
 
 
-### [Mobicom 1999](https://www.sigmobile.org/mobicom/1999/) (the 5th Annual International Conference on Mobile Computing and Networking) (28/170(16%))
+### [Mobicom 1999](https://www.sigmobile.org/mobicom/1999/) (28/170(16%))
 
 #### Best Student Paper Award
 
@@ -351,7 +412,7 @@ Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) 
 
 
 
-### [Mobicom 1998](https://www.sigmobile.org/mobicom/1998/) (the 4th Annual International Conference on Mobile Computing and Networking) (27/147(18%))
+### [Mobicom 1998](https://www.sigmobile.org/mobicom/1998/) (27/147(18%))
 
 #### Best Student Paper Award
 
@@ -362,7 +423,7 @@ Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) 
 
 
 
-### [Mobicom 1997](https://www.sigmobile.org/mobicom/1997/) (the 3rd Annual International Conference on Mobile Computing and Networking) (26/101(26%))
+### [Mobicom 1997](https://www.sigmobile.org/mobicom/1997/) (26/101(26%))
 
 #### Best Student Paper Award
 
@@ -373,7 +434,7 @@ Amiya Bhattacharya and [Sajal K. Das](https://sites.google.com/a/mst.edu/sdas/) 
 
 
 
-### [Mobicom 1996](https://www.sigmobile.org/mobicom/1996/) (the 2nd Annual International Conference on Mobile Computing and Networking) (18/90(20%))
+### [Mobicom 1996](https://www.sigmobile.org/mobicom/1996/) (18/90(20%))
 
 #### Best Student Paper Award
 
@@ -386,7 +447,7 @@ Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea Universi
 
 
 
-### [Mobicom 1995](https://www.sigmobile.org/mobicom/1995/) (the 1st Annual International Conference on Mobile Computing and Networking) (20/79(25%))
+### [Mobicom 1995](https://www.sigmobile.org/mobicom/1995/) (20/79(25%))
 
 #### Best Student Paper Award
 
