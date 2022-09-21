@@ -15,14 +15,16 @@
 **Contents By Conference**: [MobiCom](#1), [SIGCOMM](#2), [INFOCOM](#3), [NSDI](#4), [CCS](#5), [ACL](#6)
 
 
-
 ----------
 
-## [<h1 id="1">MobiCom</h1>](https://www.sigmobile.org/mobicom/)(the Annual International Conference on Mobile Computing and Networking)
+<details>
+<summary> <h1 id="1">MobiCom (the Annual International Conference on Mobile Computing and Networking) </h1> </summary>
 
-The Annual International Conference on Mobile Computing and Networking (MobiCom) has been held every year since 1995. The conference serves as the premier international forum addressing networks, systems, algorithms, and applications that support the symbiosis of mobile computers and wireless networks. The conference covers all areas of mobile computing and mobile and wireless networking.
 
-MobiCom conferences have been held in locations around the world:
+**The Annual International Conference on Mobile Computing and Networking** ([MobiCom](https://www.sigmobile.org/mobicom/)) has been held every year since 1995. The conference serves as the premier international forum addressing networks, systems, algorithms, and applications that support the symbiosis of mobile computers and wireless networks. The conference covers all areas of mobile computing and mobile and wireless networking.
+
+<details>
+<summary><big> <b> MobiCom conferences have been held in locations around the world:</b> </big> </summary>
 
 - 28. [MobiCom 2022](https://www.sigmobile.org/mobicom/2022/), Sydney, Australia, October 17-21, 2022
 - 27. [MobiCom 2021](https://www.sigmobile.org/mobicom/2021/), New Orleans, Louisiana, USA, September 21-25, 2021
@@ -53,6 +55,7 @@ MobiCom conferences have been held in locations around the world:
 - 2. [MobiCom 1996](https://www.sigmobile.org/mobicom/1996/), Rye, New York, USA, 10-12 November 1996
 - 1. [MobiCom 1995](https://www.sigmobile.org/mobicom/1995/), Berkeley, California, USA, 13-15 November 1995
 
+</details>
 
 
 
@@ -73,7 +76,13 @@ MobiCom conferences have been held in locations around the world:
 [Inhee Lee](https://engineering.pitt.edu/people/faculty/in-hee-lee/) (University of Pittsburgh); Roger Hsiao, Gordy Carichner, Chin-Wei Hsu, Mingyu Yang, Sara Shoouri, Katherine Ernst, and Tess Carichner (University of Michigan); Yuyang Li (University of Pittsburgh); Jaechan Lim (University of Michigan); Cole R. Julick (University of Nebraska-Lincoln); Eunseong Moon and Yi Sun (University of Michigan); Jamie Phillips (University of Delaware); Kristi L. Montooth (University of Nebraska-Lincoln); Delbert A. Green II, Hun-Seok Kim, and [David Blaauw](https://blaauw.engin.umich.edu/) (University of Michigan)
 
 
-**Abstract:** Each fall, millions of monarch butterflies across the northern US and Canada migrate up to 4,000 km to overwinter in the exact same cluster of mountain peaks in central Mexico. To track monarchs precisely and study their navigation, a monarch tracker must obtain daily localization of the butterfly as it progresses on its 3-month journey. And, the tracker must perform this task while having a weight in the tens of milligram (mg) and measuring a few millimeters (mm) in size to avoid interfering with monarch's flight. This paper proposes mSAIL, 8 × 8 × 2.6 mm and 62 mg embedded system for monarch migration tracking, constructed using 8 prior custom-designed ICs providing solar energy harvesting, an ultra-low power processor, light/temperature sensors, power management, and a wireless transceiver, all integrated and 3D stacked on a micro PCB with an 8 × 8 mm printed antenna. The proposed system is designed to record and compress light and temperature data during the migration path while harvesting solar energy for energy autonomy, and wirelessly transmit the data at the overwintering site in Mexico, from which the daily location of the butterfly can be estimated using a deep learning-based localization algorithm. A 2-day trial experiment of mSAIL attached on a live butterfly in an outdoor botanical garden demonstrates the feasibility of individual butterfly localization and tracking.
+<details>
+<summary><b>Abstract:</b></summary>
+
+ Each fall, millions of monarch butterflies across the northern US and Canada migrate up to 4,000 km to overwinter in the exact same cluster of mountain peaks in central Mexico. To track monarchs precisely and study their navigation, a monarch tracker must obtain daily localization of the butterfly as it progresses on its 3-month journey. And, the tracker must perform this task while having a weight in the tens of milligram (mg) and measuring a few millimeters (mm) in size to avoid interfering with monarch's flight. This paper proposes mSAIL, 8 × 8 × 2.6 mm and 62 mg embedded system for monarch migration tracking, constructed using 8 prior custom-designed ICs providing solar energy harvesting, an ultra-low power processor, light/temperature sensors, power management, and a wireless transceiver, all integrated and 3D stacked on a micro PCB with an 8 × 8 mm printed antenna. The proposed system is designed to record and compress light and temperature data during the migration path while harvesting solar energy for energy autonomy, and wirelessly transmit the data at the overwintering site in Mexico, from which the daily location of the butterfly can be estimated using a deep learning-based localization algorithm. A 2-day trial experiment of mSAIL attached on a live butterfly in an outdoor botanical garden demonstrates the feasibility of individual butterfly localization and tracking.
+
+</details>
+
 
 
 #### Best Community Paper Award
@@ -81,8 +90,12 @@ MobiCom conferences have been held in locations around the world:
 ***[Experience: developing a usable battery drain testing and diagnostic tool for the mobile industry](https://dl.acm.org/doi/10.1145/3447993.3483269)*** [Slides] [[Video](https://youtu.be/ZCD_kvxHb40)]    
 Abhilash Jindal (IIT Delhi and Mobile Enerlytics); [Y. Charlie Hu](https://engineering.purdue.edu/~ychu/) (Purdue University and Mobile Enerlytics)
 
-**Abstract:** In this paper, we report on our 6-year experience developing Eagle Tester (eTester for short) - a mobile battery drain testing and diagnostic tool. We show how eTester evolved from an "academic" prototype to a fully automated tool usable by the mobile industry.
+<details>
+<summary><b>Abstract:</b></summary>
+
+In this paper, we report on our 6-year experience developing Eagle Tester (eTester for short) - a mobile battery drain testing and diagnostic tool. We show how eTester evolved from an "academic" prototype to a fully automated tool usable by the mobile industry.
 We first present the design of our initial research prototype and discuss 8 key requirements for a usable battery drain testing and diagnostic tool gathered from some of the most popular software vendors in the Android ecosystem. These requirements posed interesting scientific and engineering challenges such as how to accurately estimate battery drain without requiring a priori power modeling, work on unmodified devices, and automatically monitor code evolution to generate high-fidelity battery spike alerts with actionable insights. These requirements motivated a complete overhaul of the eTester design and led to the creation of a novel battery drain testing methodology. We show how the redesigned eTester was used to effortlessly find battery bugs in some of the most popular Android apps with hundreds of millions of users, such as Netflix and CNN. We are open-sourcing eTester to encourage further research in battery diagnosis and to empower developers to write battery-efficient mobile software.
+</details>
 
 
 
@@ -96,7 +109,12 @@ We first present the design of our initial research prototype and discuss 8 key 
 ***[Hummingbird: Energy Efficient GPS Receiver for Small Satellites](https://dl.acm.org/doi/pdf/10.1145/3372224.3380886)*** [Slides] [[Video](https://youtu.be/gwUB-tchXFg)]     
 Sujay Narayana, R Venkatesha Prasad, [Vijay S Rao](https://www.st.ewi.tudelft.nl/vijay/) (TU Delft); [Luca Mottola](https://mottola.faculty.polimi.it/) (Politecnico di Milano, Italy and RI.SE SICS Sweden); T Venkata Prabhakar (IISc, India)
 
-**Abstract:** Global Positioning System is a widely adopted localization technique. With the increasing demand for small satellites, the need for a low-power GPS for satellites is also increasing. To enable many state-of-the-art applications, the exact position of the satellites is necessary. However, building low-power GPS receivers which operate in low earth orbit pose significant challenges. This is mainly due to the high speed (~7.8km/s) of small satellites. While duty-cycling the receiver is a possible solution, the high relative Doppler shift between the GPS satellites and the small satellite contributes to the increase in Time To First Fix (TTFF), thus increasing the energy consumption. Further, if the GPS receiver is tumbling along with the small satellite on which it is mounted, longer TTFF may lead to no GPS fix due to disorientation of the receiver antenna. In this paper, we elucidate the design of a low-cost, low-power GPS receiver for small satellite applications. We also propose an energy optimization algorithm called F3 to improve the TTFF which is the main contributor to the energy consumption during cold start. With simulations and in-orbit evaluation from a launched nanosatellite with our μGPS and high-end GPS simulators, we show that up to 96.16% of energy savings (consuming only ~ 1/25th energy compared to the state of the art) can be achieved using our algorithm without compromising much (~10m) on the navigation accuracy. The TTFF achieved is at most 33s.
+<details>
+<summary><b>Abstract:</b></summary>
+
+Global Positioning System is a widely adopted localization technique. With the increasing demand for small satellites, the need for a low-power GPS for satellites is also increasing. To enable many state-of-the-art applications, the exact position of the satellites is necessary. However, building low-power GPS receivers which operate in low earth orbit pose significant challenges. This is mainly due to the high speed (~7.8km/s) of small satellites. While duty-cycling the receiver is a possible solution, the high relative Doppler shift between the GPS satellites and the small satellite contributes to the increase in Time To First Fix (TTFF), thus increasing the energy consumption. Further, if the GPS receiver is tumbling along with the small satellite on which it is mounted, longer TTFF may lead to no GPS fix due to disorientation of the receiver antenna. In this paper, we elucidate the design of a low-cost, low-power GPS receiver for small satellite applications. We also propose an energy optimization algorithm called F3 to improve the TTFF which is the main contributor to the energy consumption during cold start. With simulations and in-orbit evaluation from a launched nanosatellite with our μGPS and high-end GPS simulators, we show that up to 96.16% of energy savings (consuming only ~ 1/25th energy compared to the state of the art) can be achieved using our algorithm without compromising much (~10m) on the navigation accuracy. The TTFF achieved is at most 33s.
+
+</details>
 
 
 
@@ -104,7 +122,12 @@ Sujay Narayana, R Venkatesha Prasad, [Vijay S Rao](https://www.st.ewi.tudelft.nl
 ***[M-Cube: A Millimeter-Wave Massive MIMO Software Radiov](https://dl.acm.org/doi/pdf/10.1145/3372224.3380892)*** [[Slides](https://renjiezhao.github.io/files/MCube_slides_20min.pptx)] [[Video](https://youtu.be/NRooJM1UK3s)] [[Web](http://m3.ucsd.edu/)]    
 [Renjie Zhao](https://renjiezhao.github.io/), Timothy Woodford, Teng Wei, [Kun Qian](https://kunqian.info/), [Xinyu Zhang](http://xyzhang.ucsd.edu/) (University of California San Diego)
 
+<details>
+<summary><b>Abstract:</b></summary>
+
 **Abstract:** Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wireless network infrastructure, and for RF sensing systems in security, health, and automotive domains. Through a MIMO array of phased arrays with hundreds of antenna elements, mmWave can boost wireless bit-rate to 100+~Gbps, and potentially achieve near-vision sensing resolution. However, lack of an experimental platform has been impeding research in this field. This paper fills the gap with M^3M (M-Cube), the first mmWave massive MIMO software radio. M^3M features a fully reconfigurable array of phased arrays, with up to 8 RF chains and 288 antenna elements. Despite the orders of magnitude larger antenna arrays, its cost is orders of magnitude lower, even when compared with state-of-the-art single RF chain mmWave software radios. The key design principle behind M^3M is to hijack a low-cost commodity 802.11ad radio, separate the control path and data path inside, regenerate the phased array control signals, and recreate the data signals using a programmable baseband. Extensive experiments have demonstrated the effectiveness of the M^3M design, and its usefulness for research in mmWave massive MIMO communication and sensing.
+
+</details>
 
 
 
@@ -113,10 +136,12 @@ Sujay Narayana, R Venkatesha Prasad, [Vijay S Rao](https://www.st.ewi.tudelft.nl
 ***[Sniffing Visible Light Communication Through Walls](https://dl.acm.org/doi/pdf/10.1145/3372224.3419187)*** [Slides] [[Video](https://youtu.be/Sb5lP046uPU)]     
 [Minhao Cui](https://people.cs.umass.edu/~minhaocui/), Yuda Feng (University of Massachusetts Amherst); [Qing Wang](https://www.st.ewi.tudelft.nl/qing/) (Delft University of Technology); [Jie Xiong](https://people.cs.umass.edu/~jxiong/pub.html) (University of Massachusetts Amherst)
 
+<details>
+<summary><b>Abstract:</b></summary>
 
-**Abstract:** Visible light communication (VLC) is gaining a significant amount of interest as a new paradigm to meet rapidly increasing demands on wireless capacity required by a digitalized world. VLC is considered as a secure wireless communication scheme because VLC signals can be easily constrained within physical boundaries. In this paper, for the first time, we show that VLC is not as secure as people thought: VLC can be sniffed through walls! The key principle behind this is that in VLC transmissions, a VLC transmitter not only emits visible light signals but also leaks out 'side channel RF signals'. The leaked RF signals can be sniffed by a receiver to decode the VLC transmissions even the receiver is blocked (e.g., by walls) from the VLC transmitter. In this work, we establish a theoretical model to quantify the amplitude of the leaked RF signal and verify the model with comprehensive experiments. We design and implement a VLC sniffing system including receiver coil design, signal processing and frame decoding, spanning across hardware and software. Field studies show that with a cheap receiver design, our system can simultaneously sniff transmissions from multiple VLC transmitters 6.4 meters away with a 14 cm concrete wall in between, where the distance exceeds the communication range of most state-of-the-art VLC systems. By simply twining a wired earphone on the arm, we can sniff the VLC transmission 1.9 meters away.
+Visible light communication (VLC) is gaining a significant amount of interest as a new paradigm to meet rapidly increasing demands on wireless capacity required by a digitalized world. VLC is considered as a secure wireless communication scheme because VLC signals can be easily constrained within physical boundaries. In this paper, for the first time, we show that VLC is not as secure as people thought: VLC can be sniffed through walls! The key principle behind this is that in VLC transmissions, a VLC transmitter not only emits visible light signals but also leaks out 'side channel RF signals'. The leaked RF signals can be sniffed by a receiver to decode the VLC transmissions even the receiver is blocked (e.g., by walls) from the VLC transmitter. In this work, we establish a theoretical model to quantify the amplitude of the leaked RF signal and verify the model with comprehensive experiments. We design and implement a VLC sniffing system including receiver coil design, signal processing and frame decoding, spanning across hardware and software. Field studies show that with a cheap receiver design, our system can simultaneously sniff transmissions from multiple VLC transmitters 6.4 meters away with a 14 cm concrete wall in between, where the distance exceeds the communication range of most state-of-the-art VLC systems. By simply twining a wired earphone on the arm, we can sniff the VLC transmission 1.9 meters away.
 
-
+</details>
 
 
 
@@ -456,15 +481,22 @@ Mikael Degermark, Mathias Engan, Bjorn Nordgren and Stephen Pink (Lulea Universi
 [Hari Balakrishnan](http://nms.csail.mit.edu/~hari/), Srinivasan Seshan, Elan Amir and [Randy H. Katz](http://bnrg.eecs.berkeley.edu/~randy/) (University of California, Berkeley, USA)
 
 
+</details>
+
 
 ----------
-## [<h1 id="2">SIGCOMM</h1>](http://sigcomm.org/events/sigcomm-conference) (the Annual Conference of the Special Interest Group on Data Communication) 
 
 
-SIGCOMM is the flagship annual conference of the Special Interest Group on Data Communication (SIGCOMM), a vital special interest group of the Association for Computing Machinery (ACM).
+
+<details>
+<summary><h1 id="2">SIGCOMM (the Annual Conference of the Special Interest Group on Data Communication) </h1> </summary>
 
 
-### Previous SIGCOMM Conferences
+[SIGCOMM](http://sigcomm.org/events/sigcomm-conference) is the flagship **annual conference of the Special Interest Group on Data Communication** (SIGCOMM), a vital special interest group of the Association for Computing Machinery (ACM).
+
+
+<details>
+<summary><big> <b> Previous SIGCOMM Conferences:</b> </big></summary>
 
 - [SIGCOMM 2022](http://conferences.sigcomm.org/sigcomm/2022/) in Amsterdam, Netherlands. August 22-26, 2022.
 - [SIGCOMM 2021](http://conferences.sigcomm.org/sigcomm/2021/) in Virtual Event, New York. August 23-27, 2021.
@@ -503,6 +535,7 @@ SIGCOMM is the flagship annual conference of the Special Interest Group on Data 
 - [SIGCOMM 1988](https://dblp.uni-trier.de/db/conf/sigcomm/sigcomm1988.html) in Stanford, CA, USA. August 16-18, 1988. 
 - [SIGCOMM 1987](http://ccr.sigcomm.org/archive/ccr-toc/ccr-toc-87.html) Workshop
 
+</details>
 
 ### Recent SIGCOMM Best Paper Award Winners
 http://www.sigcomm.org/awards/best-paper-award
@@ -679,14 +712,19 @@ Paramvir Bahl, Ranveer Chandra, Thomas Moscibroda, Rohan Murthy, and Matt Welsh
 [Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) and Dina Katabi
 
 
+</details>
 
-<h1 id="3">
+
 ----------
 
 
-## [<h1 id="3">INFOCOM</h1>](https://infocom2021.ieee-infocom.org/about) (IEEE International Conference on Computer Communications)
 
-IEEE INFOCOM is a top ranked conference on networking in the research community. It is a major conference venue for researchers to present and exchange significant and innovative contributions and ideas in the field of networking and closely related areas. IEEE INFOCOM covers both theoretical and systems research. 
+<details>
+<summary> <h1 id="3">INFOCOM (IEEE International Conference on Computer Communications) </h1> </summary>
+
+
+
+IEEE [INFOCOM](https://infocom2021.ieee-infocom.org/about) is a top ranked conference on networking in the research community. It is a major conference venue for researchers to present and exchange significant and innovative contributions and ideas in the field of networking and closely related areas. IEEE INFOCOM covers both theoretical and systems research. 
 
 
 ### Past Conferences:
@@ -896,7 +934,7 @@ Michal Segalov (Google, Israel)
 Minghong Lin (California Institute of Technology), [Adam Wierman](http://users.cms.caltech.edu/~adamw/) (California Institute of Technology), Lachlan L. H. Andrew (Swinburne University of Technology), [Eno Thereska](https://enothereska.wordpress.com/) (Microsoft Research)
 
 
-
+</details>
 
 
 
@@ -906,11 +944,11 @@ Minghong Lin (California Institute of Technology), [Adam Wierman](http://users.c
 ----------
 
 
+<details>
+<summary> <h1 id="4">NSDI (USENIX Symposium on Networked Systems Design and Implementation)</h1> </summary>
 
 
-## [<h1 id="4">NSDI</h1>](https://www.usenix.org/conference/nsdi20) (USENIX Symposium on Networked Systems Design and Implementation)
-
-NSDI focuses on the design principles, implementation, and practical evaluation of networked and distributed systems. Our goal is to bring together researchers from across the networking and systems community to foster a broad approach to addressing overlapping research challenges.
+[NSDI](https://www.usenix.org/conference/nsdi20) focuses on the design principles, implementation, and practical evaluation of networked and distributed systems. Our goal is to bring together researchers from across the networking and systems community to foster a broad approach to addressing overlapping research challenges.
 
 
 ### PAST NSDI SYMPOSIA:
@@ -1043,15 +1081,23 @@ Matthew P. Grosvenor, University of Cambridge; Malte Schwarzkopf, University of 
 
 
 
+</details>
+
+
 
 
 
 ----------
 
 
-## [<h1 id="5">CCS</h1>](https://sigsac.org/ccs.html)(ACM Conference on Computer and Communications Security)
 
-The ACM Conference on Computer and Communications Security (CCS) is the flagship annual conference of the Special Interest Group on Security, Audit and Control (SIGSAC) of the Association for Computing Machinery (ACM).
+<details>
+<summary> <h1 id="5">CCS (ACM Conference on Computer and Communications Security)</h1> </summary>
+
+
+
+
+**The ACM Conference on Computer and Communications Security** ([CCS](https://sigsac.org/ccs.html)) is the flagship annual conference of the Special Interest Group on Security, Audit and Control (SIGSAC) of the Association for Computing Machinery (ACM).
 
 
 ### Previous CCS Conferences
@@ -1140,10 +1186,21 @@ In this paper, we propose a new framework called V-Shuttle to conduct hypervisor
 
 
 
-----------
-## [<h1 id="6">ACL</h1>](https://aclweb.org/portal/acl) (Annual Meeting of the Association for Computational Linguistics)
 
-## ACL 
+</details>
+
+
+
+
+----------
+
+<details>
+<summary> <h1 id="6">ACL (Annual Meeting of the Association for Computational Linguistics)</h1> </summary>
+
+
+**The Association for Computational Linguistics** ([ACL](https://aclweb.org/portal/acl)) is the premier international scientific and professional society for people working on computational problems involving human language, a field often referred to as either computational linguistics or natural language processing (NLP). The association was founded in 1962, originally named the Association for Machine Translation and Computational Linguistics (AMTCL), and became the ACL in 1968. Activities of the ACL include the holding of an annual meeting each summer and the sponsoring of the journal Computational Linguistics, published by MIT Press; this conference and journal are the leading publications of the field. For more information, see: [https://www.aclweb.org/](https://www.aclweb.org/). 
+
+
 
 ### ACL 2018 (56th Annual Meeting of the Association for Computational Linguistics) Best Papers
 
@@ -1158,5 +1215,11 @@ In this paper, we propose a new framework called V-Shuttle to conduct hypervisor
 
 - ***[Know What You Don’t Know: Unanswerable Questions for SQuAD.](http://aclweb.org/anthology/P18-2124)*** Pranav Rajpurkar, Robin Jia and Percy Liang
 - ***[‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions.](https://aclweb.org/anthology/P18-2125)*** Olivia Winn and Smaranda Muresan
+
+
+
+</details>
+
+
 
 ----------
