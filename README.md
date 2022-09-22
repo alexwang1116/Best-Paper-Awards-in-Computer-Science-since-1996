@@ -125,7 +125,7 @@ Global Positioning System is a widely adopted localization technique. With the i
 <details>
 <summary><b>Abstract:</b></summary>
 
-**Abstract:** Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wireless network infrastructure, and for RF sensing systems in security, health, and automotive domains. Through a MIMO array of phased arrays with hundreds of antenna elements, mmWave can boost wireless bit-rate to 100+~Gbps, and potentially achieve near-vision sensing resolution. However, lack of an experimental platform has been impeding research in this field. This paper fills the gap with M^3M (M-Cube), the first mmWave massive MIMO software radio. M^3M features a fully reconfigurable array of phased arrays, with up to 8 RF chains and 288 antenna elements. Despite the orders of magnitude larger antenna arrays, its cost is orders of magnitude lower, even when compared with state-of-the-art single RF chain mmWave software radios. The key design principle behind M^3M is to hijack a low-cost commodity 802.11ad radio, separate the control path and data path inside, regenerate the phased array control signals, and recreate the data signals using a programmable baseband. Extensive experiments have demonstrated the effectiveness of the M^3M design, and its usefulness for research in mmWave massive MIMO communication and sensing.
+Millimeter-wave (mmWave) technologies represent a cornerstone for emerging wireless network infrastructure, and for RF sensing systems in security, health, and automotive domains. Through a MIMO array of phased arrays with hundreds of antenna elements, mmWave can boost wireless bit-rate to 100+~Gbps, and potentially achieve near-vision sensing resolution. However, lack of an experimental platform has been impeding research in this field. This paper fills the gap with M^3M (M-Cube), the first mmWave massive MIMO software radio. M^3M features a fully reconfigurable array of phased arrays, with up to 8 RF chains and 288 antenna elements. Despite the orders of magnitude larger antenna arrays, its cost is orders of magnitude lower, even when compared with state-of-the-art single RF chain mmWave software radios. The key design principle behind M^3M is to hijack a low-cost commodity 802.11ad radio, separate the control path and data path inside, regenerate the phased array control signals, and recreate the data signals using a programmable baseband. Extensive experiments have demonstrated the effectiveness of the M^3M design, and its usefulness for research in mmWave massive MIMO communication and sensing.
 
 </details>
 
@@ -548,9 +548,11 @@ http://www.sigcomm.org/awards/best-paper-award
 [***Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim***](https://dl.acm.org/doi/pdf/10.1145/3544216.3544244)  [[Slides](https://amyworkspace.github.io/hxchen/files/sigcomm22-nassim-slide.pdf)] [[Video](https://www.youtube.com/watch?v=9wmZFbLiDC0&list=PLU4C2_kotFP2rg92oGchLFN0Y7F3liFio&index=19)] [[Dataset](https://github.com/AmyWorkspace/nassim)]     
 [Huangxun Chen](https://amyworkspace.github.io/hxchen/) (Huawei Theory Lab), Yukai Miao (University of New South Wales), Li Chen (Zhongguancun Laboratory), Haifeng Sun (Beijing University of Posts and Telecommunications), Hong Xu (The Chinese University of Hong Kong), Libin Liu (Shandong Computer Science Center), Gong Zhang (Huawei Theory Lab), Wei Wang (HKUST(Guangzhou))
 
+<details>
+<summary><b>Abstract:</b></summary>
 
-**Abstract:** On-boarding new devices into an existing SDN network is a pain for network operations (NetOps) teams, because much expert effort is required to bridge the gap between the configuration models of the new devices and the unified data model in the SDN controller. In this work, we present an assistant framework NAssim, to help NetOps accelerate the process of assimilating a new device into a SDN network. Our solution features a unified parser framework to parse diverse device user manuals into preliminary configuration models, a rigorous validator that confirm the correctness of the models via formal syntax analysis, model hierarchy validation and empirical data validation, and a deep-learning-based mapping algorithm that uses state-of-the-art neural language processing techniques to produce human-comprehensible recommended mapping between the validated configuration model and the one in the SDN controller. In all, NAssim liberates the NetOps from most tedious tasks by learning directly from devices' manuals to produce data models which are comprehensible by both the SDN controller and human experts. Our evaluation shows, NAssim can accelerate the assimilation process by 9.1x. In this process, we also identify and correct 243 errors in four mainstream vendors' device manuals, and release a validated and expert-curated dataset of parsed manual corpus for future research.
-
+On-boarding new devices into an existing SDN network is a pain for network operations (NetOps) teams, because much expert effort is required to bridge the gap between the configuration models of the new devices and the unified data model in the SDN controller. In this work, we present an assistant framework NAssim, to help NetOps accelerate the process of assimilating a new device into a SDN network. Our solution features a unified parser framework to parse diverse device user manuals into preliminary configuration models, a rigorous validator that confirm the correctness of the models via formal syntax analysis, model hierarchy validation and empirical data validation, and a deep-learning-based mapping algorithm that uses state-of-the-art neural language processing techniques to produce human-comprehensible recommended mapping between the validated configuration model and the one in the SDN controller. In all, NAssim liberates the NetOps from most tedious tasks by learning directly from devices' manuals to produce data models which are comprehensible by both the SDN controller and human experts. Our evaluation shows, NAssim can accelerate the assimilation process by 9.1x. In this process, we also identify and correct 243 errors in four mainstream vendors' device manuals, and release a validated and expert-curated dataset of parsed manual corpus for future research.
+</details>
 
 ### [SIGCOMM 2021](http://conferences.sigcomm.org/sigcomm/2021/)
 
@@ -559,11 +561,13 @@ http://www.sigcomm.org/awards/best-paper-award
 ***[Seven Years in the Life of Hypergiants’ Off-Nets](https://conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472928.pdf)*** [[Slides](https://pgigis.github.io/hypergiants-offnets/data/pdf/seven_years_in_the_life_of_hypergiants_offnets_slides.pdf)] [[Web](https://pgigis.github.io/hypergiants-offnets/)] [Video] [[Code](https://github.com/pgigis/sigcomm2021-hypergiants-offnets)] [[Dataset](https://github.com/pgigis/sigcomm2021-hypergiants-offnets/tree/main/datasets#readme)]      
 [Petros Gigis](https://www.homepages.ucl.ac.uk/~ucabpgk/) (UCL), Matt Calder (Microsoft; Columbia University), Lefteris Manassakis (FORTH-ICS), George Nomikos  (FORTH-ICS; Lancaster University), Vasileios Kotronis (FORTH-ICS), Xenofontas Dimitropoulos (FORTH-ICS; University of Crete), Ethan Katz-Bassett (Columbia University),  [Georgios Smaragdakis](https://gsmaragd.github.io/index.html) (TU Delft)
 
+<details>
+<summary><b>Abstract:</b></summary>
 
-**Abstract:** Content Hypergiants deliver the vast majority of Internet traffic to end users. In recent years, some have invested heavily in deploying services and servers inside end-user networks. With several dozen Hypergiants and thousands of servers deployed inside networks, these off-net (meaning outside the Hypergiant networks) deployments change the structure of the Internet. Previous efforts to study them have relied on proprietary data or specialized per-Hypergiant measurement techniques that neither scale nor generalize, providing a limited view of content delivery on today’s Internet.
+Content Hypergiants deliver the vast majority of Internet traffic to end users. In recent years, some have invested heavily in deploying services and servers inside end-user networks. With several dozen Hypergiants and thousands of servers deployed inside networks, these off-net (meaning outside the Hypergiant networks) deployments change the structure of the Internet. Previous efforts to study them have relied on proprietary data or specialized per-Hypergiant measurement techniques that neither scale nor generalize, providing a limited view of content delivery on today’s Internet.
 
 In this paper, we develop a generic and easy to implement methodology to measure the expansion of Hypergiants’ off-nets. Our key observation is that Hypergiants increasingly encrypt their traffic to protect their customers’ privacy. Thus, we can analyze publicly available Internet-wide scans of port 443 and retrieve TLS certificates to discover which IP addresses host Hypergiant certificates in order to infer the networks hosting off-nets for the corresponding Hypergiants. Our results show that the number of networks hosting Hypergiant off-nets has tripled from 2013 to 2021, reaching 4.5k networks. The largest Hypergiants dominate these deployments, with almost all of these networks hosting an off-net for at least one — and increasingly two or more — of Google, Netflix, Facebook, or Akamai. These four Hypergiants have off-nets within networks that provide access to a significant fraction of end user population.
-
+</details>
 
 
 ### [SIGCOMM 2020](http://conferences.sigcomm.org/sigcomm/2020/)
@@ -951,64 +955,125 @@ Minghong Lin (California Institute of Technology), [Adam Wierman](http://users.c
 [NSDI](https://www.usenix.org/conference/nsdi20) focuses on the design principles, implementation, and practical evaluation of networked and distributed systems. Our goal is to bring together researchers from across the networking and systems community to foster a broad approach to addressing overlapping research challenges.
 
 
-### PAST NSDI SYMPOSIA:
+
+<details>
+<summary><big> <b> PAST NSDI SYMPOSIA:</b> </big> </summary>
+
+
+- [2022 19th NSDI](https://www.usenix.org/conference/nsdi22), April 4, 2022–April 6, 2022 | Renton, WA, United States
+- [2021 18th NSDI](https://www.usenix.org/conference/nsdi21), April 12, 2021–April 14, 2021 | Boston, MA, United States	
+- [2020 17th NSDI](https://www.usenix.org/conference/nsdi20), February 25, 2020–February 27, 2020 | Santa Clara, CA, United States	
+- [2019 16th NSDI](https://www.usenix.org/conference/nsdi19), February 26, 2019–February 28, 2019 | Boston, MA, United States	
+- [2018 15th NSDI](https://www.usenix.org/conference/nsdi18), April 9, 2018–April 11, 2018 | Renton, WA, United States	
+- [2017 14th NSDI](https://www.usenix.org/conference/nsdi17), March 27, 2017–March 29, 2017 | Boston, MA, United States	
+- [2016 13th NSDI](https://www.usenix.org/conference/nsdi16), March 16, 2016–March 18, 2016 | Santa Clara, CA, United States	
+- [2015 12th NSDI](https://www.usenix.org/conference/nsdi15), May 4, 2015–May 6, 2015 | Oakland, CA, United States	
+- [2014 11th NSDI](https://www.usenix.org/conference/nsdi14), April 2, 2014–April 4, 2014 | Seattle, WA, United States	
+- [2013 10th NSDI](https://www.usenix.org/conference/nsdi13), April 2, 2013–April 5, 2013 | Lombard, IL, United States	
+- [2012 9th NSDI](https://www.usenix.org/conference/nsdi12), April 25, 2012–April 27, 2012 | San Jose, CA, United States	
+- [2011 8th NSDI](https://www.usenix.org/legacy/events/nsdi11/), March 30, 2011–April 1, 2011 | Boston, MA, United States	
+- [2010 7th NSDI](https://www.usenix.org/legacy/events/nsdi10/), April 28, 2010–April 30, 2010 | San Jose, CA, United States	
+- [2009 6th NSDI](https://www.usenix.org/legacy/events/nsdi09/), April 22, 2009–April 24, 2009 | Boston, MA , United States	
+- [2008 5th NSDI](https://www.usenix.org/legacy/events/nsdi08/), April 16, 2008–April 18, 2008 | San Francisco, CA, United States
+- [2007 4th NSDI](https://www.usenix.org/legacy/events/nsdi07/), April 11, 2007–April 13, 2007 | Cambridge, MA, United States	
+- [2006 3rd NSDI](https://www.usenix.org/legacy/events/nsdi06/), May 8, 2006–May 10, 2006 | San Jose, CA, United States	
+- [2005 2nd NSDI](https://www.usenix.org/legacy/events/nsdi05/), May 2, 2005–May 4, 2005 | Boston, MA, United States	
+- [2004 1st NSDI](https://www.usenix.org/legacy/events/nsdi04/), March 29, 2004–March 31, 2004 | San Francisco, CA, United States
+
+
+</details>
 
 
 
-- 2022 19th USENIX Symposium on Networked Systems Design and Implementation
-April 4, 2022–April 6, 2022 | Renton, WA, United States
-- 2021 18th USENIX Symposium on Networked Systems Design and Implementation
-	April 12, 2021–April 14, 2021 | Boston, MA, United States	
-- 2020 17th USENIX Symposium on Networked Systems Design and Implementation
-	February 25, 2020–February 27, 2020 | Santa Clara, CA, United States	
-- 2019
-16th USENIX Symposium on Networked Systems Design and Implementation
-	February 26, 2019–February 28, 2019 | Boston, MA, United States	
-- 2018
-15th USENIX Symposium on Networked Systems Design and Implementation
-	April 9, 2018–April 11, 2018 | Renton, WA, United States	
-- 2017
-14th USENIX Symposium on Networked Systems Design and Implementation
-	March 27, 2017–March 29, 2017 | Boston, MA, United States	
-- 2016
-13th USENIX Symposium on Networked Systems Design and Implementation
-	March 16, 2016–March 18, 2016 | Santa Clara, CA, United States	
-- 2015
-12th USENIX Symposium on Networked Systems Design and Implementation
-	May 4, 2015–May 6, 2015 | Oakland, CA, United States	
-- 2014
-11th USENIX Symposium on Networked Systems Design and Implementation
-	April 2, 2014–April 4, 2014 | Seattle, WA, United States	
-- 2013
-10th USENIX Symposium on Networked Systems Design and Implementation
-	April 2, 2013–April 5, 2013 | Lombard, IL, United States	
-- 2012
-9th USENIX Symposium on Networked Systems Design and Implementation
-	April 25, 2012–April 27, 2012 | San Jose, CA, United States	
-- 2011
-8th USENIX Symposium on Networked Systems Design and Implementation
-	March 30, 2011–April 1, 2011 | Boston, MA, United States	
-- 2010
-7th USENIX Symposium on Networked Systems Design and Implementation
-	April 28, 2010–April 30, 2010 | San Jose, CA, United States	
-- 2009
-6th USENIX Symposium on Networked Systems Design and Implementation
-	April 22, 2009–April 24, 2009 | Boston, MA , United States	
-- 2008
-5th USENIX Symposium on Networked Systems Design and Implementation
-	April 16, 2008–April 18, 2008 | San Francisco, CA, United States	
-- 2007
-4th USENIX Symposium on Networked Systems Design & Implementation
-	April 11, 2007–April 13, 2007 | Cambridge, MA, United States	
-- 2006
-3rd Symposium on Networked Systems Design & Implementation
-	May 8, 2006–May 10, 2006 | San Jose, CA, United States	
-- 2005
-2nd Symposium on Networked Systems Design & Implementation
-	May 2, 2005–May 4, 2005 | Boston, MA, United States	
-- 2004
-First Symposium on Networked Systems Design and Implementation
-March 29, 2004–March 31, 2004 | San Francisco, CA, United States
+### Recent NSDI Best Paper Award:
+
+[https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=&title_1=NSDI](https://www.usenix.org/conferences/best-papers?taxonomy_vocabulary_1_tid=&title_1=NSDI)
+
+
+
+### [NSDI '22](https://www.usenix.org/conference/nsdi22)
+
+
+
+
+
+####  Best Paper Award:
+
+
+***[Graham: Synchronizing Clocks by Leveraging Local Clock Properties](https://www.usenix.org/system/files/nsdi22-paper-najafi_1.pdf)***  [Slides] [[Video](https://www.usenix.org/conference/nsdi22/presentation/najafi)]     
+Ali Najafi, Meta; Michael Wei, VMware Research
+
+<details>
+<summary><b>Abstract:</b></summary>
+
+High performance, strongly consistent applications are beginning to require scalable sub-microsecond clock synchronization. State-of-the-art clock synchronization focuses on improving accuracy or frequency of synchronization, ignoring the properties of the local clock: lost of connectivity to the remote clock means synchronization failure.
+
+Our system, Graham, leverages the fact that the local clock still keeps time even when connectivity is lost and builds a failure model using the characteristics of the local clock and the desired synchronization accuracy. Graham characterizes the local clock using commodity sensors present in nearly every server and leverages this data to further improve clock accuracy, increasing the tolerance of Graham to failures. Graham reduces the clock drift of a commodity server by up to 2000×, reducing the maximum assumed drift in most situations from 200ppm to 100ppb.
+
+</details>
+
+
+
+####  Community Award:
+
+***[Learning to Communicate Effectively Between Battery-free Devices](https://www.usenix.org/system/files/nsdi22-paper-geissdoerfer.pdf)***  [[Web](https://bonito.nes-lab.org/#)] [Slides] [[Video](https://www.usenix.org/conference/nsdi22/presentation/geissdoerfer)] [[Code](https://github.com/geissdoerfer/bonito)]     
+Kai Geissdoerfer, TU Dresden; [Marco Zimmerling](https://wwwpub.zih.tu-dresden.de/~mzimmerl/), TU Dresden
+
+<details>
+<summary><b>Abstract:</b></summary>
+
+Successful wireless communication requires that sender and receiver are operational at the same time. This requirement is difficult to satisfy in battery-free networks, where the energy harvested from ambient sources varies across time and space and is often too weak to continuously power the devices. We present Bonito, the first connection protocol for battery-free systems that enables reliable and efficient bi-directional communication between intermittently powered nodes. We collect and analyze real-world energy-harvesting traces from five diverse scenarios involving solar panels and piezoelectric harvesters, and find that the nodes' charging times approximately follow well-known distributions. Bonito learns a model of these distributions online and adapts the nodes' wake-up times so that sender and receiver are operational at the same time, enabling successful communication. Experiments with battery-free prototype nodes built from off-the-shelf hardware components demonstrate that our design improves the average throughput by 10-80× compared with the state of the art.
+
+</details>
+
+
+***[Packet Order Matters! Improving Application Performance by Deliberately Delaying Packets](https://www.usenix.org/system/files/nsdi22-paper-ghasemirahni.pdf)***  [[Slides](https://www.usenix.org/system/files/nsdi22_slides_ghasemirahni.pdf)] [[Video](https://www.usenix.org/conference/nsdi22/presentation/ghasemirahni)]     
+Hamid Ghasemirahni, KTH Royal Institute of Technology; Tom Barbette, KTH Royal Institute of Technology; Georgios P. Katsikas, KTH Royal Institute of Technology; Alireza Farshin, KTH Royal Institute of Technology; Amir Roozbeh, KTH Royal Institute of Technology and Ericsson Research; Massimo Girondi, KTH Royal Institute of Technology; Marco Chiesa, KTH Royal Institute of Technology; Gerald Q. Maguire Jr., KTH Royal Institute of Technology; Dejan Kostić, KTH Royal Institute of Technology
+
+<details>
+<summary><b>Abstract:</b></summary>
+
+Data centers increasingly deploy commodity servers with high-speed network interfaces to enable low-latency communication. However, achieving low latency at high data rates crucially depends on how the incoming traffic interacts with the system's caches. When packets that need to be processed in the same way are consecutive, i.e., exhibit high temporal and spatial locality, caches deliver great benefits.
+
+In this paper, we systematically study the impact of temporal and spatial traffic locality on the performance of commodity servers equipped with high-speed network interfaces. Our results show that (i) the performance of a variety of widely deployed applications degrade substantially with even the slightest lack of traffic locality, and (ii) a traffic trace from our organization reveals poor traffic locality as networking protocols, drivers, and the underlying switching/routing fabric spread packets out in time (reducing locality). To address these issues, we built Reframer, a software solution that deliberately delays packets and reorders them to increase traffic locality. Despite introducing μs-scale delays of some packets, we show that Reframer increases the throughput of a network service chain by up to 84% and reduces the flow completion time of a web server by 11% while improving its throughput by 20%.
+
+</details>
+
+
+
+### [NSDI '21](https://www.usenix.org/conference/nsdi21)
+
+
+
+####  Best Paper Award:
+
+
+***[ATP: In-network Aggregation for Multi-tenant Learning](https://www.usenix.org/system/files/nsdi21-lao.pdf)***  [[Slides](https://www.usenix.org/system/files/nsdi21_slides_lao.pdf)] [[Video](https://www.usenix.org/conference/nsdi21/presentation/lao)]     
+ChonLam Lao, Tsinghua University; Yanfang Le, University of Wisconsin-Madison; Kshiteej Mahajan, University of Wisconsin-Madison; Yixi Chen, Tsinghua University; Wenfei Wu, Tsinghua University; Aditya Akella, University of Wisconsin–Madison; Michael Swift, University of Wisconsin-Madison
+
+<details>
+<summary><b>Abstract:</b></summary>
+
+Distributed deep neural network training (DT) systems are widely deployed in clusters where the network is shared across multiple tenants, i.e., multiple DT jobs. Each DT job computes and aggregates gradients. Recent advances in hardware accelerators have shifted the the performance bottleneck of training from computation to communication. To speed up DT jobs' communication, we propose ATP, a service for in-network aggregation aimed at modern multi-rack, multi-job DT settings. ATP uses emerging programmable switch hardware to support in-network aggregation at multiple rack switches in a cluster to speedup DT jobs. ATP performs decentralized, dynamic, best-effort aggregation, enables efficient and equitable sharing of limited switch resources across simultaneously running DT jobs, and gracefully accommodates heavy contention for switch resources. ATP outperforms existing systems accelerating training throughput by up to 38% - 66% in a cluster shared by multiple DT jobs.
+
+</details>
+
+
+####  Community Award:
+
+
+***[Segcache: a memory-efficient and scalable in-memory key-value cache for small objects](https://www.usenix.org/system/files/nsdi21-yang.pdf)***  [[Slides](https://www.usenix.org/system/files/nsdi21_slides_yang-juncheng.pdf)] [[Video](https://www.usenix.org/conference/nsdi21/presentation/yang-juncheng)]     
+Juncheng Yang, Carnegie Mellon University; Yao Yue, Twitter; Rashmi Vinayak, Carnegie Mellon University
+
+<details>
+<summary><b>Abstract:</b></summary>
+
+Modern web applications heavily rely on in-memory key-value caches to deliver low-latency, high-throughput services. In-memory caches store small objects of size in the range of 10s to 1000s of bytes, and use TTLs widely for data freshness and implicit delete. Current solutions have relatively large per-object metadata and cannot remove expired objects promptly without incurring a high overhead. We present Segcache, which uses a segment-structured design that stores data in fixed-size segments with three key features: (1) it groups objects with similar creation and expiration time into the segments for efficient expiration and eviction, (2) it approximates some and lifts most per-object metadata into the shared segment header and shared information slot in the hash table for object metadata reduction, and (3) it performs segment-level bulk expiration and eviction with tiny critical sections for high scalability. Evaluation using production traces shows that Segcache uses 22-60% less memory than state-of-the-art designs for a variety of workloads. Segcache simultaneously delivers high throughput, up to 40% better than Memcached on a single thread. It exhibits close-to-linear scalability, providing a close to 8× speedup over Memcached with 24 threads.
+
+</details>
+
+
+
 
 
 
